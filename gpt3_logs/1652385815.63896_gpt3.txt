@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: cried ecstatically.  The whole town is desolate. All the cars have the left rear wheel painted black as a mourning wreath, and theres a persistent wail all night along the north shore.  How gorgeous! Lets go back, Tom. Tomorrow! Then she added irrelevantly: You ought to see the baby.  Id like to.  Shes asleep. Shes three years old. Havent you ever seen her?  Never.  Well, you ought to see her. Shes  Tom Buchanan, who had been hovering restlessly about the room, stopped and rested his hand on my shoulder.  What you doing, Nick?  Im a bond man.  Who with?  I told him.  Never heard of them, he remarked decisively.  This annoyed me.  You will, I answered shortly. You will if you stay in the East.  Oh, Ill stay in the East, dont you worry, he said, glancing at Daisy and then back at me, as if he were alert for something more. Id be a God damned fool to live anywhere else.  At this point Miss Baker said: Absolutely! with such suddenness that I startedit was the first word she had uttered since I came into the room. Evidently it surprised her as much as it did me, for she yawned and with a series of rapid, deft movements stood up into the room.  Im stiff, she complained, Ive been lying on that sofa for as long as I can remember.  Dont look at me, Daisy retorted, Ive been trying to get you to New York all afternoon.  No, thanks, said Miss Baker to the four cocktails just in from the pantry. Im absolutely in training.  Her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a scene in which the characters are discussing a trip to New York. Miss Baker says she is in training and does not want any cocktails.

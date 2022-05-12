@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sensibilities of those East Eggers who might be on the train.  She had changed her dress to a brown figured muslin, which stretched tight over her rather wide hips as Tom helped her to the platform in New York. At the newsstand she bought a copy of Town Tattle and a moving-picture magazine, and in the station drugstore some cold cream and a small flask of perfume. Upstairs, in the solemn echoing drive she let four taxicabs drive away before she selected a new one, lavender-coloured with grey upholstery, and in this we slid out from the mass of the station into the glowing sunshine. But immediately she turned sharply from the window and, leaning forward, tapped on the front glass.  I want to get one of those dogs, she said earnestly. I want to get one for the apartment. Theyre nice to havea dog.  We backed up to a grey old man who bore an absurd resemblance to John D. Rockefeller. In a basket swung from his neck cowered a dozen very recent puppies of an indeterminate breed.  What kind are they? asked Mrs. Wilson eagerly, as he came to the taxi-window.  All kinds. What kind do you want, lady?  Id like to get one of those police dogs; I dont suppose you got that kind?  The man peered doubtfully into the basket, plunged in his hand and drew one up, wriggling, by the back of the neck.  Thats no police dog, said Tom.  No, its not exactly a police dog, said the man with disappointment in his voice. Its more of an Airedale. He passed his hand over the brown
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mrs. Wilson changes her dress and buys a few things before getting into a taxi. She tells the driver that she wants to buy a dog, and he takes them to a man selling puppies. They pick out an Airedale.

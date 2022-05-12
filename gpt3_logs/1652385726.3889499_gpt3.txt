@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: his weakened powers, and many hours of repose and tranquil conversation were necessary to restore his composure.  Having conquered the violence of his feelings, he appeared to despise himself for being the slave of passion; and quelling the dark tyranny of despair, he led me again to converse concerning myself personally. He asked me the history of my earlier years. The tale was quickly told, but it awakened various trains of reflection. I spoke of my desire of finding a friend, of my thirst for a more intimate sympathy with a fellow mind than had ever fallen to my lot, and expressed my conviction that a man could boast of little happiness who did not enjoy this blessing.  I agree with you, replied the stranger; we are unfashioned creatures, but half made up, if one wiser, better, dearer than ourselvessuch a friend ought to bedo not lend his aid to perfectionate our weak and faulty natures. I once had a friend, the most noble of human creatures, and am entitled, therefore, to judge respecting friendship. You have hope, and the world before you, and have no cause for despair. But II have lost everything and cannot begin life anew.  As he said this his countenance became expressive of a calm, settled grief that touched me to the heart. But he was silent and presently retired to his cabin.  Even broken in spirit as he is, no one can feel more deeply than he does the beauties of nature. The starry sky, the sea, and every sight afforded by these wonderful regions seem still
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people, in which the stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The stranger then goes on to say that he once had a friend who was the most noble of creatures, but he has since lost everything and feels hopeless. The stranger is moved by the beauty of nature, even though he is broken in spirit.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: perfect symmetry in her form, he was forced to acknowledge her       figure to be light and pleasing; and in spite of his asserting       that her manners were not those of the fashionable world, he was       caught by their easy playfulness. Of this she was perfectly       unaware;to her he was only the man who made himself agreeable       nowhere, and who had not thought her handsome enough to dance       with.        He began to wish to know more of her, and as a step towards       conversing with her himself, attended to her conversation with       others. His doing so drew her notice. It was at Sir William       Lucass, where a large party were assembled.        What does Mr. Darcy mean, said she to Charlotte, by listening       to my conversation with Colonel Forster?        That is a question which Mr. Darcy only can answer.        But if he does it any more I shall certainly let him know that I       see what he is about. He has a very satirical eye, and if I do       not begin by being impertinent myself, I shall soon grow afraid       of him.        On his approaching them soon afterwards, though without seeming       to have any intention of speaking, Miss Lucas defied her friend       to mention such a subject to him, which immediately provoking       Elizabeth to do it, she turned to him and said,        Did not you think, Mr. Darcy, that I expressed myself uncommonly       well just now, when I was teasing Colonel Forster to give us a       ball at
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mr. Darcy begins to take notice of a woman who he previously thought to be uninteresting. He admires her figure and her playful demeanor, and starts to wish he knew more about her. When he overhears her talking to a friend, he is amused by her impertinence and decides to speak to her.

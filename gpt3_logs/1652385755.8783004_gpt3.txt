@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ages of my parents, but this circumstance seemed to unite them only closer in bonds of devoted affection. There was a sense of justice in my fathers upright mind which rendered it necessary that he should approve highly to love strongly. Perhaps during former years he had suffered from the late-discovered unworthiness of one beloved and so was disposed to set a greater value on tried worth. There was a show of gratitude and worship in his attachment to my mother, differing wholly from the doting fondness of age, for it was inspired by reverence for her virtues and a desire to be the means of, in some degree, recompensing her for the sorrows she had endured, but which gave inexpressible grace to his behaviour to her. Everything was made to yield to her wishes and her convenience. He strove to shelter her, as a fair exotic is sheltered by the gardener, from every rougher wind and to surround her with all that could tend to excite pleasurable emotion in her soft and benevolent mind. Her health, and even the tranquillity of her hitherto constant spirit, had been shaken by what she had gone through. During the two years that had elapsed previous to their marriage my father had gradually relinquished all his public functions; and immediately after their union they sought the pleasant climate of Italy, and the change of scene and interest attendant on a tour through that land of wonders, as a restorative for her weakened frame.  From Italy they visited Germany and France. I, their
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the deep affection between the author's parents, which was strengthened by their shared sense of justice. The father was especially grateful to the mother for her many virtues, and went out of his way to make her life comfortable and pleasurable. The couple traveled to Italy, Germany, and France after getting married, in part to help the mother recover from some health issues.

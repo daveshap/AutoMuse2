@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: those glistening boots until he strained the top lacing, and you could see a great pack of muscle shifting when his shoulder moved under his thin coat. It was a body capable of enormous leveragea cruel body.  His speaking voice, a gruff husky tenor, added to the impression of fractiousness he conveyed. There was a touch of paternal contempt in it, even toward people he likedand there were men at New Haven who had hated his guts.  Now, dont think my opinion on these matters is final, he seemed to say, just because Im stronger and more of a man than you are. We were in the same senior society, and while we were never intimate I always had the impression that he approved of me and wanted me to like him with some harsh, defiant wistfulness of his own.  We talked for a few minutes on the sunny porch.  Ive got a nice place here, he said, his eyes flashing about restlessly.  Turning me around by one arm, he moved a broad flat hand along the front vista, including in its sweep a sunken Italian garden, a half acre of deep, pungent roses, and a snub-nosed motorboat that bumped the tide offshore.  It belonged to Demaine, the oil man. He turned me around again, politely and abruptly. Well go inside.  We walked through a high hallway into a bright rosy-coloured space, fragilely bound into the house by French windows at either end. The windows were ajar and gleaming white against the fresh grass outside that seemed to grow a little way into the house. A breeze blew through
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man who is physically strong and imposing, with a gruff voice that conveys a touch of contempt. The man is talking to the narrator on a porch, pointing out the features of his home. He is polite but abrupt, and the narrator gets the impression that he is not entirely comfortable in his own skin.

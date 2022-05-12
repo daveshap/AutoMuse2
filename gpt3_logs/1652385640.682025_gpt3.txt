@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: What a pity it wouldnt stay! sighed the Lory, as soon as it was quite out of sight; and an old Crab took the opportunity of saying to her daughter Ah, my dear! Let this be a lesson to you never to lose _your_ temper! Hold your tongue, Ma! said the young Crab, a little snappishly. Youre enough to try the patience of an oyster!  I wish I had our Dinah here, I know I do! said Alice aloud, addressing nobody in particular. Shed soon fetch it back!  And who is Dinah, if I might venture to ask the question? said the Lory.  Alice replied eagerly, for she was always ready to talk about her pet: Dinahs our cat. And shes such a capital one for catching mice you cant think! And oh, I wish you could see her after the birds! Why, shell eat a little bird as soon as look at it!  This speech caused a remarkable sensation among the party. Some of the birds hurried off at once: one old Magpie began wrapping itself up very carefully, remarking, I really must be getting home; the night-air doesnt suit my throat! and a Canary called out in a trembling voice to its children, Come away, my dears! Its high time you were all in bed! On various pretexts they all moved off, and Alice was soon left alone.  I wish I hadnt mentioned Dinah! she said to herself in a melancholy tone. Nobody seems to like her, down here, and Im sure shes the best cat in the world! Oh, my dear Dinah! I wonder if I shall ever see you any more! And here poor Alice began to cry again, for she
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice talks to a Lory and a Crab about her pet cat, Dinah. The mention of Dinah's predilection for catching and eating birds causes a stir among the other animals, who all hurry off. Alice is left alone, wondering if she will ever see her cat again.

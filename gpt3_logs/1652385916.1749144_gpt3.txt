@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: for the janitor and sent him for some celebrated sandwiches, which were a complete supper in themselves. I wanted to get out and walk eastward toward the park through the soft twilight, but each time I tried to go I became entangled in some wild, strident argument which pulled me back, as if with ropes, into my chair. Yet high over the city our line of yellow windows must have contributed their share of human secrecy to the casual watcher in the darkening streets, and I saw him too, looking up and wondering. I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.  Myrtle pulled her chair close to mine, and suddenly her warm breath poured over me the story of her first meeting with Tom.  It was on the two little seats facing each other that are always the last ones left on the train. I was going up to New York to see my sister and spend the night. He had on a dress suit and patent leather shoes, and I couldnt keep my eyes off him, but every time he looked at me I had to pretend to be looking at the advertisement over his head. When we came into the station he was next to me, and his white shirtfront pressed against my arm, and so I told him Id have to call a policeman, but he knew I lied. I was so excited that when I got into a taxi with him I didnt hardly know I wasnt getting into a subway train. All I kept thinking about, over and over, was You cant live forever; you cant live forever.  She turned to Mrs. McKee and the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the narrator's feelings of being both inside and outside of the conversations going on around him. He is pulled back into his chair by the argument, but he sees someone else looking up at the building. Myrtle tells the story of her first meeting with Tom.

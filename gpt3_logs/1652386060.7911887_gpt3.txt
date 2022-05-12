@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: good to lose, Watson. I was just balancing whether I should run for it, or whether I should perch behind her landau when a cab came through the street. The driver looked twice at such a shabby fare, but I jumped in before he could object. The Church of St. Monica, said I, and half a sovereign if you reach it in twenty minutes. It was twenty-five minutes to twelve, and of course it was clear enough what was in the wind.  My cabby drove fast. I dont think I ever drove faster, but the others were there before us. The cab and the landau with their steaming horses were in front of the door when I arrived. I paid the man and hurried into the church. There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them. They were all three standing in a knot in front of the altar. I lounged up the side aisle like any other idler who has dropped into a church. Suddenly, to my surprise, the three at the altar faced round to me, and Godfrey Norton came running as hard as he could towards me.  Thank God, he cried. Youll do. Come! Come!  What then? I asked.  Come, man, come, only three minutes, or it wont be legal.  I was half-dragged up to the altar, and before I knew where I was I found myself mumbling responses which were whispered in my ear, and vouching for things of which I knew nothing, and generally assisting in the secure tying up of Irene Adler, spinster, to Godfrey Norton, bachelor. It was all done
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man is being chased by two people, one of whom is Irene Adler. He escapes by getting into a cab and telling the driver to take him to the Church of St. Monica. He arrives just in time to see Adler and the other person getting married.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ignorantly I had repined.  But here were books, and here were men who had penetrated deeper and knew more. I took their word for all that they averred, and I became their disciple. It may appear strange that such should arise in the eighteenth century; but while I followed the routine of education in the schools of Geneva, I was, to a great degree, self-taught with regard to my favourite studies. My father was not scientific, and I was left to struggle with a childs blindness, added to a students thirst for knowledge. Under the guidance of my new preceptors I entered with the greatest diligence into the search of the philosophers stone and the elixir of life; but the latter soon obtained my undivided attention. Wealth was an inferior object, but what glory would attend the discovery if I could banish disease from the human frame and render man invulnerable to any but a violent death!  Nor were these my only visions. The raising of ghosts or devils was a promise liberally accorded by my favourite authors, the fulfilment of which I most eagerly sought; and if my incantations were always unsuccessful, I attributed the failure rather to my own inexperience and mistake than to a want of skill or fidelity in my instructors. And thus for a time I was occupied by exploded systems, mingling, like an unadept, a thousand contradictory theories and floundering desperately in a very slough of multifarious knowledge, guided by an ardent imagination and childish reasoning, till an
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author was self-taught in philosophy and became interested in the search for the philosophers stone and the elixir of life. He also attempted to raise ghosts, but was unsuccessful.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: different sizes in a day is very confusing.  It isnt, said the Caterpillar.  Well, perhaps you havent found it so yet, said Alice; but when you have to turn into a chrysalisyou will some day, you knowand then after that into a butterfly, I should think youll feel it a little queer, wont you?  Not a bit, said the Caterpillar.  Well, perhaps your feelings may be different, said Alice; all I know is, it would feel very queer to _me_.  You! said the Caterpillar contemptuously. Who are _you?_  Which brought them back again to the beginning of the conversation. Alice felt a little irritated at the Caterpillars making such _very_ short remarks, and she drew herself up and said, very gravely, I think, you ought to tell me who _you_ are, first.  Why? said the Caterpillar.  Here was another puzzling question; and as Alice could not think of any good reason, and as the Caterpillar seemed to be in a _very_ unpleasant state of mind, she turned away.  Come back! the Caterpillar called after her. Ive something important to say!  This sounded promising, certainly: Alice turned and came back again.  Keep your temper, said the Caterpillar.  Is that all? said Alice, swallowing down her anger as well as she could.  No, said the Caterpillar.  Alice thought she might as well wait, as she had nothing else to do, and perhaps after all it might tell her something worth hearing. For some minutes it puffed away without speaking, but at last it unfolded its arms,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Caterpillar tells Alice that she will someday turn into a butterfly, but Alice is not sure if she believes it. The Caterpillar then tells Alice that she has something important to say, and Alice decides to listen.

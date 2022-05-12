@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: great deal too far off to trouble myself about you: you must manage the best way you can;but I must be kind to them, thought Alice, or perhaps they wont walk the way I want to go! Let me see: Ill give them a new pair of boots every Christmas.  And she went on planning to herself how she would manage it. They must go by the carrier, she thought; and how funny itll seem, sending presents to ones own feet! And how odd the directions will look!       _Alices Right Foot, Esq., Hearthrug, near the Fender,_ (_with      Alices love_).  Oh dear, what nonsense Im talking!  Just then her head struck against the roof of the hall: in fact she was now more than nine feet high, and she at once took up the little golden key and hurried off to the garden door.  Poor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.  You ought to be ashamed of yourself, said Alice, a great girl like you, (she might well say this), to go on crying in this way! Stop this moment, I tell you! But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  After a time she heard a little pattering of feet in the distance, and she hastily dried her eyes to see what was coming. It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is planning to be kind to her feet by giving them new boots for Christmas, but she finds it difficult to do so. She eventually meets the White Rabbit, who is dressed splendidly.

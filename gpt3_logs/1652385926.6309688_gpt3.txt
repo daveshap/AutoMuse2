@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and high over the confusion a long broken wail of pain. Mr. McKee awoke from his doze and started in a daze toward the door. When he had gone halfway he turned around and stared at the scenehis wife and Catherine scolding and consoling as they stumbled here and there among the crowded furniture with articles of aid, and the despairing figure on the couch, bleeding fluently, and trying to spread a copy of Town Tattle over the tapestry scenes of Versailles. Then Mr. McKee turned and continued on out the door. Taking my hat from the chandelier, I followed.  Come to lunch some day, he suggested, as we groaned down in the elevator.  Where?  Anywhere.  Keep your hands off the lever, snapped the elevator boy.  I beg your pardon, said Mr. McKee with dignity, I didnt know I was touching it.  All right, I agreed, Ill be glad to.   I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.  Beauty and the Beast  Loneliness  Old Grocery Horse  Brookn Bridge   Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning Tribune, and waiting for the four oclock train.                                    III  There was music from my neighbours house through the summer nights. In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars. At high tide in the afternoon I watched his guests diving
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man is sitting in his bed, looking at a portfolio of paintings. He then falls asleep and has a dream in which he is at a party at his neighbor's house. In the morning, he wakes up and catches a train.

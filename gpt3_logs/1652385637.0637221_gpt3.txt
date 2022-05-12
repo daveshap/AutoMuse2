@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: long tail, certainly, said Alice, looking down with wonder at the Mouses tail; but why do you call it sad? And she kept on puzzling about it while the Mouse was speaking, so that her idea of the tale was something like this:           Fury said to a mouse, That he met in the house, Let us both          go to law: _I_ will prosecute _you_.Come, Ill take no          denial; We must have a trial: For really this morning Ive          nothing to do. Said the mouse to the cur, Such a trial, dear          sir, With no jury or judge, would be wasting our breath.          Ill be judge, Ill be jury, Said cunning old Fury: Ill          try the whole cause, and condemn you to death.  You are not attending! said the Mouse to Alice severely. What are you thinking of?  I beg your pardon, said Alice very humbly: you had got to the fifth bend, I think?  I had _not!_ cried the Mouse, sharply and very angrily.  A knot! said Alice, always ready to make herself useful, and looking anxiously about her. Oh, do let me help to undo it!  I shall do nothing of the sort, said the Mouse, getting up and walking away. You insult me by talking such nonsense!  I didnt mean it! pleaded poor Alice. But youre so easily offended, you know!  The Mouse only growled in reply.  Please come back and finish your story! Alice called after it; and the others all joined in chorus, Yes, please do! but the Mouse only shook its head impatiently, and walked a little quicker.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Mouse tells Alice a story, but gets angry and walks away before finishing. Alice and the others beg the Mouse to come back and finish the story, but it refuses.

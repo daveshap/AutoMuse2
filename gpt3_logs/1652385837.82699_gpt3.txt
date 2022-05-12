@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: asked what I thought would be some sedative questions about her little girl.  We dont know each other very well, Nick, she said suddenly. Even if we are cousins. You didnt come to my wedding.  I wasnt back from the war.  Thats true. She hesitated. Well, Ive had a very bad time, Nick, and Im pretty cynical about everything.  Evidently she had reason to be. I waited but she didnt say any more, and after a moment I returned rather feebly to the subject of her daughter.  I suppose she talks, andeats, and everything.  Oh, yes. She looked at me absently. Listen, Nick; let me tell you what I said when she was born. Would you like to hear?  Very much.  Itll show you how Ive gotten to feel aboutthings. Well, she was less than an hour old and Tom was God knows where. I woke up out of the ether with an utterly abandoned feeling, and asked the nurse right away if it was a boy or a girl. She told me it was a girl, and so I turned my head away and wept. All right, I said, Im glad its a girl. And I hope shell be a foolthats the best thing a girl can be in this world, a beautiful little fool.  You see I think everythings terrible anyhow, she went on in a convinced way. Everybody thinks sothe most advanced people. And I know. Ive been everywhere and seen everything and done everything. Her eyes flashed around her in a defiant way, rather like Toms, and she laughed with thrilling scorn. SophisticatedGod, Im sophisticated!  The instant her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The woman tells Nick that she is very cynical and that she believes that it is better for a girl to be a fool than anything else.

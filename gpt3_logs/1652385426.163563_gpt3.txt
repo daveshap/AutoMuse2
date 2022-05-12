@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Project Gutenberg eBook of The Adventures of Sherlock Holmes, by Arthur Conan Doyle  This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.  Title: The Adventures of Sherlock Holmes  Author: Arthur Conan Doyle  Release Date: November 29, 2002 [eBook #1661] [Most recently updated: May 20, 2019]  Language: English  Character set encoding: UTF-8  Produced by: an anonymous Project Gutenberg volunteer and Jose Menendez  *** START OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF SHERLOCK HOLMES ***  cover     The Adventures of Sherlock Holmes  by Arthur Conan Doyle   Contents     I.     A Scandal in Bohemia    II.    The Red-Headed League    III.   A Case of Identity    IV.    The Boscombe Valley Mystery    V.     The Five Orange Pips    VI.    The Man with the Twisted Lip    VII.   The Adventure of the Blue Carbuncle    VIII.  The Adventure of the Speckled Band    IX.    The Adventure of the Engineers Thumb    X.     The Adventure of the Noble Bachelor    XI.    The Adventure of the Beryl Coronet    XII.   The Adventure of the Copper Beeches     I. A SCANDAL IN BOHEMIA   I.  To Sherlock Holmes
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Project Gutenberg eBook of The Adventures of Sherlock Holmes by Arthur Conan Doyle is a free eBook that can be used by anyone in the United States with very few restrictions. The eBook is updated regularly and is available in English.

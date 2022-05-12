@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: now here I am in the middle of one! There ought to be a book written about me, that there ought! And when I grow up, Ill write onebut Im grown up now, she added in a sorrowful tone; at least theres no room to grow up any more _here_.  But then, thought Alice, shall I _never_ get any older than I am now? Thatll be a comfort, one waynever to be an old womanbut thenalways to have lessons to learn! Oh, I shouldnt like _that!_  Oh, you foolish Alice! she answered herself. How can you learn lessons in here? Why, theres hardly room for _you_, and no room at all for any lesson-books!  And so she went on, taking first one side and then the other, and making quite a conversation of it altogether; but after a few minutes she heard a voice outside, and stopped to listen.  Mary Ann! Mary Ann! said the voice. Fetch me my gloves this moment! Then came a little pattering of feet on the stairs. Alice knew it was the Rabbit coming to look for her, and she trembled till she shook the house, quite forgetting that she was now about a thousand times as large as the Rabbit, and had no reason to be afraid of it.  Presently the Rabbit came up to the door, and tried to open it; but, as the door opened inwards, and Alices elbow was pressed hard against it, that attempt proved a failure. Alice heard it say to itself Then Ill go round and get in at the window.  _That_ you wont! thought Alice, and, after waiting till she fancied she heard the Rabbit just under the window,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is in the middle of a room with no way to escape and no room to grow. She meets a rabbit who tells her she should be learning lessons.

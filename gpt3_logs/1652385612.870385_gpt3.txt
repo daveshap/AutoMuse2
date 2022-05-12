@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: four times six is thirteen, and four times seven isoh dear! I shall never get to twenty at that rate! However, the Multiplication Table doesnt signify: lets try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Romeno, _thats_ all wrong, Im certain! I must have been changed for Mabel! Ill try and say _How doth the little_ and she crossed her hands on her lap as if she were saying lessons, and began to repeat it, but her voice sounded hoarse and strange, and the words did not come the same as they used to do:  How doth the little crocodile     Improve his shining tail, And pour the waters of the Nile     On every golden scale!  How cheerfully he seems to grin,     How neatly spread his claws, And welcome little fishes in     With gently smiling jaws!   Im sure those are not the right words, said poor Alice, and her eyes filled with tears again as she went on, I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, Ive made up my mind about it; if Im Mabel, Ill stay down here! Itll be no use their putting their heads down and saying Come up again, dear! I shall only look up and say Who am I then? Tell me that first, and then, if I like being that person, Ill come up: if not, Ill stay down here till Im somebody elsebut, oh dear! cried Alice, with a sudden burst of tears, I do wish they _would_ put their
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is confused about who she is and wonders if she has been changed into someone else. She decides that if she is indeed someone else, she would rather stay down where she is than go upstairs.

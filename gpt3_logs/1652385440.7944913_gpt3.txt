@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: one begins to twist facts to suit theories, instead of theories to suit facts. But the note itself. What do you deduce from it?  I carefully examined the writing, and the paper upon which it was written.  The man who wrote it was presumably well to do, I remarked, endeavouring to imitate my companions processes. Such paper could not be bought under half a crown a packet. It is peculiarly strong and stiff.  Peculiarthat is the very word, said Holmes. It is not an English paper at all. Hold it up to the light.  I did so, and saw a large E with a small g, a P, and a large G with a small t woven into the texture of the paper.  What do you make of that? asked Holmes.  The name of the maker, no doubt; or his monogram, rather.  Not at all. The G with the small t stands for Gesellschaft, which is the German for Company. It is a customary contraction like our Co. P, of course, stands for Papier. Now for the Eg. Let us glance at our Continental Gazetteer. He took down a heavy brown volume from his shelves. Eglow, Eglonitzhere we are, Egria. It is in a German-speaking countryin Bohemia, not far from Carlsbad. Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills. Ha, ha, my boy, what do you make of that? His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette.  The paper was made in Bohemia, I said.  Precisely. And the man who wrote the note is a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses a note written on paper that is strong and stiff, with a peculiar texture. The paper is from Bohemia, and the note was written by someone who is likely well-to-do.

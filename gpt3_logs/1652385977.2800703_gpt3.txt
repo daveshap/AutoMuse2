@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: conversing together. Jane should therefore make the most of every       half-hour in which she can command his attention. When she is       secure of him, there will be leisure for falling in love as       much as she chooses.        Your plan is a good one, replied Elizabeth, where nothing is       in question but the desire of being well married; and if I were       determined to get a rich husband, or any husband, I dare say I       should adopt it. But these are not Janes feelings; she is not       acting by design. As yet, she cannot even be certain of the       degree of her own regard, nor of its reasonableness. She has known       him only a fortnight. She danced four dances with him at Meryton;       she saw him one morning at his own house, and has since dined       in company with him four times. This is not quite enough to make       her understand his character.        Not as you represent it. Had she merely _dined_ with him, she       might only have discovered whether he had a good appetite; but       you must remember that four evenings have been also spent       togetherand four evenings may do a great deal.        Yes; these four evenings have enabled them to ascertain that       they both like Vingt-un better than Commerce; but with respect to       any other leading characteristic, I do not imagine that much has       been unfolded.        Well, said Charlotte, I wish Jane success with all my heart;       and if she were married to him to-
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses a plan for Jane to marry a rich husband, and Elizabeth agrees that it is a good idea if that is what Jane wants. However, Elizabeth points out that Jane does not yet know enough about the man to be certain of her feelings. Charlotte wishes Jane well.

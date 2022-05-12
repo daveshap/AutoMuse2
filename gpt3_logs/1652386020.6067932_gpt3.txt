@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: into the breakfast-parlour, where all but Jane were       assembled, and where her appearance created a great deal of       surprise. That she should have walked three miles so early in the       day, in such dirty weather, and by herself, was almost incredible       to Mrs. Hurst and Miss Bingley; and Elizabeth was convinced that       they held her in contempt for it. She was received, however, very       politely by them; and in their brothers manners there was       something better than politeness; there was good humour and       kindness. Mr. Darcy said very little, and Mr. Hurst nothing at       all. The former was divided between admiration of the brilliancy       which exercise had given to her complexion, and doubt as to the       occasions justifying her coming so far alone. The latter was       thinking only of his breakfast.        Her enquiries after her sister were not very favourably answered.       Miss Bennet had slept ill, and though up, was very feverish, and       not well enough to leave her room. Elizabeth was glad to be taken       to her immediately; and Jane, who had only been withheld by the       fear of giving alarm or inconvenience, from expressing in her note       how much she longed for such a visit, was delighted at her       entrance. She was not equal, however, to much conversation, and       when Miss Bingley left them together, could attempt little       beside expressions of gratitude for the extraordinary kindness       she was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Elizabeth is surprised to find Jane at breakfast with Mrs. Hurst and Miss Bingley, who seem to disapprove of her having walked three miles in the cold. Mr. Darcy and Mr. Hurst are also there. Elizabeth enquires after her sister and is taken to see her immediately. Jane is delighted to see her but is too ill to speak much.

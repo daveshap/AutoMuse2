@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: everybodys character and make it       still better, and say nothing of the badbelongs to you alone.       And so, you like this mans sisters, too, do you? Their manners       are not equal to his.        Certainly not; at first. But they are very pleasing women when       you converse with them. Miss Bingley is to live with her brother,       and keep his house; and I am much mistaken if we shall not find a       very charming neighbour in her.        Elizabeth listened in silence, but was not convinced; their       behaviour at the assembly had not been calculated to please in       general; and with more quickness of observation and less pliancy       of temper than her sister, and with a judgment too unassailed by       any attention to herself, she was very little disposed to approve       them. They were in fact very fine ladies; not deficient in good       humour when they were pleased, nor in the power of       being agreeable where they chose it; but proud and conceited.       They were rather handsome, had been educated in one of the first       private seminaries in town, had a fortune of twenty thousand       pounds, were in the habit of spending more than they ought, and       of associating with people of rank; and were therefore in every       respect entitled to think well of themselves, and meanly of       others. They were of a respectable family in the north of       England; a circumstance more deeply impressed on their memories       than that their
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the sisters of a man that the speaker likes. The speaker thinks they are proud and conceited, but notes that they are still pleasant to talk to.

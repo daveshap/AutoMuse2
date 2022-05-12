@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the honourable title of _the_ woman.     II. THE RED-HEADED LEAGUE    I had called upon my friend, Mr. Sherlock Holmes, one day in the  autumn of last year and found him in deep conversation with a very  stout, florid-faced, elderly gentleman with fiery red hair. With an  apology for my intrusion, I was about to withdraw when Holmes pulled  me abruptly into the room and closed the door behind me.  You could not possibly have come at a better time, my dear Watson, he said cordially.  I was afraid that you were engaged.  So I am. Very much so.  Then I can wait in the next room.  Not at all. This gentleman, Mr. Wilson, has been my partner and helper in many of my most successful cases, and I have no doubt that he will be of the utmost use to me in yours also.  The stout gentleman half rose from his chair and gave a bob of greeting, with a quick little questioning glance from his small fat-encircled eyes.  Try the settee, said Holmes, relapsing into his armchair and putting his fingertips together, as was his custom when in judicial moods. I know, my dear Watson, that you share my love of all that is bizarre and outside the conventions and humdrum routine of everyday life. You have shown your relish for it by the enthusiasm which has prompted you to chronicle, and, if you will excuse my saying so, somewhat to embellish so many of my own little adventures.  Your cases have indeed been of the greatest interest to me, I observed.  You will remember that I remarked
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In the autumn of last year, Sherlock Holmes was in deep conversation with a very stout, florid-faced, elderly gentleman with fiery red hair. I was about to withdraw when Holmes pulled me abruptly into the room and closed the door behind me. The stout gentleman was Mr. Wilson, Holmes' partner and helper in many of his most successful cases.

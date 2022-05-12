@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: that we shall meet him       at the assemblies, and that Mrs. Long has promised to introduce him.        I do not believe Mrs. Long will do any such thing. She has two       nieces of her own. She is a selfish, hypocritical woman, and I       have no opinion of her.        No more have I, said Mr. Bennet; and I am glad to find that       you do not depend on her serving you.        Mrs. Bennet deigned not to make any reply; but, unable to contain       herself, began scolding one of her daughters.        Dont keep coughing so, Kitty, for heavens sake! Have a little       compassion on my nerves. You tear them to pieces.        Kitty has no discretion in her coughs, said her father; she       times them ill.        I do not cough for my own amusement, replied Kitty fretfully.       When is your next ball to be, Lizzy?        To-morrow fortnight.        Aye, so it is, cried her mother, and Mrs. Long does not come       back till the day before; so, it will be impossible for her to       introduce him, for she will not know him herself.        Then, my dear, you may have the advantage of your friend, and       introduce Mr. Bingley to _her_.        Impossible, Mr. Bennet, impossible, when I am not acquainted       with him myself; how can you be so teasing?        I honour your circumspection. A fortnights acquaintance is       certainly very little. One cannot know what a man really is by       the end of a fortnight. But if _we_ do not venture
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses Mr. Bingley and whether or not he will be introduced to Mrs. Long. It is concluded that Mrs. Bennet will not do the introducing because she does not know him well enough herself.

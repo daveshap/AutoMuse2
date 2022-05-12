@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: peremptory heart.  Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red petrol-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard. The wind had blown off, leaving a loud, bright night, with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life. The silhouette of a moving cat wavered across the moonlight, and, turning my head to watch it, I saw that I was not alonefifty feet away a figure had emerged from the shadow of my neighbours mansion and was standing with his hands in his pockets regarding the silver pepper of the stars. Something in his leisurely movements and the secure position of his feet upon the lawn suggested that it was Mr. Gatsby himself, come out to determine what share was his of our local heavens.  I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didnt call to him, for he gave a sudden intimation that he was content to be alonehe stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling. Involuntarily I glanced seawardand distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the summer night and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows.

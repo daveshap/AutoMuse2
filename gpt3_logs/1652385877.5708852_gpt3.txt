@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: washrag of a back. Look at that coat. Some coat. Thats a dog thatll never bother you with catching cold.  I think its cute, said Mrs. Wilson enthusiastically. How much is it?  That dog? He looked at it admiringly. That dog will cost you ten dollars.  The Airedaleundoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly whitechanged hands and settled down into Mrs. Wilsons lap, where she fondled the weatherproof coat with rapture.  Is it a boy or a girl? she asked delicately.  That dog? That dogs a boy.  Its a bitch, said Tom decisively. Heres your money. Go and buy ten more dogs with it.  We drove over to Fifth Avenue, warm and soft, almost pastoral, on the summer Sunday afternoon. I wouldnt have been surprised to see a great flock of white sheep turn the corner.  Hold on, I said, I have to leave you here.  No you dont, interposed Tom quickly. Myrtlell be hurt if you dont come up to the apartment. Wont you, Myrtle?  Come on, she urged. Ill telephone my sister Catherine. Shes said to be very beautiful by people who ought to know.  Well, Id like to, but  We went on, cutting back again over the Park toward the West Hundreds. At 158th Street the cab stopped at one slice in a long white cake of apartment-houses. Throwing a regal homecoming glance around the neighbourhood, Mrs. Wilson gathered up her dog and her other purchases, and went haughtily in.  Im going to have the McKees come up, she
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Tom and Mrs. Wilson drive to Fifth Avenue, where they buy an Airedale for ten dollars. They then go to the Wilson's apartment, where Mrs. Wilson plans to have a party.

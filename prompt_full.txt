@@ -1,0 +1,7 @@
+Outline: <<OUTLINE>>
+
+Story so far: <<SUMMARY>>
+
+Last chunk: <<CHUNK>>
+
+Next chunk:

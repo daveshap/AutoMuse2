@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: in one hand and a large fan in the other: he came trotting along in a great hurry, muttering to himself as he came, Oh! the Duchess, the Duchess! Oh! wont she be savage if Ive kept her waiting! Alice felt so desperate that she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a low, timid voice, If you please, sir The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go.  Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking: Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if Ive been changed in the night? Let me think: was I the same when I got up this morning? I almost think I can remember feeling a little different. But if Im not the same, the next question is, Who in the world am I? Ah, _thats_ the great puzzle! And she began thinking over all the children she knew that were of the same age as herself, to see if she could have been changed for any of them.  Im sure Im not Ada, she said, for her hair goes in such long ringlets, and mine doesnt go in ringlets at all; and Im sure I cant be Mabel, for I know all sorts of things, and she, oh! she knows such a very little! Besides, _shes_ she, and _Im_ I, andoh dear, how puzzling it all is! Ill try if I know all the things I used to know. Let me see: four times five is twelve, and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice meets a rabbit who is in a hurry and drops his gloves and fan. Alice picks them up and begins talking to the rabbit, but he runs away. Alice wonders if she has been changed overnight and tries to remember who she is.

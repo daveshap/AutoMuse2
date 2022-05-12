@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: fortunate whilst one remains whom the spoiler has not seized.  My departure for Ingolstadt, which had been deferred by these events, was now again determined upon. I obtained from my father a respite of some weeks. It appeared to me sacrilege so soon to leave the repose, akin to death, of the house of mourning and to rush into the thick of life. I was new to sorrow, but it did not the less alarm me. I was unwilling to quit the sight of those that remained to me, and above all, I desired to see my sweet Elizabeth in some degree consoled.  She indeed veiled her grief and strove to act the comforter to us all. She looked steadily on life and assumed its duties with courage and zeal. She devoted herself to those whom she had been taught to call her uncle and cousins. Never was she so enchanting as at this time, when she recalled the sunshine of her smiles and spent them upon us. She forgot even her own regret in her endeavours to make us forget.  The day of my departure at length arrived. Clerval spent the last evening with us. He had endeavoured to persuade his father to permit him to accompany me and to become my fellow student, but in vain. His father was a narrow-minded trader and saw idleness and ruin in the aspirations and ambition of his son. Henry deeply felt the misfortune of being debarred from a liberal education. He said little, but when he spoke I read in his kindling eye and in his animated glance a restrained but firm resolve not to be chained to the miserable
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is leaving for college and their friend Clerval is spending the last evening with them. Clerval's father is a narrow-minded trader who doesn't want his son to go to college, but Clerval is determined to pursue his education. The protagonist's loved ones are sad to see them go, but Elizabeth is brave and tries to make everyone forget their sadness.

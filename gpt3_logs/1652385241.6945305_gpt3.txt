@@ -1,0 +1,9 @@
+PROMPT:
+
+make me some bacon
+
+==========
+
+RESPONSE:
+
+Bacon is a type of cured meat that is typically made from pork belly. It is a popular breakfast food in many parts of the world and is often served with eggs, toast, and coffee.

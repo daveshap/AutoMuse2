@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: felt very lonely and low-spirited. In a little while, however, she again heard a little pattering of footsteps in the distance, and she looked up eagerly, half hoping that the Mouse had changed his mind, and was coming back to finish his story.     CHAPTER IV. The Rabbit Sends in a Little Bill   It was the White Rabbit, trotting slowly back again, and looking anxiously about as it went, as if it had lost something; and she heard it muttering to itself The Duchess! The Duchess! Oh my dear paws! Oh my fur and whiskers! Shell get me executed, as sure as ferrets are ferrets! Where _can_ I have dropped them, I wonder? Alice guessed in a moment that it was looking for the fan and the pair of white kid gloves, and she very good-naturedly began hunting about for them, but they were nowhere to be seeneverything seemed to have changed since her swim in the pool, and the great hall, with the glass table and the little door, had vanished completely.  Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now! And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.  He took me for his housemaid, she said to herself as she ran. How surprised hell be when he finds out who I am! But Id better take him his fan and glovesthat is, if I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The White Rabbit is looking for his fan and gloves, and Alice tries to help. The Rabbit gets angry and tells Alice to go get them, so she runs off.

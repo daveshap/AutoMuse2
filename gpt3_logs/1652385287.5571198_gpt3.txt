@@ -1,0 +1,17 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: nervous about this; for it might end, you know, said Alice to herself, in my going out altogether, like a candle. I wonder what I should be like then? And she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing.  After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found she had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery; and when she had tired herself out with trying, the poor little thing sat down and cried.  Come, theres no use in crying like that! said Alice to herself, rather sharply; I advise you to leave off this minute! She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people. But its no use now, thought poor Alice, to pretend to be two people! Why, theres hardly enough of me left to make _one_ respectable person!  Soon her eye fell on a little glass box that
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is worried that she might go out like a candle, and wonders what she would be like then. She tries to imagine what a candle's flame looks like after the candle is blown out, but she can't remember ever having seen such a thing.
+
+Alice decides to go into the garden, but she forgets the key and can't reach it. She gets tired and sits down to cry.
+
+Alice tells herself to stop crying and that it's no use to pretend to be two people. She thinks that there's hardly enough of her left to make one respectable person.

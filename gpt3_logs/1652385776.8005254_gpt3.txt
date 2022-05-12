@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: as the gallant and adventurous benefactors of our species. The saintly soul of Elizabeth shone like a shrine-dedicated lamp in our peaceful home. Her sympathy was ours; her smile, her soft voice, the sweet glance of her celestial eyes, were ever there to bless and animate us. She was the living spirit of love to soften and attract; I might have become sullen in my study, rough through the ardour of my nature, but that she was there to subdue me to a semblance of her own gentleness. And Clervalcould aught ill entrench on the noble spirit of Clerval? Yet he might not have been so perfectly humane, so thoughtful in his generosity, so full of kindness and tenderness amidst his passion for adventurous exploit, had she not unfolded to him the real loveliness of beneficence and made the doing good the end and aim of his soaring ambition.  I feel exquisite pleasure in dwelling on the recollections of childhood, before misfortune had tainted my mind and changed its bright visions of extensive usefulness into gloomy and narrow reflections upon self. Besides, in drawing the picture of my early days, I also record those events which led, by insensible steps, to my after tale of misery, for when I would account to myself for the birth of that passion which afterwards ruled my destiny I find it arise, like a mountain river, from ignoble and almost forgotten sources; but, swelling as it proceeded, it became the torrent which, in its course, has swept away all my hopes and joys.  Natural
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The narrator reflects on how Elizabeth's kindness and goodness inspired them and their friend Clerval to be better people. However, the narrator's idyllic childhood was eventually shattered by misfortune.

@@ -1,0 +1,9 @@
+PROMPT:
+
+make me some bacon
+
+==========
+
+RESPONSE:
+
+Bacon is a type of meat that is typically fried or grilled.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: details of commerce.  We sat late. We could not tear ourselves away from each other nor persuade ourselves to say the word Farewell! It was said, and we retired under the pretence of seeking repose, each fancying that the other was deceived; but when at mornings dawn I descended to the carriage which was to convey me away, they were all theremy father again to bless me, Clerval to press my hand once more, my Elizabeth to renew her entreaties that I would write often and to bestow the last feminine attentions on her playmate and friend.  I threw myself into the chaise that was to convey me away and indulged in the most melancholy reflections. I, who had ever been surrounded by amiable companions, continually engaged in endeavouring to bestow mutual pleasureI was now alone. In the university whither I was going I must form my own friends and be my own protector. My life had hitherto been remarkably secluded and domestic, and this had given me invincible repugnance to new countenances. I loved my brothers, Elizabeth, and Clerval; these were old familiar faces, but I believed myself totally unfitted for the company of strangers. Such were my reflections as I commenced my journey; but as I proceeded, my spirits and hopes rose. I ardently desired the acquisition of knowledge. I had often, when at home, thought it hard to remain during my youth cooped up in one place and had longed to enter the world and take my station among other human beings.  Now my desires were complied
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's feelings of sadness and loneliness at leaving home to go to university. The author reflects on how their life up until this point has been relatively isolated, and they are not sure how they will cope with meeting new people. However, the author is excited about the prospect of learning new things and gaining knowledge.

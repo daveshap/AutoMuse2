@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Project Gutenberg eBook of Frankenstein, by Mary Wollstonecraft (Godwin) Shelley  This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.  Title: Frankenstein        or, The Modern Prometheus  Author: Mary Wollstonecraft (Godwin) Shelley  Release Date: 31, 1993 [eBook #84] [Most recently updated: November 13, 2020]  Language: English  Character set encoding: UTF-8  Produced by: Judith Boss, Christy Phillips, Lynn Hanninen, and David Meltzer. HTML version by Al Haines. Further corrections by Menno de Leeuw.  *** START OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN ***     Frankenstein;  or, the Modern Prometheus  by Mary Wollstonecraft (Godwin) Shelley    CONTENTS   Letter 1  Letter 2  Letter 3  Letter 4  Chapter 1  Chapter 2  Chapter 3  Chapter 4  Chapter 5  Chapter 6  Chapter 7  Chapter 8  Chapter 9  Chapter 10  Chapter 11  Chapter 12  Chapter 13  Chapter 14  Chapter 15  Chapter 16  Chapter 17  Chapter 18  Chapter 19  Chapter 20  Chapter 21  Chapter 22  Chapter 23  Chapter 24     Letter 1  _To Mrs. Saville, England._   St. Petersburgh, Dec. 11th, 17.   You will rejoice to hear that no
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This eBook is available for free to anyone in the United States with almost no restrictions. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: flowed from her, as if her heart was trying to come out to you concealed in one of those breathless, thrilling words. Then suddenly she threw her napkin on the table and excused herself and went into the house.  Miss Baker and I exchanged a short glance consciously devoid of meaning. I was about to speak when she sat up alertly and said Sh! in a warning voice. A subdued impassioned murmur was audible in the room beyond, and Miss Baker leaned forward unashamed, trying to hear. The murmur trembled on the verge of coherence, sank down, mounted excitedly, and then ceased altogether.  This Mr. Gatsby you spoke of is my neighbour I began.  Dont talk. I want to hear what happens.  Is something happening? I inquired innocently.  You mean to say you dont know? said Miss Baker, honestly surprised. I thought everybody knew.  I dont.  Why she said hesitantly. Toms got some woman in New York.  Got some woman? I repeated blankly.  Miss Baker nodded.  She might have the decency not to telephone him at dinner time. Dont you think?  Almost before I had grasped her meaning there was the flutter of a dress and the crunch of leather boots, and Tom and Daisy were back at the table.  It couldnt be helped! cried Daisy with tense gaiety.  She sat down, glanced searchingly at Miss Baker and then at me, and continued: I looked outdoors for a minute, and its very romantic outdoors. Theres a bird on the lawn that I think must be a nightingale come over on the Cunard or
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman's reaction to her husband receiving a phone call from another woman. The woman is visibly upset and leaves the table, followed by the narrator's questioning of what is happening. Miss Baker informs the narrator that the husband has a woman in New York and the wife is upset about it. The husband and wife then return to the table.

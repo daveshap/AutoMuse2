@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: nothing in particular by this remark, but it was taken up in an unexpected way.  Civilizations going to pieces, broke out Tom violently. Ive gotten to be a terrible pessimist about things. Have you read The Rise of the Coloured Empires by this man Goddard?  Why, no, I answered, rather surprised by his tone.  Well, its a fine book, and everybody ought to read it. The idea is if we dont look out the white race will bewill be utterly submerged. Its all scientific stuff; its been proved.  Toms getting very profound, said Daisy, with an expression of unthoughtful sadness. He reads deep books with long words in them. What was that word we  Well, these books are all scientific, insisted Tom, glancing at her impatiently. This fellow has worked out the whole thing. Its up to us, who are the dominant race, to watch out or these other races will have control of things.  Weve got to beat them down, whispered Daisy, winking ferociously toward the fervent sun.  You ought to live in California began Miss Baker, but Tom interrupted her by shifting heavily in his chair.  This idea is that were Nordics. I am, and you are, and you are, and After an infinitesimal hesitation he included Daisy with a slight nod, and she winked at me again. And weve produced all the things that go to make civilizationoh, science and art, and all that. Do you see?  There was something pathetic in his concentration, as if his complacency, more acute than of old, was not enough
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Tom is a pessimist who believes that the white race is going to be "utterly submerged" by other races unless they take action. Daisy agrees with him and Miss Baker tries to change the subject.

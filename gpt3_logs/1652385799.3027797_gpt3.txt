@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: my place to my younger children. Alas! I regret that I am taken from you; and, happy and beloved as I have been, is it not hard to quit you all? But these are not thoughts befitting me; I will endeavour to resign myself cheerfully to death and will indulge a hope of meeting you in another world.  She died calmly, and her countenance expressed affection even in death. I need not describe the feelings of those whose dearest ties are rent by that most irreparable evil, the void that presents itself to the soul, and the despair that is exhibited on the countenance. It is so long before the mind can persuade itself that she whom we saw every day and whose very existence appeared a part of our own can have departed for everthat the brightness of a beloved eye can have been extinguished and the sound of a voice so familiar and dear to the ear can be hushed, never more to be heard. These are the reflections of the first days; but when the lapse of time proves the reality of the evil, then the actual bitterness of grief commences. Yet from whom has not that rude hand rent away some dear connection? And why should I describe a sorrow which all have felt, and must feel? The time at length arrives when grief is rather an indulgence than a necessity; and the smile that plays upon the lips, although it may be deemed a sacrilege, is not banished. My mother was dead, but we had still duties which we ought to perform; we must continue our course with the rest and learn to think ourselves
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker reflects on the death of their mother, and how hard it is to accept that she is gone. They talk about the different stages of grief, and how eventually it becomes more of an indulgence than a necessity. Even though it may seem wrong, the speaker says that people eventually start smiling again.

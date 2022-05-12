@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: fault, but on the whole hes a good worker. Theres no vice in him.  He is still with you, I presume?  Yes, sir. He and a girl of fourteen, who does a bit of simple cooking and keeps the place cleanthats all I have in the house, for I am a widower and never had any family. We live very quietly, sir, the three of us; and we keep a roof over our heads and pay our debts, if we do nothing more.  The first thing that put us out was that advertisement. Spaulding, he came down into the office just this day eight weeks, with this very paper in his hand, and he says:  I wish to the Lord, Mr. Wilson, that I was a red-headed man.  Why that? I asks.  Why, says he, heres another vacancy on the League of the Red-headed Men. Its worth quite a little fortune to any man who gets it, and I understand that there are more vacancies than there are men, so that the trustees are at their wits end what to do with the money. If my hair would only change colour, heres a nice little crib all ready for me to step into.  Why, what is it, then? I asked. You see, Mr. Holmes, I am a very stay-at-home man, and as my business came to me instead of my having to go to it, I was often weeks on end without putting my foot over the door-mat. In that way I didnt know much of what was going on outside, and I was always glad of a bit of news.  Have you never heard of the League of the Red-headed Men? he asked with his eyes open.  Never.  Why, I wonder at that, for you are eligible
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man who is considering joining the League of the Red-headed Men. He is told that the vacancy is worth quite a fortune, and that there are more vacancies than there are men. He is also told that the trustees are at their wits end what to do with the money.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsbys mansion. Or, rather, as I didnt know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbours lawn, and the consoling proximity of millionairesall for eighty dollars a month.  Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans. Daisy was my second cousin once removed, and Id known Tom in college. And just after the war I spent two days with them in Chicago.  Her husband, among various physical accomplishments, had been one of the most powerful ends that ever played football at New Havena national figure in a way, one of those men who reach such an acute limited excellence at twenty-one that everything afterward savours of anticlimax. His family were enormously wealthyeven in college his freedom with money was a matter for reproachbut now hed left Chicago and come East in a fashion that rather took your breath away: for instance, hed brought down a string of polo ponies from Lake Forest. It was hard to realize that a man in my own generation was wealthy enough to do that.  Why they came East I dont know. They had spent a year
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Gatsby's mansion and the Buchanans' house across the water. The narrator reflects on how he used to know Tom in college and how Tom and Daisy have become much wealthier since then. The narrator wonders why they came East.

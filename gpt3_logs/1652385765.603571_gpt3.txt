@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: were better off then. They had not been long married, and their eldest child was but just born. The father of their charge was one of those Italians nursed in the memory of the antique glory of Italyone among the _schiavi ognor frementi,_ who exerted himself to obtain the liberty of his country. He became the victim of its weakness. Whether he had died or still lingered in the dungeons of Austria was not known. His property was confiscated; his child became an orphan and a beggar. She continued with her foster parents and bloomed in their rude abode, fairer than a garden rose among dark-leaved brambles.  When my father returned from Milan, he found playing with me in the hall of our villa a child fairer than pictured cheruba creature who seemed to shed radiance from her looks and whose form and motions were lighter than the chamois of the hills. The apparition was soon explained. With his permission my mother prevailed on her rustic guardians to yield their charge to her. They were fond of the sweet orphan. Her presence had seemed a blessing to them, but it would be unfair to her to keep her in poverty and want when Providence afforded her such powerful protection. They consulted their village priest, and the result was that Elizabeth Lavenza became the inmate of my parents housemy more than sisterthe beautiful and adored companion of all my occupations and my pleasures.  Everyone loved Elizabeth. The passionate and almost reverential attachment with which all regarded
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage tells the story of a young Italian girl who is orphaned and taken in by a wealthy family. The girl is very beautiful, and everyone loves her.

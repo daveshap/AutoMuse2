@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Project Gutenberg eBook of The Great Gatsby, by F. Scott Fitzgerald  This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.  Title: The Great Gatsby  Author: F. Scott Fitzgerald  Release Date: January 17, 2021 [eBook #64317] [Most recently updated: January 24 2021]  Language: English   Produced by: Alex Cabal for the Standard Ebooks project, based on a              transcription produced for Project Gutenberg Australia.  *** START OF THE PROJECT GUTENBERG EBOOK THE GREAT GATSBY ***                              The Great Gatsby                                   by                          F. Scott Fitzgerald                              Table of Contents  I II III IV V VI VII VIII IX                                 Once again                                   to                                  Zelda    Then wear the gold hat, if that will move her;   If you can bounce high, bounce for her too,   Till she cry Lover, gold-hatted, high-bouncing lover,   I must have you!    Thomas Parke dInvilliers                                     I  In my younger and more vulnerable years my father gave
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage is from the Project Gutenberg eBook of The Great Gatsby by F. Scott Fitzgerald. The eBook is available for free to anyone in the United States and most other parts of the world, with few restrictions. The Great Gatsby is a novel about a man who is trying to win back the love of his life.

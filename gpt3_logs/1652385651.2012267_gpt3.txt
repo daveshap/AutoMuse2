@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: she suddenly spread out her hand, and made a snatch in the air. She did not get hold of anything, but she heard a little shriek and a fall, and a crash of broken glass, from which she concluded that it was just possible it had fallen into a cucumber-frame, or something of the sort.  Next came an angry voicethe RabbitsPat! Pat! Where are you? And then a voice she had never heard before, Sure then Im here! Digging for apples, yer honour!  Digging for apples, indeed! said the Rabbit angrily. Here! Come and help me out of _this!_ (Sounds of more broken glass.)  Now tell me, Pat, whats that in the window?  Sure, its an arm, yer honour! (He pronounced it arrum.)  An arm, you goose! Who ever saw one that size? Why, it fills the whole window!  Sure, it does, yer honour: but its an arm for all that.  Well, its got no business there, at any rate: go and take it away!  There was a long silence after this, and Alice could only hear whispers now and then; such as, Sure, I dont like it, yer honour, at all, at all! Do as I tell you, you coward! and at last she spread out her hand again, and made another snatch in the air. This time there were _two_ little shrieks, and more sounds of broken glass. What a number of cucumber-frames there must be! thought Alice. I wonder what theyll do next! As for pulling me out of the window, I only wish they _could!_ Im sure _I_ dont want to stay in here any longer!  She waited for some time without hearing anything
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice hears a Rabbit and an unknown voice arguing, followed by the sound of breaking glass. She makes a couple of attempts to grab the Rabbit, but each time only manages to break more glass. Eventually she gets fed up and wishes she could be pulled out of the window.

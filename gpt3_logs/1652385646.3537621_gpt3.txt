@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: did so indeed, and much sooner than she had expected: before she had drunk half the bottle, she found her head pressing against the ceiling, and had to stoop to save her neck from being broken. She hastily put down the bottle, saying to herself Thats quite enoughI hope I shant grow any moreAs it is, I cant get out at the doorI do wish I hadnt drunk quite so much!  Alas! it was too late to wish that! She went on growing, and growing, and very soon had to kneel down on the floor: in another minute there was not even room for this, and she tried the effect of lying down with one elbow against the door, and the other arm curled round her head. Still she went on growing, and, as a last resource, she put one arm out of the window, and one foot up the chimney, and said to herself Now I can do no more, whatever happens. What _will_ become of me?  Luckily for Alice, the little magic bottle had now had its full effect, and she grew no larger: still it was very uncomfortable, and, as there seemed to be no sort of chance of her ever getting out of the room again, no wonder she felt unhappy.  It was much pleasanter at home, thought poor Alice, when one wasnt always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadnt gone down that rabbit-holeand yetand yetits rather curious, you know, this sort of life! I do wonder what _can_ have happened to me! When I used to read fairy-tales, I fancied that kind of thing never happened, and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice drank from a magic bottle and grew until she was too large for the room. She was uncomfortable and wished she could go home.

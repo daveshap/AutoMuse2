@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sat down beside me on the couch.  Do you live down on Long Island, too? she inquired.  I live at West Egg.  Really? I was down there at a party about a month ago. At a man named Gatsbys. Do you know him?  I live next door to him.  Well, they say hes a nephew or a cousin of Kaiser Wilhelms. Thats where all his money comes from.  Really?  She nodded.  Im scared of him. Id hate to have him get anything on me.  This absorbing information about my neighbour was interrupted by Mrs. McKees pointing suddenly at Catherine:  Chester, I think you could do something with her, she broke out, but Mr. McKee only nodded in a bored way, and turned his attention to Tom.  Id like to do more work on Long Island, if I could get the entry. All I ask is that they should give me a start.  Ask Myrtle, said Tom, breaking into a short shout of laughter as Mrs. Wilson entered with a tray. Shell give you a letter of introduction, wont you, Myrtle?  Do what? she asked, startled.  Youll give McKee a letter of introduction to your husband, so he can do some studies of him. His lips moved silently for a moment as he invented, George B. Wilson at the Gasoline Pump, or something like that.  Catherine leaned close to me and whispered in my ear:  Neither of them can stand the person theyre married to.  Cant they?  Cant stand them. She looked at Myrtle and then at Tom. What I say is, why go on living with them if they cant stand them? If I was them Id get a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two women, one of whom is married to a man named George B. Wilson. The first woman says that she is scared of her neighbor, who is a wealthy man named Gatsbys. The second woman says that she does not understand why people stay married to someone if they cannot stand them.

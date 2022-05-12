@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: resentment by his having slighted one of her       daughters.        Elizabeth Bennet had been obliged, by the scarcity of gentlemen,       to sit down for two dances; and during part of that time, Mr.       Darcy had been standing near enough for her to overhear a       conversation between him and Mr. Bingley, who came from the dance       for a few minutes, to press his friend to join it.        Come, Darcy, said he, I must have you dance. I hate to see you       standing about by yourself in this stupid manner. You had much       better dance.        I certainly shall not. You know how I detest it, unless I am       particularly acquainted with my partner. At such an assembly as       this, it would be insupportable. Your sisters are engaged, and       there is not another woman in the room whom it would not be a       punishment to me to stand up with.        I would not be so fastidious as you are, cried Bingley,       for a kingdom! Upon my honour, I never met with so many pleasant       girls in my life as I have this evening; and there are several of       them you see uncommonly pretty.        _You_ are dancing with the only handsome girl in the room, said       Mr. Darcy, looking at the eldest Miss Bennet.        Oh! she is the most beautiful creature I ever beheld! But there       is one of her sisters sitting down just behind you, who is very       pretty, and I dare say very agreeable. Do let me ask my partner       to introduce you.        Which
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Mr. Darcy's conversation with Mr. Bingley about the Bennet sisters. Mr. Darcy is not interested in dancing with any of the Bennet sisters, but Mr. Bingley finds them all very pleasant and pretty.

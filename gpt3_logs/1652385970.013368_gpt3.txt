@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: that she would, and the argument ended only with the visit.     Chapter 6        The ladies of Longbourn soon waited on those of Netherfield. The       visit was returned in due form. Miss Bennets pleasing       manners grew on the goodwill of Mrs. Hurst and Miss Bingley; and       though the mother was found to be intolerable, and the younger       sisters not worth speaking to, a wish of being better acquainted       with _them_ was expressed towards the two eldest. By Jane this       attention was received with the greatest pleasure; but Elizabeth       still saw superciliousness in their treatment of everybody,       hardly excepting even her sister, and could not like them; though       their kindness to Jane, such as it was, had a value as arising in       all probability from the influence of their brothers admiration.       It was generally evident whenever they met, that he _did_ admire       her; and to _her_ it was equally evident that Jane was yielding to       the preference which she had begun to entertain for him from the       first, and was in a way to be very much in love; but she       considered with pleasure that it was not likely to be discovered       by the world in general, since Jane united with great strength       of feeling, a composure of temper and a uniform cheerfulness of       manner which would guard her from the suspicions of the       impertinent. She mentioned this to her friend Miss Lucas.        It may perhaps be pleasant, replied
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The ladies of Longbourn visit the ladies of Netherfield, and it is evident that Mr. Bingley admires Jane. Jane is pleased by this, and Miss Lucas agrees that it is a good thing that Jane is not likely to be suspected by the world of being in love.

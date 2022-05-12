@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: that could have been.   III.  I slept at Baker Street that night, and we were engaged upon our toast and coffee in the morning when the King of Bohemia rushed into the room.  You have really got it! he cried, grasping Sherlock Holmes by either shoulder and looking eagerly into his face.  Not yet.  But you have hopes?  I have hopes.  Then, come. I am all impatience to be gone.  We must have a cab.  No, my brougham is waiting.  Then that will simplify matters. We descended and started off once more for Briony Lodge.  Irene Adler is married, remarked Holmes.  Married! When?  Yesterday.  But to whom?  To an English lawyer named Norton.  But she could not love him.  I am in hopes that she does.  And why in hopes?  Because it would spare your Majesty all fear of future annoyance. If the lady loves her husband, she does not love your Majesty. If she does not love your Majesty, there is no reason why she should interfere with your Majestys plan.  It is true. And yet! Well! I wish she had been of my own station! What a queen she would have made! He relapsed into a moody silence, which was not broken until we drew up in Serpentine Avenue.  The door of Briony Lodge was open, and an elderly woman stood upon the steps. She watched us with a sardonic eye as we stepped from the brougham.  Mr. Sherlock Holmes, I believe? said she.  I am Mr. Holmes, answered my companion, looking at her with a questioning and rather startled gaze.  Indeed! My
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Irene Adler is married, and Sherlock Holmes is in hopes that she loves her husband, because it would spare the King of Bohemia all fear of future annoyance.

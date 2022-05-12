@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: thing you know  Dont believe everything you hear, Nick, he advised me.  I said lightly that I had heard nothing at all, and a few minutes later I got up to go home. They came to the door with me and stood side by side in a cheerful square of light. As I started my motor Daisy peremptorily called: Wait!  I forgot to ask you something, and its important. We heard you were engaged to a girl out West.  Thats right, corroborated Tom kindly. We heard that you were engaged.  Its a libel. Im too poor.  But we heard it, insisted Daisy, surprising me by opening up again in a flower-like way. We heard it from three people, so it must be true.  Of course I knew what they were referring to, but I wasnt even vaguely engaged. The fact that gossip had published the banns was one of the reasons I had come East. You cant stop going with an old friend on account of rumours, and on the other hand I had no intention of being rumoured into marriage.  Their interest rather touched me and made them less remotely richnevertheless, I was confused and a little disgusted as I drove away. It seemed to me that the thing for Daisy to do was to rush out of the house, child in armsbut apparently there were no such intentions in her head. As for Tom, the fact that he had some woman in New York was really less surprising than that he had been depressed by a book. Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's reaction to hearing gossip about himself. He is not engaged, but is confused and disgusted by the way his friends seem to believe the rumours.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to that. When you raise your cry of fire, it will be taken up by quite a number of people. You may then walk to the end of the street, and I will rejoin you in ten minutes. I hope that I have made myself clear?  I am to remain neutral, to get near the window, to watch you, and at the signal to throw in this object, then to raise the cry of fire, and to wait you at the corner of the street.  Precisely.  Then you may entirely rely on me.  That is excellent. I think, perhaps, it is almost time that I prepare for the new role I have to play.  He disappeared into his bedroom and returned in a few minutes in the character of an amiable and simple-minded Nonconformist clergyman. His broad black hat, his baggy trousers, his white tie, his sympathetic smile, and general look of peering and benevolent curiosity were such as Mr. John Hare alone could have equalled. It was not merely that Holmes changed his costume. His expression, his manner, his very soul seemed to vary with every fresh part that he assumed. The stage lost a fine actor, even as science lost an acute reasoner, when he became a specialist in crime.  It was a quarter past six when we left Baker Street, and it still wanted ten minutes to the hour when we found ourselves in Serpentine Avenue. It was already dusk, and the lamps were just being lighted as we paced up and down in front of Briony Lodge, waiting for the coming of its occupant. The house was just such as I had pictured it from Sherlock Holmes succinct
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Holmes and Watson are planning to use a fire as a distraction to break into a house. Holmes will pose as a clergyman, and Watson will wait for his signal to throw an object through the window and raise the alarm.

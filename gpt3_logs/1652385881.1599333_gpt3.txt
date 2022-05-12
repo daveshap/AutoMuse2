@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: announced as we rose in the elevator. And, of course, I got to call up my sister, too.  The apartment was on the top floora small living-room, a small dining-room, a small bedroom, and a bath. The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it, so that to move about was to stumble continually over scenes of ladies swinging in the gardens of Versailles. The only picture was an over-enlarged photograph, apparently a hen sitting on a blurred rock. Looked at from a distance, however, the hen resolved itself into a bonnet, and the countenance of a stout old lady beamed down into the room. Several old copies of Town Tattle lay on the table together with a copy of Simon Called Peter, and some of the small scandal magazines of Broadway. Mrs. Wilson was first concerned with the dog. A reluctant elevator boy went for a box full of straw and some milk, to which he added on his own initiative a tin of large, hard dog biscuitsone of which decomposed apathetically in the saucer of milk all afternoon. Meanwhile Tom brought out a bottle of whisky from a locked bureau door.  I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight oclock the apartment was full of cheerful sun. Sitting on Toms lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator goes to visit their friend Tom and his wife Mrs. Wilson. They live in a small apartment on the top floor with a lot of furniture and a big photograph of an old lady. They have some drinks and then Mrs. Wilson starts making phone calls. The narrator goes to buy cigarettes and comes back to find Tom and Mrs. Wilson passed out.

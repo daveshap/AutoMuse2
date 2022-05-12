@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: was it, old fellow? What happened to you? Tell us all about it!  Last came a little feeble, squeaking voice, (Thats Bill, thought Alice,) Well, I hardly knowNo more, thank ye; Im better nowbut Im a deal too flustered to tell youall I know is, something comes at me like a Jack-in-the-box, and up I goes like a sky-rocket!  So you did, old fellow! said the others.  We must burn the house down! said the Rabbits voice; and Alice called out as loud as she could, If you do, Ill set Dinah at you!  There was a dead silence instantly, and Alice thought to herself, I wonder what they _will_ do next! If they had any sense, theyd take the roof off. After a minute or two, they began moving about again, and Alice heard the Rabbit say, A barrowful will do, to begin with.  A barrowful of _what?_ thought Alice; but she had not long to doubt, for the next moment a shower of little pebbles came rattling in at the window, and some of them hit her in the face. Ill put a stop to this, she said to herself, and shouted out, Youd better not do that again! which produced another dead silence.  Alice noticed with some surprise that the pebbles were all turning into little cakes as they lay on the floor, and a bright idea came into her head. If I eat one of these cakes, she thought, its sure to make _some_ change in my size; and as it cant possibly make me larger, it must make me smaller, I suppose.  So she swallowed one of the cakes, and was delighted to find that
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice encounters a group of rabbits who tell her to go away. She then finds herself in a room full of cakes, which she eats, and shrinks.

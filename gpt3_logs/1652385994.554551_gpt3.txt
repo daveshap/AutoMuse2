@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you often dance at St. Jamess?        Never, sir.        Do you not think it would be a proper compliment to the place?        It is a compliment which I never pay to any place if I can avoid       it.        You have a house in town, I conclude?        Mr. Darcy bowed.        I had once some thoughts of fixing in town myselffor I am       fond of superior society; but I did not feel quite certain that       the air of London would agree with Lady Lucas.        He paused in hopes of an answer; but his companion was not       disposed to make any; and Elizabeth at that instant moving       towards them, he was struck with the notion of doing a very       gallant thing, and called out to her,        My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must       allow me to present this young lady to you as a very desirable       partner. You cannot refuse to dance, I am sure, when so much       beauty is before you. And, taking her hand, he would have given       it to Mr. Darcy, who, though extremely surprised, was not       unwilling to receive it, when she instantly drew back, and said       with some discomposure to Sir William,        Indeed, sir, I have not the least intention of dancing. I       entreat you not to suppose that I moved this way in order to beg       for a partner.        Mr. Darcy, with grave propriety, requested to be allowed the       honour of her hand, but in vain. Elizabeth was determined; nor       did Sir William at all
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a conversation between Mr. Darcy and Sir William, in which Sir William tries to convince Darcy to dance with Elizabeth. Darcy is hesitant, but Sir William persists and eventually Darcy agrees. Elizabeth, however, is not interested in dancing with Darcy and quickly turns him down.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: again! repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, Ive tried every way, and nothing seems to suit them!  I havent the least idea what youre talking about, said Alice.  Ive tried the roots of trees, and Ive tried banks, and Ive tried hedges, the Pigeon went on, without attending to her; but those serpents! Theres no pleasing them!  Alice was more and more puzzled, but she thought there was no use in saying anything more till the Pigeon had finished.  As if it wasnt trouble enough hatching the eggs, said the Pigeon; but I must be on the look-out for serpents night and day! Why, I havent had a wink of sleep these three weeks!  Im very sorry youve been annoyed, said Alice, who was beginning to see its meaning.  And just as Id taken the highest tree in the wood, continued the Pigeon, raising its voice to a shriek, and just as I was thinking I should be free of them at last, they must needs come wriggling down from the sky! Ugh, Serpent!  But Im _not_ a serpent, I tell you! said Alice. Im aIm a  Well! _What_ are you? said the Pigeon. I can see youre trying to invent something!  IIm a little girl, said Alice, rather doubtfully, as she remembered the number of changes she had gone through that day.  A likely story indeed! said the Pigeon in a tone of the deepest contempt. Ive seen a good many little girls in my time, but never _one_ with such a neck as that! No, no! Youre a serpent; and theres
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Pigeon is complaining about the serpents, and Alice is trying to explain that she is not a serpent. The Pigeon is not convinced.

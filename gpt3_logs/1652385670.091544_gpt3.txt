@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: took the hookah out of its mouth again, and said, So you think youre changed, do you?  Im afraid I am, sir, said Alice; I cant remember things as I usedand I dont keep the same size for ten minutes together!  Cant remember _what_ things? said the Caterpillar.  Well, Ive tried to say How doth the little busy bee, but it all came different! Alice replied in a very melancholy voice.  Repeat, _You are old, Father William_, said the Caterpillar.  Alice folded her hands, and began:  You are old, Father William, the young man said,     And your hair has become very white; And yet you incessantly stand on your head     Do you think, at your age, it is right?  In my youth, Father William replied to his son,     I feared it might injure the brain; But, now that Im perfectly sure I have none,     Why, I do it again and again.  You are old, said the youth, as I mentioned before,     And have grown most uncommonly fat; Yet you turned a back-somersault in at the door     Pray, what is the reason of that?  In my youth, said the sage, as he shook his grey locks,     I kept all my limbs very supple By the use of this ointmentone shilling the box     Allow me to sell you a couple?  You are old, said the youth, and your jaws are too weak     For anything tougher than suet; Yet you finished the goose, with the bones and the beak     Pray, how did you manage to do it?  In my youth, said his father, I took to the law,     And argued each case
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Caterpillar is speaking to Alice, and comments on how she seems to have changed. Alice replies that she can't remember things as well as she used to, and the Caterpillar asks what she can't remember. Alice then recites a poem about an old man, and the Caterpillar comments on her performance.

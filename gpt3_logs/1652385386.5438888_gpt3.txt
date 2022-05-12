@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Chapter 40    Chapter 41    Chapter 42    Chapter 43    Chapter 44    Chapter 45    Chapter 46    Chapter 47    Chapter 48    Chapter 49    Chapter 50    Chapter 51    Chapter 52    Chapter 53    Chapter 54    Chapter 55    Chapter 56    Chapter 57    Chapter 58    Chapter 59    Chapter 60    Chapter 61     Chapter 1        It is a truth universally acknowledged, that a single man in       possession of a good fortune, must be in want of a wife.        However little known the feelings or views of such a man may be       on his first entering a neighbourhood, this truth is so well       fixed in the minds of the surrounding families, that he is       considered as the rightful property of some one or other of their       daughters.        My dear Mr. Bennet, said his lady to him one day, have you       heard that Netherfield Park is let at last?        Mr. Bennet replied that he had not.        But it is, returned she; for Mrs. Long has just been here, and       she told me all about it.        Mr. Bennet made no answer.        Do not you want to know who has taken it? cried his wife       impatiently.        _You_ want to tell me, and I have no objection to hearing it.        This was invitation enough.        Why, my dear, you must know, Mrs. Long says that Netherfield is       taken by a young man of large fortune from the north of England;       that he came down on Monday in a chaise and four to see the       place, and was so much delighted with it that he
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mr. and Mrs. Bennet discuss the news that Netherfield Park has been let to a wealthy young man from up north.

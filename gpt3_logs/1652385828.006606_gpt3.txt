@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to him any more. When, almost immediately, the telephone rang inside and the butler left the porch Daisy seized upon the momentary interruption and leaned towards me.  Ill tell you a family secret, she whispered enthusiastically. Its about the butlers nose. Do you want to hear about the butlers nose?  Thats why I came over tonight.  Well, he wasnt always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people. He had to polish it from morning till night, until finally it began to affect his nose  Things went from bad to worse, suggested Miss Baker.  Yes. Things went from bad to worse, until finally he had to give up his position.  For a moment the last sunshine fell with romantic affection upon her glowing face; her voice compelled me forward breathlessly as I listenedthen the glow faded, each light deserting her with lingering regret, like children leaving a pleasant street at dusk.  The butler came back and murmured something close to Toms ear, whereupon Tom frowned, pushed back his chair, and without a word went inside. As if his absence quickened something within her, Daisy leaned forward again, her voice glowing and singing.  I love to see you at my table, Nick. You remind me of aof a rose, an absolute rose. Doesnt he? She turned to Miss Baker for confirmation: An absolute rose?  This was untrue. I am not even faintly like a rose. She was only extemporizing, but a stirring warmth
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Daisy's affection for Nick, and her admiration for his resemblance to a rose.

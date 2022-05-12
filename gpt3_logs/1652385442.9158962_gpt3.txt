@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: German. Do you note the peculiar construction of the sentenceThis account of you we have from all quarters received. A Frenchman or Russian could not have written that. It is the German who is so uncourteous to his verbs. It only remains, therefore, to discover what is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face. And here he comes, if I am not mistaken, to resolve all our doubts.  As he spoke there was the sharp sound of horses hoofs and grating wheels against the curb, followed by a sharp pull at the bell. Holmes whistled.  A pair, by the sound, said he. Yes, he continued, glancing out of the window. A nice little brougham and a pair of beauties. A hundred and fifty guineas apiece. Theres money in this case, Watson, if there is nothing else.  I think that I had better go, Holmes.  Not a bit, Doctor. Stay where you are. I am lost without my Boswell. And this promises to be interesting. It would be a pity to miss it.  But your client  Never mind him. I may want your help, and so may he. Here he comes. Sit down in that armchair, Doctor, and give us your best attention.  A slow and heavy step, which had been heard upon the stairs and in the passage, paused immediately outside the door. Then there was a loud and authoritative tap.  Come in! said Holmes.  A man entered who could hardly have been less than six feet six inches in height, with the chest and limbs of a Hercules. His dress was rich with a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man enters who is very tall with a muscular build. He is richly dressed.

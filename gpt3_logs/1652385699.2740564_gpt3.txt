@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from the Queen to play croquet. The Frog-Footman repeated, in the same solemn tone, only changing the order of the words a little, From the Queen. An invitation for the Duchess to play croquet.  Then they both bowed low, and their curls got entangled together.  Alice laughed so much at this, that she had to run back into the wood for fear of their hearing her; and when she next peeped out the Fish-Footman was gone, and the other was sitting on the ground near the door, staring stupidly up into the sky.  Alice went timidly up to the door, and knocked.  Theres no sort of use in knocking, said the Footman, and that for two reasons. First, because Im on the same side of the door as you are; secondly, because theyre making such a noise inside, no one could possibly hear you. And certainly there _was_ a most extraordinary noise going on withina constant howling and sneezing, and every now and then a great crash, as if a dish or kettle had been broken to pieces.  Please, then, said Alice, how am I to get in?  There might be some sense in your knocking, the Footman went on without attending to her, if we had the door between us. For instance, if you were _inside_, you might knock, and I could let you out, you know. He was looking up into the sky all the time he was speaking, and this Alice thought decidedly uncivil. But perhaps he cant help it, she said to herself; his eyes are so _very_ nearly at the top of his head. But at any rate he might answer
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Footman tells Alice that it is useless to knock on the door because he is on the same side as she is. He also says that there is so much noise going on inside that no one would be able to hear her anyway.

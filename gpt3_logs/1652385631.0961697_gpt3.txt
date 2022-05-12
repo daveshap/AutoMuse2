@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: a shiver.  I beg your pardon! said the Mouse, frowning, but very politely: Did you speak?  Not I! said the Lory hastily.  I thought you did, said the Mouse. I proceed. Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable  Found _what_? said the Duck.  Found _it_, the Mouse replied rather crossly: of course you know what it means.  I know what it means well enough, when _I_ find a thing, said the Duck: its generally a frog or a worm. The question is, what did the archbishop find?  The Mouse did not notice this question, but hurriedly went on, found it advisable to go with Edgar Atheling to meet William and offer him the crown. Williams conduct at first was moderate. But the insolence of his Normans How are you getting on now, my dear? it continued, turning to Alice as it spoke.  As wet as ever, said Alice in a melancholy tone: it doesnt seem to dry me at all.  In that case, said the Dodo solemnly, rising to its feet, I move that the meeting adjourn, for the immediate adoption of more energetic remedies  Speak English! said the Eaglet. I dont know the meaning of half those long words, and, whats more, I dont believe you do either! And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly.  What I was going to say, said the Dodo in an offended tone, was, that the best thing to get us dry would
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Mouse is telling the Duck about how the archbishop found it advisable to go with Edgar Atheling to meet William and offer him the crown. However, the Duck interrupts and does not seem to understand what the Mouse is saying.

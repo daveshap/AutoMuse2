@@ -1,0 +1,30 @@
+Outline: 1. Dr. Watson is waiting at Baker Street for Sherlock Holmes to return from a case 
+2. Mrs. Hudson, their landlady, comes in to announce that a gentleman is there to see Holmes 
+3. The gentleman turns out to be an old friend of Holmes', Mr. Stamford, who has come to offer him a place to stay at his boarding house 
+4. Stamford tells Watson that he has already met Holmes' new roommate, a Mr. Neil Swain 
+5. Stamford leaves and Holmes soon returns, excited to have a new case 
+6. He explains that a woman, Mrs. Warren, came to see him and told him about her husband's strange behavior 
+7. Mrs. Warren's husband, Neville, has been acting very strangely since he came back from India and she is worried about him 
+8. Holmes and Watson go to Mrs. Warren's house to meet Neville 
+9. Neville is a tall, thin man with a very dark complexion and he is very nervous 
+10. He tells them that he has been having nightmares and that he is afraid to go to sleep 
+11. Mrs. Warren tells them that Neville has been behaving very differently since he came back from India and she is worried about him 
+12. Holmes and Watson go to India to try to find out what happened to Neville 
+13. They meet with Neville's old friend, Colonel Sebastian Moran, who tells them that Neville was involved in a very strange incident while he was in India 
+14. Moran tells them that Neville was part of a group of British soldiers who were attacked by a group of native Indians 
+15. The Indians were led by a man called the Maharaja, who was a very powerful magician 
+16. The Maharaja put a spell on Neville and the other soldiers, which made them all very ill 
+17. Neville was the only one who survived and he was sent back to England 
+18. Moran tells Holmes and Watson that he believes the Maharaja is still after Neville and that he is in danger 
+19. Holmes and Watson go to see the Maharaja 
+20. The Maharaja tells them that he is not after Neville and that he is not a magician 
+21. He tells them that Neville is in danger from someone else 
+22. Holmes and Watson go back to England and they find out that Neville has been murdered 
+23. They also find out that Moran was the one who killed him 
+24. Moran is arrested and Holmes and Watson solve the case
+
+Story so far:  The Project Gutenberg eBook of The Adventures of Sherlock Holmes by Arthur Conan Doyle is a free eBook that can be used by anyone in the United States with very few restrictions. The eBook is updated regularly and is available in English. Sherlock Holmes was not a man who felt emotion, except for one woman: Irene Adler. He respected her for her intelligence and ability to read people, but their relationship was never romantic. Sherlock Holmes is still living in Baker Street and is still interested in crime. Watson sees him one night and they catch up. Sherlock Holmes deduces that Watson has gained weight and gone into practice again, based on his appearance. The passage describes how Sherlock Holmes deduces various things about a person based on their appearance. He explains that it is simple to do once you know how, but that most people are baffled by the process. A man receives a note asking him to meet a masked visitor at 8:15 to discuss a matter of great importance. The man has no idea what the meeting could be about. The passage discusses a note written on paper that is strong and stiff, with a peculiar texture. The paper is from Bohemia, and the note was written by someone who is likely well-to-do.
+
+Last chunk: one begins to twist facts to suit theories, instead of theories to suit facts. But the note itself. What do you deduce from it?”  I carefully examined the writing, and the paper upon which it was written.  “The man who wrote it was presumably well to do,” I remarked, endeavouring to imitate my companion’s processes. “Such paper could not be bought under half a crown a packet. It is peculiarly strong and stiff.”  “Peculiar—that is the very word,” said Holmes. “It is not an English paper at all. Hold it up to the light.”  I did so, and saw a large “E” with a small “g,” a “P,” and a large “G” with a small “t” woven into the texture of the paper.  “What do you make of that?” asked Holmes.  “The name of the maker, no doubt; or his monogram, rather.”  “Not at all. The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’ which is the German for ‘Company.’ It is a customary contraction like our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.” He took down a heavy brown volume from his shelves. “Eglow, Eglonitz—here we are, Egria. It is in a German-speaking country—in Bohemia, not far from Carlsbad. ‘Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette.  “The paper was made in Bohemia,” I said.  “Precisely. And the man who wrote the note is a
+
+Next chunk:

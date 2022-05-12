@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: Wheres the other ladder?Why, I hadnt to bring but one; Bills got the otherBill! fetch it here, lad!Here, put em up at this cornerNo, tie em together firstthey dont reach half high enough yetOh! theyll do well enough; dont be particularHere, Bill! catch hold of this ropeWill the roof bear?Mind that loose slateOh, its coming down! Heads below! (a loud crash)Now, who did that?It was Bill, I fancyWhos to go down the chimney?Nay, _I_ shant! _You_ do it!_That_ I wont, then!Bills to go downHere, Bill! the master says youre to go down the chimney!  Oh! So Bills got to come down the chimney, has he? said Alice to herself. Shy, they seem to put everything upon Bill! I wouldnt be in Bills place for a good deal: this fireplace is narrow, to be sure; but I _think_ I can kick a little!  She drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldnt guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself This is Bill, she gave one sharp kick, and waited to see what would happen next.  The first thing she heard was a general chorus of There goes Bill! then the Rabbits voice alongCatch him, you by the hedge! then silence, and then another confusion of voicesHold up his headBrandy nowDont choke himHow
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A little animal is scratching and scrambling in the chimney close to Alice. She kicks it, and Bill falls out of the chimney.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of ashes; the third was a garageRepairs. George B. Wilson. Cars bought and sold.and I followed Tom inside.  The interior was unprosperous and bare; the only car visible was the dust-covered wreck of a Ford which crouched in a dim corner. It had occurred to me that this shadow of a garage must be a blind, and that sumptuous and romantic apartments were concealed overhead, when the proprietor himself appeared in the door of an office, wiping his hands on a piece of waste. He was a blond, spiritless man, anaemic, and faintly handsome. When he saw us a damp gleam of hope sprang into his light blue eyes.  Hello, Wilson, old man, said Tom, slapping him jovially on the shoulder. Hows business?  I cant complain, answered Wilson unconvincingly. When are you going to sell me that car?  Next week; Ive got my man working on it now.  Works pretty slow, dont he?  No, he doesnt, said Tom coldly. And if you feel that way about it, maybe Id better sell it somewhere else after all.  I dont mean that, explained Wilson quickly. I just meant  His voice faded off and Tom glanced impatiently around the garage. Then I heard footsteps on a stairs, and in a moment the thickish figure of a woman blocked out the light from the office door. She was in the middle thirties, and faintly stout, but she carried her flesh sensuously as some women can. Her face, above a spotted dress of dark blue crpe-de-chine, contained no facet or gleam of beauty, but there was an immediately
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+George B. Wilson is the owner of a struggling garage. When Tom and the narrator enter, Wilson seems hopeful that they will buy a car. Tom is unimpressed by the garage and tells Wilson that he may take his business elsewhere. Wilson's wife then appears and Tom is immediately struck by her sensual beauty.

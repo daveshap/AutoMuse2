@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from the tower of his raft, or taking the sun on the hot sand of his beach while his two motorboats slit the waters of the Sound, drawing aquaplanes over cataracts of foam. On weekends his Rolls-Royce became an omnibus, bearing parties to and from the city between nine in the morning and long past midnight, while his station wagon scampered like a brisk yellow bug to meet all trains. And on Mondays eight servants, including an extra gardener, toiled all day with mops and scrubbing-brushes and hammers and garden-shears, repairing the ravages of the night before.  Every Friday five crates of oranges and lemons arrived from a fruiterer in New Yorkevery Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butlers thumb.  At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsbys enormous garden. On buffet tables, garnished with glistening hors-doeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold. In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.  By seven oclock the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Gatsby's parties are legendary, with huge crowds, elaborate food, and lots of alcohol. A big machine in the kitchen can quickly juice 200 oranges. The parties are often so rowdy that the house requires significant repairs afterwards.

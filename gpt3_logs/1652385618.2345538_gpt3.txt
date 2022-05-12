@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: thought Alice; I daresay its a French mouse, come over with William the Conqueror. (For, with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.) So she began again: O est ma chatte? which was the first sentence in her French lesson-book. The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright. Oh, I beg your pardon! cried Alice hastily, afraid that she had hurt the poor animals feelings. I quite forgot you didnt like cats.  Not like cats! cried the Mouse, in a shrill, passionate voice. Would _you_ like cats if you were me?  Well, perhaps not, said Alice in a soothing tone: dont be angry about it. And yet I wish I could show you our cat Dinah: I think youd take a fancy to cats if you could only see her. She is such a dear quiet thing, Alice went on, half to herself, as she swam lazily about in the pool, and she sits purring so nicely by the fire, licking her paws and washing her faceand she is such a nice soft thing to nurseand shes such a capital one for catching miceoh, I beg your pardon! cried Alice again, for this time the Mouse was bristling all over, and she felt certain it must be really offended. We wont talk about her any more if youd rather not.  We indeed! cried the Mouse, who was trembling down to the end of his tail. As if _I_ would talk on such a subject! Our family always _hated_ cats: nasty, low, vulgar things! Dont let me hear the name again!
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice encounters a mouse who is terrified of cats. The mouse explains that his family has always hated cats, and he doesn't want to hear their name again.

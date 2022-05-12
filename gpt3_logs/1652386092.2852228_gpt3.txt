@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: mistress told me that you were likely to call. She left this morning with her husband by the 5:15 train from Charing Cross for the Continent.  What! Sherlock Holmes staggered back, white with chagrin and surprise. Do you mean that she has left England?  Never to return.  And the papers? asked the King hoarsely. All is lost.  We shall see. He pushed past the servant and rushed into the drawing-room, followed by the King and myself. The furniture was scattered about in every direction, with dismantled shelves and open drawers, as if the lady had hurriedly ransacked them before her flight. Holmes rushed at the bell-pull, tore back a small sliding shutter, and, plunging in his hand, pulled out a photograph and a letter. The photograph was of Irene Adler herself in evening dress, the letter was superscribed to Sherlock Holmes, Esq. To be left till called for. My friend tore it open, and we all three read it together. It was dated at midnight of the preceding night and ran in this way:      MY DEAR MR. SHERLOCK HOLMES,You really did it very well. You took     me in completely. Until after the alarm of fire, I had not a     suspicion. But then, when I found how I had betrayed myself, I     began to think. I had been warned against you months ago. I had     been told that, if the King employed an agent, it would certainly     be you. And your address had been given me. Yet, with all this, you     made me reveal what you wanted to know. Even after I became
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The woman in the passage has left England, and the person she was speaking to (Sherlock Holmes) is surprised and disappointed. He had been hoping to get some information from her.

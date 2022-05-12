@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Meryton?        With great energy; but it is a subject which always makes a lady       energetic.        You are severe on us.        It will be _her_ turn soon to be teased, said Miss Lucas. I am       going to open the instrument, Eliza, and you know what follows.        You are a very strange creature by way of a friend!always       wanting me to play and sing before anybody and everybody! If my       vanity had taken a musical turn, you would have been invaluable;       but as it is, I would really rather not sit down before those who       must be in the habit of hearing the very best performers. On       Miss Lucass persevering, however, she added, Very well; if it       must be so, it must. And gravely glancing at Mr. Darcy, There       is a fine old saying, which everybody here is of course familiar       withKeep your breath to cool your porridge,and I shall keep       mine to swell my song.        Her performance was pleasing, though by no means capital. After a       song or two, and before she could reply to the entreaties of       several that she would sing again, she was eagerly succeeded at       the instrument by her sister Mary, who having, in consequence of       being the only plain one in the family, worked hard for knowledge       and accomplishments, was always impatient for display.        Mary had neither genius nor taste; and though vanity had given       her application, it had given her likewise a pedantic air and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The lady in the passage is reluctant to play and sing for others, but does so anyway. Her sister Mary is eager to display her own talents and takes over the instrument after a few songs.

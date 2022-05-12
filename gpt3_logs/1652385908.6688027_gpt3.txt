@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: divorce and get married to each other right away.  Doesnt she like Wilson either?  The answer to this was unexpected. It came from Myrtle, who had overheard the question, and it was violent and obscene.  You see, cried Catherine triumphantly. She lowered her voice again. Its really his wife thats keeping them apart. Shes a Catholic, and they dont believe in divorce.  Daisy was not a Catholic, and I was a little shocked at the elaborateness of the lie.  When they do get married, continued Catherine, theyre going West to live for a while until it blows over.  Itd be more discreet to go to Europe.  Oh, do you like Europe? she exclaimed surprisingly. I just got back from Monte Carlo.  Really.  Just last year. I went over there with another girl.  Stay long?  No, we just went to Monte Carlo and back. We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms. We had an awful time getting back, I can tell you. God, how I hated that town!  The late afternoon sky bloomed in the window for a moment like the blue honey of the Mediterraneanthen the shrill voice of Mrs. McKee called me back into the room.  I almost made a mistake, too, she declared vigorously. I almost married a little kike whod been after me for years. I knew he was below me. Everybody kept saying to me: Lucille, that mans way below you! But if I hadnt met Chester, hed of got me sure.  Yes,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Catherine tells Daisy that she should divorce Wilson and marry her instead, because Daisy's wife is a Catholic and doesn't believe in divorce. Daisy is shocked by the lie, but Catherine continues, saying that they would have to go West to live for a while until the scandal blows over. Mrs. McKee interrupts to tell her own story of almost marrying a man beneath her.

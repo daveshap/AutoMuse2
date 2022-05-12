@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over) yes, thats about the right distancebut then I wonder what Latitude or Longitude Ive got to? (Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)  Presently she began again. I wonder if I shall fall right _through_ the earth! How funny itll seem to come out among the people that walk with their heads downward! The Antipathies, I think (she was rather glad there _was_ no one listening, this time, as it didnt sound at all the right word) but I shall have to ask them what the name of the country is, you know. Please, Maam, is this New Zealand or Australia? (and she tried to curtsey as she spokefancy _curtseying_ as youre falling through the air! Do you think you could manage it?) And what an ignorant little girl shell think me for asking! No, itll never do to ask: perhaps I shall see it written up somewhere.  Down, down, down. There was nothing else to do, so Alice soon began talking again. Dinahll miss me very much to-night, I should think! (Dinah was the cat.) I hope theyll remember her saucer of milk at tea-time. Dinah my dear! I wish you were down here with me! There are no mice in the air, Im afraid, but you might catch a bat, and thats very like a mouse, you know. But do cats eat bats, I wonder? And here Alice began to get rather sleepy, and went on saying to herself, in
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is falling down a rabbit hole and wonders aloud about the different things she's passing. She wonders if she'll fall all the way through the earth and come out in Australia or New Zealand. Alice gets sleepy and continues to talk to herself.

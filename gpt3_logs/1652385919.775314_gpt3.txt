@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: room rang full of her artificial laughter.  My dear, she cried, Im going to give you this dress as soon as Im through with it. Ive got to get another one tomorrow. Im going to make a list of all the things Ive got to get. A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mothers grave thatll last all summer. I got to write down a list so I wont forget all the things I got to do.  It was nine oclockalmost immediately afterward I looked at my watch and found it was ten. Mr. McKee was asleep on a chair with his fists clenched in his lap, like a photograph of a man of action. Taking out my handkerchief I wiped from his cheek the spot of dried lather that had worried me all the afternoon.  The little dog was sitting on the table looking with blind eyes through the smoke, and from time to time groaning faintly. People disappeared, reappeared, made plans to go somewhere, and then lost each other, searched for each other, found each other a few feet away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisys name.  Daisy! Daisy! Daisy! shouted Mrs. Wilson. Ill say it whenever I want to! Daisy! Dai  Making a short deft movement, Tom Buchanan broke her nose with his open hand.  Then there were bloody towels upon the bathroom floor, and womens voices scolding,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a party where people are milling around, talking, and enjoying themselves. However, one woman's laughter is artificial, and she makes plans to buy new things tomorrow. Mr. McKee falls asleep, and the little dog is sitting on the table looking through the smoke. Tom Buchanan and Mrs. Wilson get into a discussion and he ends up breaking her nose.

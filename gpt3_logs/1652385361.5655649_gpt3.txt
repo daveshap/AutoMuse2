@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: tradition that were descended from the Dukes of Buccleuch, but the actual founder of my line was my grandfathers brother, who came here in fifty-one, sent a substitute to the Civil War, and started the wholesale hardware business that my father carries on today.  I never saw this great-uncle, but Im supposed to look like himwith special reference to the rather hard-boiled painting that hangs in fathers office. I graduated from New Haven in 1915, just a quarter of a century after my father, and a little later I participated in that delayed Teutonic migration known as the Great War. I enjoyed the counter-raid so thoroughly that I came back restless. Instead of being the warm centre of the world, the Middle West now seemed like the ragged edge of the universeso I decided to go East and learn the bond business. Everybody I knew was in the bond business, so I supposed it could support one more single man. All my aunts and uncles talked it over as if they were choosing a prep school for me, and finally said, Whyye-es, with very grave, hesitant faces. Father agreed to finance me for a year, and after various delays I came East, permanently, I thought, in the spring of twenty-two.  The practical thing was to find rooms in the city, but it was a warm season, and I had just left a country of wide lawns and friendly trees, so when a young man at the office suggested that we take a house together in a commuting town, it sounded like a great idea. He found the house, a weather-
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's background and how he came to move to the East Coast. He reflects on how different the East Coast felt from the Midwest and how he enjoyed his time there.
