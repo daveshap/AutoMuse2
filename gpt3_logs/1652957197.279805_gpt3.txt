@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The speaker is talking to someone else about their shared interest in a project, and how excited they are about it. The other person suddenly becomes very emotional, and the speaker wonders if they are also "mad" with excitement. The other person then says they will share their story, which the speaker is very curious to hear. The passage describes a conversation between two people, in which the stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The stranger then goes on to say that he once had a friend who was the most noble of creatures, but he has since lost everything and feels hopeless. The stranger is moved by the beauty of nature, even though he is broken in spirit. The passage describes a man who is able to rise above his suffering and misery, and who has an extraordinary ability to judge and understand the causes of things. The speaker admires this man greatly and yesterday the man confided in the speaker, telling him of his own misfortunes and how they have changed his outlook on life. The narrator is happy to hear that the man wants to tell his story, but doesn't want to hear it because it will just make the man relive his pain. The man tells the story anyway, saying that it might help the narrator if he is in a similar situation. The story is about how the man got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to a stranger about their shared interest in a project, and the stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The stranger then tells the story of how he got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace.

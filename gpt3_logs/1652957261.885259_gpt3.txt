@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a scene in which the characters are discussing a trip to New York. The passage describes Daisy's affection for Nick, and her admiration for his resemblance to a rose. The passage describes a woman's reaction to her husband receiving a phone call from another woman. The woman is visibly upset and leaves the table, followed by the narrator's questioning of what is happening. Miss Baker informs the narrator that the husband has a woman in New York and the wife is upset about it. The husband and wife then return to the table. The passage describes a dinner party where one of the guests, a woman, starts singing. Tom, the host, tells her that he wants to take her to the stables after dinner. The woman then gets a phone call and the subject of the stables is dropped. The dinner party ends awkwardly, with the horses never being mentioned again. The woman tells Nick that she is very cynical and that she believes that it is better for a girl to be a fool than anything else. The passage describes a scene in which Miss Baker is reading aloud to Tom from the Saturday Evening Post. As she does so, Jordan Baker observes her with a mixture of admiration and contempt. When Miss Baker finishes reading, she announces that it is time for Jordan to go to bed. The passage describes a woman named Daisy who is from Louisville. Daisy and the narrator, Nick, are going to spend time together this summer. Tom, Daisy's husband, is concerned about her spending time with Nick. The passage describes the speaker's reaction to hearing gossip about himself. He is not engaged, but is confused and disgusted by the way his friends seem to believe the rumours.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the characters are discussing a trip to New York. Daisy's affection for Nick is described, as well as her admiration for his resemblance to a rose. The passage also describes a dinner party where one of the guests, a woman, starts singing. Tom, the host, tells her that he wants to take her to the stables after dinner. The woman then gets a phone call and the subject of the stables is dropped. The dinner party ends awkwardly, with the horses never being mentioned again. The woman tells Nick that she is very cynical and that she believes that it is better for a girl to be a fool than anything else.

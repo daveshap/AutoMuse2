@@ -1,12 +1,4 @@
-Outline: 1. Alice is sitting with her sister by the river when she spots a white rabbit running by. She follows the rabbit down a hole, and falls for a long time.
-2. Alice lands in a room with a door too small for her to fit through. She finds a key on a table and uses it to unlock the door, but when she steps through she shrinks.
-3. Alice comes across a garden with a glass table and meets the March Hare, the Hatter, and a Dormouse. They have a tea party, during which the Mad Hatter and March Hare get into an argument.
-4. Alice is suddenly accused of stealing the tarts that were served at the tea party. She is put on trial, during which she meets a number of strange creatures, including the Mouse, the Dancing Bear, and the Duchess.
-5. Alice is found guilty and sentenced to death, but she manages to escape. She comes across a castle and meets the King and Queen of Hearts.
-6. Alice is put on trial again, this time for interrupting the Queen's croquet game. She is found guilty and sent to execution, but escapes once more.
-7. Alice comes across a forest and meets a Fawn, a Dodo, and Tweedledum and Tweedledee. They have a riddle competition, which Alice wins.
-8. Alice comes to a small house and meets the Knave of Hearts, who is on trial for stealing tarts. Alice is made the jury, and finds him guilty.
-9. Alice is transported back to the real world, where she wakes up from her dream.
+Outline: Alice is a young girl who falls asleep in a meadow and dreams that she follows a white rabbit down a rabbit hole. The rabbit hole leads her to a strange and fantastical world where she has a series of adventures. She meets peculiar creatures along the way, including the Cheshire Cat, the Mad Hatter, and the Queen of Hearts. In the end, Alice wakes up from her dream and realizes it was all just a dream.
 
 Story so far:  Alice's Adventures in Wonderland is a novel by Lewis Carroll. It tells the story of Alice, who falls down a rabbit hole into a fantastical world populated by strange creatures. The novel features such classic scenes as the Mad Hatter's tea party and the Queen's croquet game.
 

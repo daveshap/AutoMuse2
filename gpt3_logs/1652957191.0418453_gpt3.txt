@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The author describes his excitement and preparations for an upcoming voyage to explore unvisited regions. He is aware of the risks involved, but feels that the rewards are worth it. The author describes an accident at sea and says that he hopes nothing worse will happen on the voyage. A group of sailors on a ship in the Arctic Ocean spot a man in a sledge being pulled by dogs. Later, they hear the sound of the ice breaking and realize that their ship is now free. However, they remain cautious and stay put for the night. In the morning, they see that there is indeed a sledge and a man in the water next to their ship. A man is rescued from an ice floe by a passing ship. He is in a terrible state, but is revived and brought into the ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him. The stranger is excited by the prospect of seeing the other sledge again, but is too weak to be on deck. The narrator has promised to keep watch for him. The narrator has found a stranger on a ship who appears to be ill. The stranger gradually improves, but is very quiet and seems uneasy around others. The narrator begins to feel compassion and affection for the stranger. The speaker is talking to someone else about their shared interest in a project, and how excited they are about it. The other person suddenly becomes very emotional, and the speaker wonders if they are also "mad" with excitement. The other person then says they will share their story, which the speaker is very curious to hear.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to someone else about their shared interest in a project, and how excited they are about it. The other person suddenly becomes very emotional, and the speaker wonders if they are also "mad" with excitement. The other person then says they will share their story, which the speaker is very curious to hear.

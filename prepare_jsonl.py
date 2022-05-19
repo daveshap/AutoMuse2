@@ -1,10 +1,15 @@
 import os
 import json
+import openai
+from time import time,sleep
 
 
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
         return infile.read()
+
+
+openai.api_key = open_file('openaiapikey.txt')
 
 
 def save_file(content, filepath):
@@ -65,7 +70,7 @@ if __name__ == '__main__':
                 print('summarizing the summaries...')
                 prompt = open_file('prompt_summary.txt').replace('<<CHUNK>>', summary_chunk)
                 prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
-                prompt = gpt3_completion(prompt)
+                summary_chunk = gpt3_completion(prompt)
             last_chunk = open_file('chunks/%s' % summary)  # get the chunk equal to the currently summarized one
             next_chunk = get_next_chunk(summary, name)
             prompt = open_file('prompt_full.txt').replace('<<OUTLINE>>', outline).replace('<<SUMMARY>>', summary_chunk).replace('<<CHUNK>>', last_chunk)

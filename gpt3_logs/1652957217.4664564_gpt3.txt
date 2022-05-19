@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The narrator tells the story of their difficult past to a stranger, revealing that they are still waiting for one more event before they can rest in peace. The story includes the narrator's loving and devoted parents, their only child status for many years, and a young girl who is orphaned and taken in by a wealthy family. The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The narrator reflects on how Elizabeth's kindness and goodness inspired them and their friend Clerval to be better people. However, the narrator's idyllic childhood was eventually shattered by misfortune. At fifteen, the narrator witnesses a violent thunderstorm and sees a tree reduced to splinters by a stream of fire. A man of great research in natural philosophy explains his theory of electricity and galvanism, which fascinates the narrator. However, the narrator is discouraged from pursuing his studies after the man's theories overthrow his previous beliefs. The narrator gives up their former interests and takes up mathematics after a change in mood. They attribute this change to the intervention of a guardian angel, and find happiness in their new studies. However, Destiny has other plans, and the narrator is ultimately destroyed. The passage describes the narrator's resolve to attend university and the subsequent illness of Elizabeth, which leads to the death of the narrator's mother. The narrator's mother dies with the hope that the narrator and Elizabeth will marry.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator tells the story of their difficult past to a stranger, revealing that they are still waiting for one more event before they can rest in peace. The story includes the narrator's loving and devoted parents, their only child status for many years, and a young girl who is orphaned and taken in by a wealthy family. The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The passage goes on to describe the narrator's encounter with a man of great research in natural philosophy, which leads the narrator to take up mathematics after a change in mood. However, the narrator's idyllic childhood is eventually shattered by misfortune when the narrator's mother dies. The passage ends with the narrator's resolve to attend university.

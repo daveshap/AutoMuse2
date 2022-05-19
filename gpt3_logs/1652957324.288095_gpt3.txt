@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Mr. Bingley, a wealthy young man, is moving into the neighborhood. Mrs. Bennet is insistent that they meet him, but Mr. Bennet is not interested. Mr. Darcy is a wealthy man who is considered to be very handsome, but he is also very proud and arrogant. The passage describes Mr. Darcy's conversation with Mr. Bingley about the Bennet sisters. Mr. Darcy is not interested in dancing with any of the Bennet sisters, but Mr. Bingley finds them all very pleasant and pretty. Mr. Darcy is rude to Elizabeth and she is not pleased. This passage discusses Elizabeth's surprise at being complimented by a young man, and her friend's observations about her tendency to see the good in everyone. The passage describes the sisters of a man that the speaker likes. The speaker thinks they are proud and conceited, but notes that they are still pleasant to talk to. Mr. Bingley inherited property from his father and intended to purchase an estate, but did not live to do it. His sisters were very anxious for him to have an estate of his own. Mr. Bingley was tempted by an accidental recommendation to look at Netherfield House and took it immediately. Between him and Darcy there was a very steady friendship, in spite of great opposition of character. Darcy and Bingley have very different opinions of the people they meet at the Meryton assembly. Bingley find everyone pleasant and pretty, while Darcy finds them uninteresting and unattractive. The passage describes the family of Sir William Lucas, who lived near the Bennets and with whom they were close friends. Lady Lucas was a kind woman, and their eldest daughter was a sensible young woman whom Elizabeth liked.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the arrival of two wealthy young men, Mr. Bingley and Mr. Darcy, in the neighborhood of the Bennet sisters. Mrs. Bennet is anxious for her daughters to meet them, but Mr. Bennet is not interested. Mr. Darcy is very proud and arrogant, and is rude to Elizabeth. The passage also describes the family of Sir William Lucas, who are close friends of the Bennets.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A man tells the story of his difficult past to a stranger, revealing that he is still waiting for one more event before he can rest in peace. The story includes the man's loving and devoted parents, his only child status for many years, and a young girl who is orphaned and taken in by a wealthy family. King Arthur and his knights fought to free the holy sepulchre from the hands of the infidels. The narrator had a happy childhood and was grateful for it. He was interested in the secrets of the world, both physical and metaphysical. Clerval was interested in the morality of human actions. The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The narrator reflects on how Elizabeth's kindness and goodness inspired them and their friend Clerval to be better people. However, the narrator's idyllic childhood was eventually shattered by misfortune. The narrator's father tells him not to waste his time on the works of Cornelius Agrippa, but the narrator is enthusiastic about the book and believes it contains great secrets. The narrator describes their love of reading, particularly of wild and fanciful authors. They lament the lack of progress made by philosophers in understanding the natural world, and express their desire to uncover its secrets. The author was self-taught in philosophy and became interested in the search for the philosophers stone and the elixir of life. He also attempted to raise ghosts, but was unsuccessful.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator tells the story of their difficult past to a stranger, revealing that they are still waiting for one more event before they can rest in peace. The story includes the narrator's loving and devoted parents, their only child status for many years, and a young girl who is orphaned and taken in by a wealthy family. The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The narrator reflects on how Elizabeth's kindness and goodness inspired them and their friend Clerval to be better people. However, the narrator's idyllic childhood was eventually shattered by misfortune.

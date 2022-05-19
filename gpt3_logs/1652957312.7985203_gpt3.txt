@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Mr. and Mrs. Bennet discuss the news that a wealthy young man from up north is moving into the neighborhood. Mr. Bennet is not interested in meeting him, but his wife insists. Mr. Bennet is over scrupulous and is preventing Mr. Bingley from marrying one of his daughters. The passage describes Mr. Bingley and whether or not he will be introduced to Mrs. Long. It is concluded that Mrs. Bennet will not do the introducing because she does not know him well enough herself. The girls' father will take it upon himself to decline Mr. Bingley's acquaintance after Mrs. Bennet declares she is sick of him. The passage describes Mr. Bennet's reaction to his wife's news that their girls had met a new young man. He is pleased and amused, and predicts that the man will soon be asking one of them to dance. His wife and daughters then try to get more information about him from Mr. Bennet, but he is evasive. Lady Lucas reports that Bingley is young, handsome, and agreeable, and that he plans to attend the next assembly with a large party. Mrs. Bennet is pleased at the prospect of one of her daughters marrying Bingley, and an invitation to dinner is dispatched. However, Bingley must go to town the following day and is unable to accept. Mr. Bingley arrives in Hertfordshire and is quickly followed by rumors that he is bringing a large party of twelve ladies and seven gentlemen with him to the ball. Upon his arrival, it is revealed that he has only brought six people with him. Mr. Bingley is a good-looking man with easy manners, while his sisters are fashionable women. His brother-in-law, Mr. Hurst, looks like a gentleman, and his friend Mr. Darcy is a tall and handsome man who quickly catches the attention of the room.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A wealthy young man from up north, Mr. Bingley, is moving into the neighborhood and Mrs. Bennet is insistent that they meet him. However, Mr. Bennet is not interested and is preventing Mr. Bingley from marrying one of his daughters. The passage describes Mr. Bingley and whether or not he will be introduced to Mrs. Long. It is concluded that Mrs. Bennet will not do the introducing because she does not know him well enough herself. The girls' father will take it upon himself to decline Mr. Bingley's acquaintance after Mrs. Bennet declares she is sick of him.

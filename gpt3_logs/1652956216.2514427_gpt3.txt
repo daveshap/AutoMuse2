@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Alice's Adventures in Wonderland is a novel by Lewis Carroll in which Alice falls down a rabbit hole into a fantastical world populated by strange creatures. The novel features such classic scenes as the Mad Hatter's tea party and the Queen's croquet game. Alice finds a bottle labeled "Drink Me" and decides to take a sip. She shrinks down to ten inches tall and is excited to enter the garden through the small door. However, Alice is worried that she might go out like a candle, and she tries to imagine what a candle's flame looks like after the candle is blown out. When Alice tries to enter the garden, she finds that she has forgotten the key and can't reach it. She gets tired and sits down to cry. Alice tells herself to stop crying and that it's no use to pretend to be two people. She thinks that there's hardly enough of her left to make one respectable person. However, Alice finds a cake that makes her grow larger, and she uses it to reach a key that will allow her into the garden. Alice is planning to be kind to her feet by giving them new boots for Christmas, but she finds it difficult to do so. She eventually meets the White Rabbit, who is dressed splendidly. Alice meets a rabbit who is in a hurry and drops his gloves and fan. Alice picks them up and begins talking to the rabbit, but he runs away. Alice wonders if she has been changed overnight and tries to remember who she is. Alice is confused about who she is and wonders if she has been changed into someone else. She decides that if she is indeed someone else, she would rather stay down where she is than go upstairs. Alice is surprised to find herself shrinking, and even more surprised to find herself in the sea. She wonders if she can take the train back.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice's Adventures in Wonderland is a novel by Lewis Carroll in which Alice falls down a rabbit hole into a fantastical world populated by strange creatures. Throughout the novel, Alice has various adventures, including meeting the Mad Hatter and the Queen, and eventually returning back to the real world.

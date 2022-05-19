@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Alice has various adventures in a fantastical world before returning to the real world. She meets a group of rabbits, shrinks, and runs into a crowd of animals and birds. Alice then meets a puppy and a blue caterpillar. The Caterpillar tells Alice that she will someday turn into a butterfly. The Caterpillar is speaking to Alice, and comments on how she seems to have changed. Alice replies that she can't remember things as well as she used to, and the Caterpillar asks what she can't remember. Alice then recites a poem about an old man, and the Caterpillar comments on her performance. The Caterpillar and Alice have a conversation in which the Caterpillar contradicts Alice several times. Alice gets angry and eventually the Caterpillar relents, allowing Alice to grow three inches. Alice is talking to a caterpillar, who tells her that she will get used to the creatures being easily offended. The caterpillar then tells her that one side of the mushroom will make her grow taller, and the other side will make her grow shorter. Alice tries to figure out which side is which, and ends up eating a piece of the mushroom that makes her foot shrink. Alice finds herself with a long neck in a sea of green leaves. She tries to move her hands but can't see them. A pigeon comes and beats her. The Pigeon is complaining about the serpents, and Alice is trying to explain that she is not a serpent. The Pigeon is not convinced. Alice encounters a pigeon who accuses her of being a serpent in disguise. Alice denies this, but the pigeon insists that all serpents must eat eggs. This frustrates Alice, who is not looking for eggs.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice has a series of adventures in a fantastical world, meeting various creatures along the way. The Caterpillar tells her she will turn into a butterfly, and the Pigeon accuses her of being a serpent.

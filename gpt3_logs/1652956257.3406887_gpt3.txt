@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A man is rescued from an ice floe by a passing ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him. The stranger gradually improves, but is very quiet and seems uneasy around others. The narrator begins to feel compassion and affection for the stranger. The stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The narrator is happy to hear that the man wants to tell his story, but doesn't want to hear it because it will just make the man relive his pain. The man tells the story anyway, saying that it might help the narrator if he is in a similar situation. The story is about how the man got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace. The narrator's ancestor was a Genevese counsellor and syndic, and his father was respected for his integrity and public service. The narrator is to record his grandfather's story, which is sure to be strange and harrowing. My father's friend, Beaufort, became poor and moved to Lucerne. My father found him and they had a heart-to-heart about Beaufort's false pride. The passage describes Caroline Beaufort's difficult life after her father's death. She was left with no money and had to find work to support herself. When her father died, she was overcome with grief, but was soon taken in by a relative. Two years later, she married the man who would become the narrator's father.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man is rescued from an ice floe by a passing ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him. The stranger gradually improves, but is very quiet and seems uneasy around others. The narrator begins to feel compassion and affection for the stranger. The stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The man tells the story of how he got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace.

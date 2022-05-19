@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The speaker is talking to a stranger about their shared interest in a project, and the stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The stranger then tells the story of how he got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace. The narrator's ancestor was a Genevese counsellor and syndic, and his father was respected for his integrity and public service. The narrator is to record his grandfather's story, which is sure to be strange and harrowing. My father's friend, Beaufort, became poor and moved to Lucerne. My father found him and they had a heart-to-heart about Beaufort's false pride. The passage describes Caroline Beaufort's difficult life after her father's death. She was left with no money and had to find work to support herself. When her father died, she was overcome with grief, but was soon taken in by a relative. Two years later, she married the man who would become the narrator's father. This passage describes the deep affection between the author's parents, which was strengthened by their shared sense of justice. The father was especially grateful to the mother for her many virtues, and went out of his way to make her life comfortable and pleasurable. The couple traveled to Italy, Germany, and France after getting married, in part to help the mother recover from some health issues.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to a stranger about a shared interest, and the stranger confides in the narrator about his difficult past. The stranger tells the story of how he got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace.

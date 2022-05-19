@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Alice falls down a rabbit hole and has adventures in a fantastical world. Along the way, she wonders about her identity and whether she has been changed into someone else. Ultimately, she decides that she would rather stay in the fantastical world than go back to the real world. A little animal is scratching and scrambling in the chimney close to Alice. She kicks it, and Bill falls out of the chimney. Alice encounters a group of rabbits who tell her to go away. She then finds herself in a room full of cakes, which she eats, and shrinks. Alice shrinks and runs into a crowd of animals and birds. They all attack her, but she escapes into a thick wood. She then decides her first task is to grow back to her normal size, and the second is to find the garden. While she is peering around, an enormous puppy appears and scares her. She offers it a stick and it jumps away. Alice meets a puppy and plays with it for a while, before realizing that she is too small. She wonders how she will grow up again, and decides she needs to eat or drink something. Alice meets a blue caterpillar smoking a hookah and they have a conversation. The caterpillar asks Alice who she is and Alice replies that she doesn't quite know, as she feels she has changed several times since that morning. The caterpillar tells Alice to explain herself and Alice tries, but finds she cannot because she doesn't understand it herself. The Caterpillar tells Alice that she will someday turn into a butterfly, but Alice is not sure if she believes it. The Caterpillar then tells Alice that she has something important to say, and Alice decides to listen.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice falls down a rabbit hole into a fantastical world where she has adventures and wonders about her identity. She eventually decides to stay in the fantastical world rather than return to the real world.

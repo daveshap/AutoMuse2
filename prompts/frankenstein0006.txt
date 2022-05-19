@@ -1,54 +1,6 @@
-Outline: 1. The novel begins with a series of letters from Robert Walton to his sister in which he describes his journey to the Arctic and his plans to find a passage to the Pacific.
+Outline: A young scientist, Victor Frankenstein, becomes obsessed with creating life. He eventually succeeds in creating a creature, but when he sees what he has done, he flees in horror. The creature is left alone and misunderstood. He eventually turns to evil after being continually rejected by humans. The creature seeks revenge on his creator by destroying everything Frankenstein holds dear. In the end, Frankenstein destroys the creature he created, but not before the creature destroys him.
 
-2. Walton rescues a stranger, Victor Frankenstein, from a dogsled and brings him back to his ship.
-
-3. Frankenstein tells Walton his story.
-
-4. Frankenstein grew up in Geneva with his parents and younger brother, William.
-
-5. When he was a young boy, Frankenstein's mother died of a fever.
-
-6. Frankenstein was very close to his father, but he became increasingly interested in science and experimenting with electricity.
-
-7. Frankenstein went to university in Ingolstadt, where he met Professor Waldman.
-
-8. Waldman introduced Frankenstein to the dark side of science, and Frankenstein became obsessed with the idea of creating life.
-
-9. Frankenstein created a creature from body parts of dead people and animals, and he brought it to life using electricity.
-
-10. The creature was hideous, and Frankenstein was horrified by what he had done.
-
-11. He abandoned the creature, and it fled.
-
-12. The creature learned how to survive on its own, and it became bitter and angry at Frankenstein for abandoning it.
-
-13. The creature decided to get revenge on Frankenstein by killing his loved ones.
-
-14. First, the creature killed Frankenstein's best friend, Henry Clerval.
-
-15. Then, the creature killed Frankenstein's new bride, Elizabeth, on their wedding night.
-
-16. Frankenstein's father died of grief soon after.
-
-17. The creature demanded that Frankenstein make him a mate, but Frankenstein refused.
-
-18. The creature threatened to kill more of Frankenstein's loved ones if he did not comply, so Frankenstein reluctantly began working on a second creature.
-
-19. Before he could finish, however, Frankenstein's father-in-law tracked down the creature and tried to kill him.
-
-20. The creature fled, and Frankenstein destroyed his work on the second creature.
-
-21. The creature later reappeared and explained his actions to Frankenstein.
-
-22. He begged Frankenstein to create a mate for him, but Frankenstein still refused.
-
-23. The creature vowed to be with Frankenstein until he died, and then he would kill himself.
-
-24. Frankenstein eventually succumbed to illness, and the creature kept his promise.
-
-25. The creature killed himself, and Frankenstein's body was never found.
-
-Story so far:  This eBook is available for free to anyone in the United States with almost no restrictions. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. The passage describes the author's excitement at the prospect of exploring the Arctic, which he imagines as a land of beauty and wonder. The author is discussing their motivations for embarking on a voyage to the North Pole, and how they hope to make various discoveries that will benefit all of humanity. They conclude by expressing their excitement for the journey ahead. The speaker recalls how, as a child, they were fascinated by their uncle's library of books on voyages of discovery. Despite their education being neglected, they read these books avidly and dreamed of going on such voyages themselves. These dreams faded when they discovered poetry and realized that they could have their own niche in the world of literature. However, when they inherited their cousin's fortune, they decided to pursue their earlier dream of going on a great voyage of discovery. For this, they trained their body to endure hardship and studied various sciences. The narrator is an adventurer who has decided to embark on a long and difficult journey. They are aware of the dangers involved, but feel that the rewards are worth the risks. They are confident in their abilities, but sometimes find it difficult to maintain their spirits. The passage describes the narrator's plans to sail to the Arctic in search of a new land. He laments not having a friend to share in his adventure, but is determined to go forward with his plans.
+Story so far: The narrator is excited about the prospect of exploring the Arctic and making discoveries that will benefit humanity. They recount how their childhood dream of going on a great voyage was reignited when they inherited their cousin's fortune. They have prepared for the journey by training their body and studying various sciences. Although they are aware of the risks involved, they feel that the rewards are worth it.
 
 Last chunk: Archangel.  I shall depart for the latter town in a fortnight or three weeks; and my intention is to hire a ship there, which can easily be done by paying the insurance for the owner, and to engage as many sailors as I think necessary among those who are accustomed to the whale-fishing. I do not intend to sail until the month of June; and when shall I return? Ah, dear sister, how can I answer this question? If I succeed, many, many months, perhaps years, will pass before you and I may meet. If I fail, you will see me again soon, or never.  Farewell, my dear, excellent Margaret. Heaven shower down blessings on you, and save me, that I may again and again testify my gratitude for all your love and kindness.  Your affectionate brother,  R. Walton     Letter 2  _To Mrs. Saville, England._  Archangel, 28th March, 17—.   How slowly the time passes here, encompassed as I am by frost and snow! Yet a second step is taken towards my enterprise. I have hired a vessel and am occupied in collecting my sailors; those whom I have already engaged appear to be men on whom I can depend and are certainly possessed of dauntless courage.  But I have one want which I have never yet been able to satisfy, and the absence of the object of which I now feel as a most severe evil, I have no friend, Margaret: when I am glowing with the enthusiasm of success, there will be none to participate my joy; if I am assailed by disappointment, no one will endeavour to sustain me in dejection. I shall commit my
 

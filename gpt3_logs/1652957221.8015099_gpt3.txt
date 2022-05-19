@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The narrator tells the story of their difficult past to a stranger, revealing that they are still waiting for one more event before they can rest in peace. The story includes the narrator's loving and devoted parents, their only child status for many years, and a young girl who is orphaned and taken in by a wealthy family. The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The passage goes on to describe the narrator's encounter with a man of great research in natural philosophy, which leads the narrator to take up mathematics after a change in mood. However, the narrator's idyllic childhood is eventually shattered by misfortune when the narrator's mother dies. The passage ends with the narrator's resolve to attend university. The speaker reflects on the death of their mother, and how hard it is to accept that she is gone. They talk about the different stages of grief, and how eventually it becomes more of an indulgence than a necessity. Even though it may seem wrong, the speaker says that people eventually start smiling again. The protagonist is leaving for college and their friend Clerval is spending the last evening with them. Clerval's father is a narrow-minded trader who doesn't want his son to go to college, but Clerval is determined to pursue his education. The protagonist's loved ones are sad to see them go, but Elizabeth is brave and tries to make everyone forget their sadness. The passage describes the author's feelings of sadness and loneliness at leaving home to go to university. The author reflects on how their life up until this point has been relatively isolated, and they are not sure how they will cope with meeting new people. However, the author is excited about the prospect of learning new things and gaining knowledge.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator tells the story of their difficult past to a stranger, revealing that they are still waiting for one more event before they can rest in peace. The story includes the narrator's loving and devoted parents, their only child status for many years, and a young girl who is orphaned and taken in by a wealthy family. The passage describes the narrator's happy childhood, during which their sister Elizabeth was a shining light in the family. The passage goes on to describe the narrator's encounter with a man of great research in natural philosophy, which leads the narrator to take up mathematics after a change in mood. However, the narrator's idyllic childhood is eventually shattered by misfortune when the narrator's mother dies. The passage ends with the narrator's resolve to attend university.

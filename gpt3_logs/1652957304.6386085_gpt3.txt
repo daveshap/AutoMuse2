@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage:  This is a Project Gutenberg eBook of Pride and Prejudice by Jane Austen. It is available for free online and can be reused under the Project Gutenberg License. Mr. and Mrs. Bennet discuss the news that Netherfield Park has been let to a wealthy young man from up north. The passage describes Mr. Bennet's reaction to his wife's suggestion that they visit Mr. Bingley, a wealthy single man who is moving into the neighborhood. Mr. Bennet is not interested in meeting Mr. Bingley, but his wife insists that they do so. Mr. Bennet is over scrupulous and is preventing Mr. Bingley from marrying one of his daughters. He is concerned that they are all silly and ignorant, but Lizzy has something more of quickness than her sisters. Mr. Bennet is an odd mixture of quick wit, sarcasm, and caprice, something his wife has not been able to understand fully after 23 years. Mrs. Bennet is a woman of low intelligence and bad temper. Their main goal in life is to get their daughters married off. When Mr. Bennet unexpectedly announces he is going to visit Mr. Bingley, Elizabeth is the only one who knows why. The passage discusses Mr. Bingley and whether or not he will be introduced to Mrs. Long. It is concluded that Mrs. Bennet will not do the introducing because she does not know him well enough herself. The girls' father will take it upon himself to decline Mr. Bingley's acquaintance after Mrs. Bennet declares she is sick of him. The passage describes Mr. Bennet's reaction to his wife's news that their girls had met a new young man. He is pleased and amused, and predicts that the man will soon be asking one of them to dance. His wife and daughters then try to get more information about him from Mr. Bennet, but he is evasive.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mr. and Mrs. Bennet discuss the news that a wealthy young man from up north is moving into the neighborhood. Mr. Bennet is not interested in meeting him, but his wife insists. Mr. Bennet is over scrupulous and is preventing Mr. Bingley from marrying one of his daughters. The passage describes Mr. Bingley and whether or not he will be introduced to Mrs. Long. It is concluded that Mrs. Bennet will not do the introducing because she does not know him well enough herself. The girls' father will take it upon himself to decline Mr. Bingley's acquaintance after Mrs. Bennet declares she is sick of him. The passage describes Mr. Bennet's reaction to his wife's news that their girls had met a new young man. He is pleased and amused, and predicts that the man will soon be asking one of them to dance. His wife and daughters then try to get more information about him from Mr. Bennet, but he is evasive.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's motivations for embarking on a voyage to the North Pole. They hope to make various discoveries that will benefit all of humanity. They conclude by expressing their excitement for the journey ahead. The passage describes the author's feelings of loneliness and isolation, and his desire for a friend who can understand and sympathize with him. He laments his lack of education and formal training, and wishes for someone who can help him to control and focus his thoughts. This passage describes the author's lieutenant and master, both of whom are men of great character. The author first met the lieutenant on a whale vessel and was impressed by his courage and desire for glory. The author then met the master and was impressed by his kindness, courage, and respect from his crew. A man loved a young Russian woman but she was in love with someone else. He gave her to her lover and left the country. The speaker is looking forward to their upcoming voyage to unexplored regions, and is preparing to depart. They are excited and nervous about what they will find, and hope to kill no albatrosses. The speaker attributes their love of the ocean to the work of a poet. The author is on a voyage to explore unvisited regions and is writing to his sister to update her on his progress. He is in good spirits and his men are not deterred by the dangers they may encounter. He is looking forward to reaching his destination. The author describes an accident at sea and says that he hopes nothing worse will happen on the voyage. He expresses confidence that he will be successful in his endeavors.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author describes their motivations for embarking on a voyage to the North Pole, expressing excitement for the journey ahead. They recount meeting their lieutenant and master, both of whom are men of great character, and explain how these men have inspired them. The author describes their love of the ocean and their hope to kill no albatrosses on the voyage. They express confidence in their ability to reach their destination despite the dangers they may encounter.

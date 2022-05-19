@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage:  This passage is from the Project Gutenberg eBook of The Great Gatsby by F. Scott Fitzgerald. The eBook is available for free to anyone in the United States and most other parts of the world, with few restrictions. The Great Gatsby is a novel about a man who is trying to win back the love of his life. The author reflects on some advice they received to not be so quick to judge others, and how this has led to them learning more about people. However, they admit that there are still some people they just can't see eye to eye with. The narrator reflects on how, after returning from the East last autumn, he wanted the world to be in uniform and at a sort of moral attention forever. He exempts Gatsby from this feeling, because Gatsby represents everything the narrator has an unaffected scorn for. The narrator describes Gatsby as having an extraordinary gift for hope and a romantic readiness that he has never found in any other person. At the end of the passage, the narrator reflects on how Gatsby turned out all right in the end, despite the challenges he faced. The passage describes the author's background and how he came to move to the East Coast. He reflects on how different the East Coast felt from the Midwest and how he enjoyed his time there. The narrator moves to the country alone, but soon meets a man who makes him feel less lonely. He buys books on finance and plans to read them over the summer. The passage describes the author's experience living in one of the "strangest communities in North America" - two large eggs shaped islands off the coast of Long Island. The author lived on the less fashionable of the two islands, West Egg.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's background and how he came to move to the East Coast. He reflects on how different the East Coast felt from the Midwest and how he enjoyed his time there. The narrator moves to the country alone, but soon meets a man who makes him feel less lonely. He buys books on finance and plans to read them over the summer. The passage describes the author's experience living in one of the "strangest communities in North America" - two large eggs shaped islands off the coast of Long Island. The author lived on the less fashionable of the two islands, West Egg.

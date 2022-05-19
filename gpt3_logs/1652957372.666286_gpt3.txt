@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage discusses the idea that happiness in marriage is entirely a matter of chance, and that it is better to know as little as possible about the defects of the person you are going to spend your life with. The author argues that it is better to know as little as possible about the defects of the person you are going to spend your life with. The author also observes that Mr. Darcy, who initially thought Elizabeth was not pretty, began to find her more attractive after he realized that she was intelligent and had expressive eyes. The passage describes the excitement of two young women at the arrival of a militia regiment in their neighborhood. They learn the officers' names and connections and visit them often. Mr. Bennet tells his wife that he thinks their two youngest daughters are uncommonly foolish, and Mrs. Bennet responds that he should not expect such girls to have the sense of their father and mother. Miss Bingley sends a note to Miss Bennet, asking her to come have dinner so they can avoid quarrelling. The passage describes Mrs. Bennet's happiness at the prospect of her daughter, Jane, being stranded at the home of her wealthy suitor, Mr. Bingley, due to bad weather. Mrs. Bennet is happy that her plan to make it rain has worked, as it will keep Elizabeth at Netherfield with Mr. Bingley. However, Mr. Bennet jokingly says that he only hopes Elizabeth does not become seriously ill or die as a result of the cold weather. Elizabeth is worried about her sister and decides to walk to Netherfield to check on her, even though she does not know how to ride a horse.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the idea that happiness in marriage is entirely a matter of chance, and that it is better to know as little as possible about the defects of the person you are going to spend your life with. The author argues that it is better to know as little as possible about the defects of the person you are going to spend your life with. The author also observes that Mr. Darcy, who initially thought Elizabeth was not pretty, began to find her more attractive after he realized that she was intelligent and had expressive eyes.

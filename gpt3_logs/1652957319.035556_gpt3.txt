@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A wealthy young man from up north, Mr. Bingley, is moving into the neighborhood and Mrs. Bennet is insistent that they meet him. However, Mr. Bennet is not interested and is preventing Mr. Bingley from marrying one of his daughters. The passage describes Mr. Bingley and whether or not he will be introduced to Mrs. Long. It is concluded that Mrs. Bennet will not do the introducing because she does not know him well enough herself. The girls' father will take it upon himself to decline Mr. Bingley's acquaintance after Mrs. Bennet declares she is sick of him. Mr. Darcy is a wealthy man who is considered to be very handsome, but he is also very proud and arrogant. He spends most of the evening at a ball walking around the room, and people hope he will not return. Mrs. Bennet is one of the people who strongly dislikes him. The passage describes Mr. Darcy's conversation with Mr. Bingley about the Bennet sisters. Mr. Darcy is not interested in dancing with any of the Bennet sisters, but Mr. Bingley finds them all very pleasant and pretty. Mr. Darcy is rude to Elizabeth and she is not pleased. Mr. Bennet is up late, reading, when his wife comes home from a ball. She reports that Jane was much admired and danced twice with Mr. Bingley. Mr. Bennet is pleased to hear this. Mrs. Bennet is delighted with Mr. Bingley, who she thinks is very handsome, and his sisters, who she thinks are charming women. However, she cannot stand Mr. Darcy, who she thinks is a very disagreeable, conceited man. Jane agrees with her mother about Mr. Bingley, and expresses admiration for him.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mr. Bingley, a wealthy young man, is moving into the neighborhood. Mrs. Bennet is insistent that they meet him, but Mr. Bennet is not interested. Mr. Darcy is a wealthy man who is considered to be very handsome, but he is also very proud and arrogant. The passage describes Mr. Darcy's conversation with Mr. Bingley about the Bennet sisters. Mr. Darcy is not interested in dancing with any of the Bennet sisters, but Mr. Bingley finds them all very pleasant and pretty. Mr. Darcy is rude to Elizabeth and she is not pleased.

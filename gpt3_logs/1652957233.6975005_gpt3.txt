@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's background and how he came to move to the East Coast. He reflects on how different the East Coast felt from the Midwest and how he enjoyed his time there. The narrator moves to the country alone, but soon meets a man who makes him feel less lonely. He buys books on finance and plans to read them over the summer. The passage describes the author's experience living in one of the "strangest communities in North America" - two large eggs shaped islands off the coast of Long Island. The author lived on the less fashionable of the two islands, West Egg. The passage describes Gatsby's mansion and the Buchanans' house across the water. The narrator reflects on how he used to know Tom in college and how Tom and Daisy have become much wealthier since then. The narrator wonders why they came East. The passage describes a wealthy man named Tom Buchanan, who has changed since the narrator last saw him. He is now arrogant and has a commanding presence. The narrator is visiting his home, which is an elaborate mansion. Tom is standing on the porch, and the narrator can see that he is a very powerful man. The passage describes a man who is physically strong and imposing, with a gruff voice that conveys a touch of contempt. The man is talking to the narrator on a porch, pointing out the features of his home. He is polite but abrupt, and the narrator gets the impression that he is not entirely comfortable in his own skin. The passage describes a room with blowing curtains and two young women who appear to be floating on a couch. The younger woman is completely still, and the other girl laughs when she sees the narrator. The narrator is happy and feels paralyzed by the scene.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's background, how he came to move to the East Coast, and his impressions of the East Coast. The author describes living on one of two small islands off the coast of Long Island, which he refers to as the "strangest communities in North America." The passage describes the author's observations of the mansions on the two islands, as well as the people who live in them. The passage ends with the author feeling happy and content in the company of two young women.

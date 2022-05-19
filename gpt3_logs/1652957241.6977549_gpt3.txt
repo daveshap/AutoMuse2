@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's background, how he came to move to the East Coast, and his impressions of the East Coast. The author describes living on one of two small islands off the coast of Long Island, which he refers to as the "strangest communities in North America." The passage describes the author's observations of the mansions on the two islands, as well as the people who live in them. The passage ends with the author feeling happy and content in the company of two young women. The person narrator is talking about Daisy, a girl he is cousins with. He describes her as being very charismatic and having a voice that is mesmerizing. He talks about how she always seemed to be having exciting adventures and how everyone who met her seemed to fall in love with her. This passage describes a scene in which the characters are discussing a trip to New York. Miss Baker says she is in training and does not want any cocktails. The passage describes a dinner party at which the speaker is introduced to a young woman named Daisy. Daisy tells the speaker that she knows somebody in West Egg, and the speaker realizes that she must be talking about Gatsby. Tom Buchanan, another guest at the party, then takes the speaker away from Daisy. Miss Baker and Daisy discuss making plans and then Tom interrupts them. Daisy and Miss Baker then talk about how different life is in the West. Tom is a pessimist who believes that the white race is going to be "utterly submerged" by other races unless they take action. Daisy agrees with him and Miss Baker tries to change the subject.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person narrator is talking about Daisy, a girl he is cousins with. He describes her as being very charismatic and having a voice that is mesmerizing. He talks about how she always seemed to be having exciting adventures and how everyone who met her seemed to fall in love with her. This passage describes a scene in which the characters are discussing a trip to New York.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The speaker is talking to a stranger about a shared interest, and the stranger confides in the narrator about his difficult past. The stranger tells the story of how he got to his current state, which is full of hardships. Despite all this, the man is still waiting for one more event before he can rest in peace. The author's parents were very loving and devoted to him, and he remembers them fondly. He was their only child for many years. His mother especially desired to have a daughter, but they never had any more children. This passage tells the story of a poor child who is different from the other children in her poverty-stricken village. She is thin and fair, with bright golden hair, and is so beautiful that she seems otherworldly. The peasant woman who is caring for her reveals that she is actually the daughter of a Milanese nobleman, and was left with them to nurse. The passage tells the story of a young Italian girl who is orphaned and taken in by a wealthy family. The girl is very beautiful, and everyone loves her. The speaker and Elizabeth were childhood friends who were brought up together. They had a close relationship and Harmony was the soul of their companionship. Elizabeth was of a calmer and more concentrated disposition, while the speaker was more deeply smitten with the thirst for knowledge. The passage describes the author's early love of nature and fascination with its secrets. It also mentions his close friendship with Henry Clerval, with whom he shared a love of adventure and imagination.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man tells the story of his difficult past to a stranger, revealing that he is still waiting for one more event before he can rest in peace. The story includes the man's loving and devoted parents, his only child status for many years, and a young girl who is orphaned and taken in by a wealthy family.

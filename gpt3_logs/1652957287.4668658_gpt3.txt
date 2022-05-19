@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a summer night in New York, and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage also describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air. Tom and Myrtle reappear after disappearing for a while, and company starts to arrive at their apartment. Catherine is a slender woman with red hair, and Mr. McKee is a photographer. Mrs. Wilson is a woman who is very proud of her husband's photographic work. She has recently changed her outfit to a cream-coloured dress and her personality has changed as well. She is now much louder and more assertive than before. Mrs. McKee compliments her dress and Mrs. Wilson dismisses it. Mrs. McKee is being pursued by Mr. McKee. The passage describes a conversation between two women, one of whom is married to a man named George B. Wilson. The first woman says that she is scared of her neighbor, who is a wealthy man named Gatsbys. The second woman says that she does not understand why people stay married to someone if they cannot stand them. Catherine tells Daisy that she should divorce Wilson and marry her instead, because Daisy's wife is a Catholic and doesn't believe in divorce. Daisy is shocked by the lie, but Catherine continues, saying that they would have to go West to live for a while until the scandal blows over. Mrs. McKee interrupts to tell her own story of almost marrying a man beneath her.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a summer night in New York, and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage also describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air.

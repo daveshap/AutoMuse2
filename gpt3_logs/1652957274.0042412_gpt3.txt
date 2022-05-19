@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a summer night in New York, and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage also describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air. George B. Wilson is the owner of a struggling garage. When Tom and the narrator enter, Wilson seems hopeful that they will buy a car. Tom is unimpressed by the garage and tells Wilson that he may take his business elsewhere. Wilson's wife then appears and Tom is immediately struck by her sensual beauty. Tom Buchanan and his girlfriend go to New York to meet up with Nick Carraway, who is Mrs. Wilson's sister's husband. Mrs. Wilson accompanies them in a separate car. Mrs. Wilson changes her dress and buys a few things before getting into a taxi. She tells the driver that she wants to buy a dog, and he takes them to a man selling puppies. They pick out an Airedale. Tom and Mrs. Wilson drive to Fifth Avenue, where they buy an Airedale for ten dollars. They then go to the Wilson's apartment, where Mrs. Wilson plans to have a party. The narrator goes to visit their friend Tom and his wife Mrs. Wilson. They live in a small apartment on the top floor with a lot of furniture and a big photograph of an old lady. They have some drinks and then Mrs. Wilson starts making phone calls. The narrator goes to buy cigarettes and comes back to find Tom and Mrs. Wilson passed out.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a summer night in New York, and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage also describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air.

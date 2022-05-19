@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Alice falls down a rabbit hole into a fantastical world where she has adventures. Along the way, she wonders about her identity and whether she has been changed into someone else. Ultimately, she decides that she would rather stay in the world she is in than go back to the real world. The Mouse tells Alice a story, but gets angry and walks away before finishing. Alice and the others beg the Mouse to come back and finish the story, but it refuses. Alice talks to a Lory and a Crab about her pet cat, Dinah. The mention of Dinah's predilection for catching and eating birds causes a stir among the other animals, who all hurry off. Alice is left alone, wondering if she will ever see her cat again. The White Rabbit is looking for his fan and gloves, and Alice tries to help. The Rabbit gets angry and tells Alice to go get them, so she runs off. Alice finds a house with a brass plate that says "W. Rabbit" and goes in. She finds a room with a fan and gloves and picks them up. She also finds a bottle and drinks from it. Alice drank from a magic bottle and grew until she was too large for the room. She was uncomfortable and wished she could go home. Alice is in the middle of a room with no way to escape and no room to grow. She meets a rabbit who tells her she should be learning lessons. Alice hears a Rabbit and an unknown voice arguing, followed by the sound of breaking glass. She makes a couple of attempts to grab the Rabbit, but each time only manages to break more glass. Eventually she gets fed up and wishes she could be pulled out of the window.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice falls down a rabbit hole and has adventures in a fantastical world. Along the way, she wonders about her identity and whether she has been changed into someone else. Ultimately, she decides that she would rather stay in the fantastical world than go back to the real world.

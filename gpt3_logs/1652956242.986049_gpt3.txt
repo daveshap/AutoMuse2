@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The author describes their motivations for embarking on a voyage to the North Pole, expressing excitement for the journey ahead. They recount meeting their lieutenant and master, both of whom are men of great character, and explain how these men have inspired them. The author describes their love of the ocean and their hope to kill no albatrosses on the voyage. They express confidence in their ability to reach their destination despite the dangers they may encounter. A group of sailors on a ship in the Arctic Ocean spot a man in a sledge being pulled by dogs. They watch him for a while, but he eventually disappears into the distance. Later, they hear the sound of the ice breaking and realize that their ship is now free. However, they remain cautious and stay put for the night. In the morning, they see that there is indeed a sledge and a man in the water next to their ship. A man is rescued from an ice floe by a passing ship. He is European, not a savage, and is surprised to learn that the ship is bound for the northern pole. He is in a terrible state, but is revived and brought into the ship. A man is found near death on the ice, and is revived by brandy and soup. He is taken to the speaker's cabin to recover, and the speaker notes that he is generally melancholy and sometimes seems mad. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him. The stranger is excited by the prospect of seeing the other sledge again, but is too weak to be on deck. The narrator has promised to keep watch for him.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man is rescued from an ice floe by a passing ship. He is in a terrible state, but is revived and brought into the ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him.

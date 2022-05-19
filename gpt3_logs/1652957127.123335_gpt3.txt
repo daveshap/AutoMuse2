@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Alice falls down a rabbit hole into a fantastical world where she has adventures. Along the way, she wonders about her identity and whether she has been changed into someone else. Ultimately, she decides that she would rather stay in the world she is in than go back to the real world. Alice is surprised to find herself shrinking, and even more surprised to find herself in the sea. She wonders if she can take the train back. Alice finds herself in a pool of tears, and meets a mouse. She wonders if the mouse knows the way out, and tries to ask it in English. The mouse doesn't seem to understand, but winks at her. Alice encounters a mouse who is terrified of cats. The mouse explains that his family has always hated cats, and he doesn't want to hear their name again. Alice meets a mouse who is afraid of cats and dogs. The mouse tells Alice its story, and then they all swim to shore. The animals on the bank are trying to figure out how to dry off, and the Mouse takes charge. The Mouse explains that the best way to dry off is to listen to a story. The story is about William the Conqueror. The Mouse is telling the Duck about how the archbishop found it advisable to go with Edgar Atheling to meet William and offer him the crown. However, the Duck interrupts and does not seem to understand what the Mouse is saying. The passage describes a race in which everyone wins and Alice is chosen to give out the prizes. Alice finds a box of comfits and hands them out as prizes. The Mouse insists that Alice should have a prize too, so the Dodo presents her with a thimble. They all eat the comfits, and then the Mouse tells them his story.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice falls down a rabbit hole into a fantastical world where she has adventures. Along the way, she wonders about her identity and whether she has been changed into someone else. Ultimately, she decides that she would rather stay in the world she is in than go back to the real world.

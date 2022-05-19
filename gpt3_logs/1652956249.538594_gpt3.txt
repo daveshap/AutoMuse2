@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A man is rescued from an ice floe by a passing ship. He is in a terrible state, but is revived and brought into the ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him. The narrator has found a stranger on a ship who appears to be ill. The stranger gradually improves, but is very quiet and seems uneasy around others. The narrator begins to feel compassion and affection for the stranger. The speaker is talking to someone else about their shared interest in a project, and how excited they are about it. The other person suddenly becomes very emotional, and the speaker wonders if they are also "mad" with excitement. The other person then says they will share their story, which the speaker is very curious to hear. The passage describes a conversation between two people, in which the stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees. The stranger then goes on to say that he once had a friend who was the most noble of creatures, but he has since lost everything and feels hopeless. The stranger is moved by the beauty of nature, even though he is broken in spirit. The passage describes a man who is able to rise above his suffering and misery, and who has an extraordinary ability to judge and understand the causes of things. The speaker admires this man greatly and yesterday the man confided in the speaker, telling him of his own misfortunes and how they have changed his outlook on life.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man is rescued from an ice floe by a passing ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him. The stranger gradually improves, but is very quiet and seems uneasy around others. The narrator begins to feel compassion and affection for the stranger. The stranger confides in the narrator about his sorrowful past. The stranger expresses his belief that everyone deserves to have a friend, and the narrator agrees.

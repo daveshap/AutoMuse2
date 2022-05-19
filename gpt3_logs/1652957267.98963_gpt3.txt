@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a scene in which the characters are discussing a trip to New York. Daisy's affection for Nick is described, as well as her admiration for his resemblance to a rose. The passage also describes a dinner party where one of the guests, a woman, starts singing. Tom, the host, tells her that he wants to take her to the stables after dinner. The woman then gets a phone call and the subject of the stables is dropped. The dinner party ends awkwardly, with the horses never being mentioned again. The woman tells Nick that she is very cynical and that she believes that it is better for a girl to be a fool than anything else. The passage describes the summer night and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air.Occasionally a line of grey cars crawls along an invisible track, and the ash-grey men swarm up with leaden spades and stir up an impenetrable cloud. But above the grey land and the drifting dust, you can see the blue and gigantic eyes of Doctor T. J. Eckleburg. Tom Buchanan's mistress lived in a small, yellow brick building on the edge of a waste land. One afternoon, Tom took his friend to meet her. The friend was not interested in meeting her, but Tom was insistent. The building contained three shops, one of which was for rent.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a summer night in New York, and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage also describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air.

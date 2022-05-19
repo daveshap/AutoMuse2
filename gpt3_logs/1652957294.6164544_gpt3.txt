@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a summer night in New York, and the figure of Mr. Gatsby, who is standing alone and looking out at the stars. The narrator decides not to call out to him, and Gatsby soon vanishes back into the shadows. The passage also describes a desolate area of land known as the valley of ashes, where ashes take the form of houses and chimneys and where ash-grey men move dimly through the powdery air. Myrtle Wilson is unhappy in her marriage and regrets ever marrying her husband. She says she only married him because she thought he was a gentleman, but he has turned out to be anything but. Myrtle's husband has been having an affair with Catherine's husband, Tom, and Myrtle says she is the first sweetie he's ever had. The passage describes the narrator's feelings of being both inside and outside of the conversations going on around him. He is pulled back into his chair by the argument, but he sees someone else looking up at the building. Myrtle tells the story of her first meeting with Tom. The passage describes a party where people are milling around, talking, and enjoying themselves. However, one woman's laughter is artificial, and she makes plans to buy new things tomorrow. Mr. McKee falls asleep, and the little dog is sitting on the table looking through the smoke. Tom Buchanan and Mrs. Wilson get into a discussion and he ends up breaking her nose. A man is sitting in his bed, looking at a portfolio of paintings. He then falls asleep and has a dream in which he is at a party at his neighbor's house. In the morning, he wakes up and catches a train.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a summer night in New York. The figure of Mr. Gatsby is standing alone, looking out at the stars. The narrator decides not to call out to him. The passage also describes the valley of ashes, where ashes take the form of houses and chimneys. Myrtle Wilson is unhappy in her marriage. Her husband has been having an affair with Catherine's husband, Tom. The passage describes the narrator's feelings of being both inside and outside of the conversations going on around him. Tom Buchanan and Mrs. Wilson get into a discussion and he ends up breaking her nose. A man is sitting in his bed, looking at a portfolio of paintings. In the morning, he wakes up and catches a train.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's excitement about an upcoming voyage to explore unvisited regions, and his preparations for the journey. He is aware of the risks involved, but feels that the rewards are worth it. The author describes his lieutenant and master, both of whom are men of great character. The speaker is looking forward to their upcoming voyage to unexplored regions, and is preparing to depart. They are excited and nervous about what they will find, and hope to kill no albatrosses. The author describes an accident at sea and says that he hopes nothing worse will happen on the voyage. He expresses confidence that he will be successful in his endeavors. A group of sailors on a ship in the Arctic Ocean spot a man in a sledge being pulled by dogs. They watch him for a while, but he eventually disappears into the distance. Later, they hear the sound of the ice breaking and realize that their ship is now free. However, they remain cautious and stay put for the night. In the morning, they see that there is indeed a sledge and a man in the water next to their ship. A man is rescued from an ice floe by a passing ship. He is European, not a savage, and is surprised to learn that the ship is bound for the northern pole. He is in a terrible state, but is revived and brought into the ship. A man is found near death on the ice, and is revived by brandy and soup. He is taken to the speaker's cabin to recover, and the speaker notes that he is generally melancholy and sometimes seems mad. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author describes his excitement and preparations for an upcoming voyage to explore unvisited regions. He is aware of the risks involved, but feels that the rewards are worth it. The author describes an accident at sea and says that he hopes nothing worse will happen on the voyage. A group of sailors on a ship in the Arctic Ocean spot a man in a sledge being pulled by dogs. Later, they hear the sound of the ice breaking and realize that their ship is now free. However, they remain cautious and stay put for the night. In the morning, they see that there is indeed a sledge and a man in the water next to their ship. A man is rescued from an ice floe by a passing ship. He is in a terrible state, but is revived and brought into the ship. The lieutenant asks him why he came so far on the ice, and he replies that he is seeking someone who fled from him.

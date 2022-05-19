@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage:  Alice's Adventures in Wonderland is a novel by Lewis Carroll. It tells the story of Alice, who falls down a rabbit hole into a fantastical world populated by strange creatures. The novel features such classic scenes as the Mad Hatter's tea party and the Queen's croquet game. Alice gets bored sitting by her sister and sees a white rabbit with a pocket watch. She chases it and falls down a rabbit hole. Alice falls down a very deep well, and has plenty of time to look around as she falls. She sees that the well is filled with shelves and cupboards, and takes down a jar of orange marmalade. She wonders how far she has fallen and if she will ever reach the bottom. Alice is falling down a rabbit hole and wonders aloud about the different things she's passing. She wonders if she'll fall all the way through the earth and come out in Australia or New Zealand. Alice gets sleepy and continues to talk to herself. Alice falls asleep and dreams that she is talking to Dinah, her cat. In the dream, she asks Dinah if she has ever eaten a bat. Suddenly, Alice wakes up and finds herself in a long, dark hallway. She sees a small table with a golden key on it and tries to use the key to unlock one of the doors in the hallway, but it doesn't work. Alice is sad and wonders how she will ever get out of the hallway. Alice finds a door in a hall that is too small for her to fit through. She tries to open it with a key, but it does not work. She then finds a bottle on the table with a label that says "Drink Me." Alice finds a bottle labeled "Drink Me" and decides to take a sip. She shrinks down to ten inches tall and is excited to enter the garden through the small door.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice's Adventures in Wonderland is a novel by Lewis Carroll in which Alice falls down a rabbit hole into a fantastical world. The novel features classic scenes such as the Mad Hatter's tea party and the Queen's croquet game.
