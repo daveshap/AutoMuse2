@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage discusses the uselessness of art, and how it is only excusable if the artist admires it intensely. It also describes the atmosphere in a studio, with the scent of roses and the sound of bees. The passage contains a conversation between two men, one of whom is a painter. The painter says that he cannot exhibit a certain painting because it contains too much of himself. The other man laughs and says that the painting is of a young man who is very beautiful, but that the painter himself is not beautiful. The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others. The painter Basil Hallward tells his friend Lord Henry that he has a secret, and that he is afraid to show a certain painting because it reveals that secret. Lord Henry is intrigued, and Basil tells him that the story behind the painting is that he fell in love with a man he met at a party. Lord Henry is surprised but accepts this, and the two men continue to talk. Some time after entering a room and talking to a few people, the narrator notices Dorian Gray and feels a sudden sense of terror. He has a feeling that he is on the verge of a great life event, either good or bad, and decides to leave the room out of cowardice. The narrator stumbled upon Lady Brandon, who introduced him to Dorian. They felt they were destined to know each other. Lady Brandon tries to make friends with everybody and ends up making enemies.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the uselessness of art, and how it is only excusable if the artist admires it intensely. It also describes the atmosphere in a studio, with the scent of roses and the sound of bees. The passage contains a conversation between two men, one of whom is a painter. The painter says that he cannot exhibit a certain painting because it contains too much of himself. The other man laughs and says that the painting is of a young man who is very beautiful, but that the painter himself is not beautiful. The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others.

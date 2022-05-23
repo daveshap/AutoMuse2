@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage reflects on the idea that every person is a mystery to everyone else. A man is on his way to dig someone out of a grave and he sees many faces of the person he is looking for, but he does not know which is the right one. The passage is about a man who sees a spectre that tells him he is dead and has been for eighteen years. The man tries to dig the spectre out, but whenever he does, it turns to dust. The man then wakes up from his dream and realizes he is still alive. The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream. The passage describes a cold, wet day, with the sun shining brightly. A passenger comments on how long eighteen years is, and how terrible it would be to be buried alive for that long. The head drawer at the hotel where they are staying opens the door and congratulates the passenger on his journey. The inside of the coach is described as being like a dirty dog kennel, and the passenger is described as looking like a large dog. The drawer tells the passenger that there will be a packet to Calais the next day, and the passenger asks for a bedroom and a barber. A gentleman of sixty is sitting in a coffee-room, waiting for his breakfast. He is well-dressed and looks orderly and methodical. He is a little vain of his good leg, and his clothes are of a fine texture.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream.

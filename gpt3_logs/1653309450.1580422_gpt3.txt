@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage discusses the uselessness of art and how it is seen as a form of autobiography. It contains a conversation between two men, one of whom is a painter. The passage argues that genius does not last longer than beauty, and that this is why people over-educate themselves. The passage discusses the idea that people are afraid of themselves and have forgotten the duty they owe to themselves. It also argues that courage has gone out of our race. The passage argues that if everyone lived their life to the fullest, the world would be a happier place. However, people are afraid of themselves and the things they want, so they sin and are punished for it. Dorian Gray is troubled by something Basil's friend said to him, which he can't quite understand. He realizes that words can be incredibly powerful and have a lot of influence over him. Dorian Gray has a sudden realization that life is full of color and vibrancy. Lord Henry watches him with interest, knowing that he has said something that has had a profound effect on the young man. Dorian Gray is tired and wants to go sit in the garden. Basil Hallward is sorry but says that Dorian Gray's current expression is exactly what he wanted to capture in his painting. Lord Henry has not been paying Dorian Gray compliments. Lord Henry tells Dorian Gray that the secret to a happy life is to cure the soul with the senses, and the senses with the soul. The speaker in the passage reflects on a stranger who has made them realize something about themselves that they were previously unaware of. The speaker is afraid of the stranger, but also finds them fascinating. They eventually sit down together in the shade. The stranger tells the speaker that youth is the most important thing to have.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the idea that art is useless, and that genius does not last longer than beauty. It argues that if everyone lived their life to the fullest, the world would be a happier place. However, people are afraid of themselves and the things they want, so they sin and are punished for it.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream. A young woman needs to go to Paris for business, and she asks a gentleman from the bank to accompany her. He agrees, and tells her that the business is of a surprising nature. A man tells a story about one of his customers, a French gentleman from Beauvais. The passage describes a man's lack of feelings and emotions, and how he has been a trustee for many customers over the years. He thinks that the person who brought him to England when he was orphaned was the same person who is sitting in front of him. The speaker is Mr. Lorry, an employee of Tellsons Bank. He is telling Miss Manette, the daughter of a former client of the bank, about her father's death. Mr. Lorry describes his own daily routine and explains that he has no time for emotions. He then tells Miss Manette that her father's death was not his fault. The passage tells the story of a man named Manette who was imprisoned unjustly. His wife implored the king and queen for help, but no one could find him. Manette eventually escaped and found his way back to his wife and child. The passage describes a woman who has Inherited her mother's pain and suffering. The mother died never knowing what happened to her husband, and the daughter was raised believing her father was dead. The woman in the passage is now being asked to kneel, and she does not want to because she does not want to become her mother.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream.

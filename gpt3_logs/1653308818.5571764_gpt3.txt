@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: inheritance of any part of the agony she had known the pains of, by rearing her in the belief that her father was dead--No, dont kneel! In Heavens name why should you kneel to me!  For the truth. O dear, good, compassionate sir, for the truth!  A--a matter of business. You confuse me, and how can I transact business if I am confused? Let us be clear-headed. If you could kindly mention now, for instance, what nine times ninepence are, or how many shillings in twenty guineas, it would be so encouraging. I should be so much more at my ease about your state of mind.  Without directly answering to this appeal, she sat so still when he had very gently raised her, and the hands that had not ceased to clasp his wrists were so much more steady than they had been, that she communicated some reassurance to Mr. Jarvis Lorry.  Thats right, thats right. Courage! Business! You have business before you; useful business. Miss Manette, your mother took this course with you. And when she died--I believe broken-hearted--having never slackened her unavailing search for your father, she left you, at two years old, to grow to be blooming, beautiful, and happy, without the dark cloud upon you of living in uncertainty whether your father soon wore his heart out in prison, or wasted there through many lingering years.  As he said the words he looked down, with an admiring pity, on the flowing golden hair; as if he pictured to himself that it might have been already tinged with grey.  You
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman who has Inherited her mother's pain and suffering. The mother died never knowing what happened to her husband, and the daughter was raised believing her father was dead. The woman in the passage is now being asked to kneel, and she does not want to because she does not want to become her mother.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with a self-conscious and satisfied air, as if he had summed up the world in a phrase. There was a rustle of chirruping sparrows in the green lacquer leaves of the ivy, and the blue cloud-shadows chased themselves across the grass like swallows. How pleasant it was in the garden! And how delightful other peoples emotions were!much more delightful than their ideas, it seemed to him. Ones own soul, and the passions of ones friendsthose were the fascinating things in life. He pictured to himself with silent amusement the tedious luncheon that he had missed by staying so long with Basil Hallward. Had he gone to his aunts, he would have been sure to have met Lord Goodbody there, and the whole conversation would have been about the feeding of the poor and the necessity for model lodging-houses. Each class would have preached the importance of those virtues, for whose exercise there was no necessity in their own lives. The rich would have spoken on the value of thrift, and the idle grown eloquent over the dignity of labour. It was charming to have escaped all that! As he thought of his aunt, an idea seemed to strike him. He turned to Hallward and said, My dear fellow, I have just remembered.  Remembered what, Harry?  Where I heard the name of Dorian Gray.  Where was it? asked Hallward, with a slight frown.  Dont look so angry, Basil. It was at my aunt, Lady Agathas. She told me she had discovered a wonderful young man who was going to help her in the East End, and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Oscar Wilde's character is pleased to have avoided a dull lunch conversation about the virtues of thrift and hard work by instead staying with his friend. He then has a sudden realization about where he had heard the name "Dorian Gray" before.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and have invented a realism that is vulgar, an ideality that is void. Harry! if you only knew what Dorian Gray is to me! You remember that landscape of mine, for which Agnew offered me such a huge price but which I would not part with? It is one of the best things I have ever done. And why is it so? Because, while I was painting it, Dorian Gray sat beside me. Some subtle influence passed from him to me, and for the first time in my life I saw in the plain woodland the wonder I had always looked for and always missed.  Basil, this is extraordinary! I must see Dorian Gray.  Hallward got up from the seat and walked up and down the garden. After some time he came back. Harry, he said, Dorian Gray is to me simply a motive in art. You might see nothing in him. I see everything in him. He is never more present in my work than when no image of him is there. He is a suggestion, as I have said, of a new manner. I find him in the curves of certain lines, in the loveliness and subtleties of certain colours. That is all.  Then why wont you exhibit his portrait? asked Lord Henry.  Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their microscope. There is too much of myself in the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Basil Hallward is in love with Dorian Gray and believes that he sees everything in him. He won't exhibit the portrait he painted of Dorian because it would reveal his feelings to the world.

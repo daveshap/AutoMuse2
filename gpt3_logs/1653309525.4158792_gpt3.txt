@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream. A man arrives at Tellsons Bank in London and asks for accommodation to be prepared for a young lady who may arrive at any time during the day. This passage describes the waiter's observations of the guest's travel habits. The waiter notes that the guest has not traveled much in recent years, and surmises that the guest must have traveled a lot in the past. The waiter also speculates that the guest's home country (France) must be prosperous, based on the fact that the guest works for a successful company. Mr. Lorry is waiting in a coffee-room for his dinner, and he is thinking about the recent events in his life. He hears a rattling of wheels outside, and he knows that it is Mamselle, the Frenchwoman he has been helping. The waiter came in to announce that Miss Manette had arrived from London, and would be happy to see the gentleman from Tellsons. When the gentleman from Tellsons entered Miss Manette's apartment, he saw a young lady of not more than seventeen standing by the table between two tall candles. Mr. Lorry sees a likeness of a child he once held on a ship during a storm in a hospital procession of negro cupids and is disturbed. He then sits down with Miss Manette.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream.

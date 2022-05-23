@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: second is the appearance of a new personality for art also. What the invention of oil-painting was to the Venetians, the face of Antinous was to late Greek sculpture, and the face of Dorian Gray will some day be to me. It is not merely that I paint from him, draw from him, sketch from him. Of course, I have done all that. But he is much more to me than a model or a sitter. I wont tell you that I am dissatisfied with what I have done of him, or that his beauty is such that art cannot express it. There is nothing that art cannot express, and I know that the work I have done, since I met Dorian Gray, is good work, is the best work of my life. But in some curious wayI wonder will you understand me?his personality has suggested to me an entirely new manner in art, an entirely new mode of style. I see things differently, I think of them differently. I can now recreate life in a way that was hidden from me before. A dream of form in days of thoughtwho is it who says that? I forget; but it is what Dorian Gray has been to me. The merely visible presence of this ladfor he seems to me little more than a lad, though he is really over twentyhis merely visible presenceah! I wonder can you realize all that that means? Unconsciously he defines for me the lines of a fresh school, a school that is to have in it all the passion of the romantic spirit, all the perfection of the spirit that is Greek. The harmony of soul and bodyhow much that is! We in our madness have separated the two,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses how the author's new muse, Dorian Gray, has inspired a fresh approach to art. The artist sees Dorian as the embodiment of a new school of thought that combines the passion of the romantic spirit with the perfection of the Greek spirit.

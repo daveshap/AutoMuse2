@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Guinea at one end, and a view of the almshouse at the other,such being the features of my native town, it would be quite as reasonable to form a sentimental attachment to a disarranged checker-board. And yet, though invariably happiest elsewhere, there is within me a feeling for old Salem, which, in lack of a better phrase, I must be content to call affection. The sentiment is probably assignable to the deep and aged roots which my family has struck into the soil. It is now nearly two centuries and a quarter since the original Briton, the earliest emigrant of my name, made his appearance in the wild and forest-bordered settlement, which has since become a city. And here his descendants have been born and died, and have mingled their earthy substance with the soil; until no small portion of it must necessarily be akin to the mortal frame wherewith, for a little while, I walk the streets. In part, therefore, the attachment which I speak of is the mere sensuous sympathy of dust for dust. Few of my countrymen can know what it is; nor, as frequent transplantation is perhaps better for the stock, need they consider it desirable to know.  But the sentiment has likewise its moral quality. The figure of that first ancestor, invested by family tradition with a dim and dusky grandeur, was present to my boyish imagination, as far back as I can remember. It still haunts me, and induces a sort of home-feeling with the past, which I scarcely claim in reference to the present phase of the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author has a sentimental attachment to their hometown because their family has been living there for centuries and they can't help but feel connected to the place.

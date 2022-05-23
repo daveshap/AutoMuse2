@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Dorian? cried the original of the portrait, strolling across to him. Am I really like that?  Yes; you are just like that.  How wonderful, Basil!  At least you are like it in appearance. But it will never alter, sighed Hallward. That is something.  What a fuss people make about fidelity! exclaimed Lord Henry. Why, even in love it is purely a question for physiology. It has nothing to do with our own will. Young men want to be faithful, and are not; old men want to be faithless, and cannot: that is all one can say.  Dont go to the theatre to-night, Dorian, said Hallward. Stop and dine with me.  I cant, Basil.  Why?  Because I have promised Lord Henry Wotton to go with him.  He wont like you the better for keeping your promises. He always breaks his own. I beg you not to go.  Dorian Gray laughed and shook his head.  I entreat you.  The lad hesitated, and looked over at Lord Henry, who was watching them from the tea-table with an amused smile.  I must go, Basil, he answered.  Very well, said Hallward, and he went over and laid down his cup on the tray. It is rather late, and, as you have to dress, you had better lose no time. Good-bye, Harry. Good-bye, Dorian. Come and see me soon. Come to-morrow.  Certainly.  You wont forget?  No, of course not, cried Dorian.  And ... Harry!  Yes, Basil?  Remember what I asked you, when we were in the garden this morning.  I have forgotten it.  I trust you.  I wish I could trust myself,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian and Basil discuss the portrait, and Dorian leaves to meet Lord Henry.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you would, Basil. You like your art better than your friends. I am no more to you than a green bronze figure. Hardly as much, I dare say.  The painter stared in amazement. It was so unlike Dorian to speak like that. What had happened? He seemed quite angry. His face was flushed and his cheeks burning.  Yes, he continued, I am less to you than your ivory Hermes or your silver Faun. You will like them always. How long will you like me? Till I have my first wrinkle, I suppose. I know, now, that when one loses ones good looks, whatever they may be, one loses everything. Your picture has taught me that. Lord Henry Wotton is perfectly right. Youth is the only thing worth having. When I find that I am growing old, I shall kill myself.  Hallward turned pale and caught his hand. Dorian! Dorian! he cried, dont talk like that. I have never had such a friend as you, and I shall never have such another. You are not jealous of material things, are you?you who are finer than any of them!  I am jealous of everything whose beauty does not die. I am jealous of the portrait you have painted of me. Why should it keep what I must lose? Every moment that passes takes something from me and gives something to it. Oh, if it were only the other way! If the picture could change, and I could be always what I am now! Why did you paint it? It will mock me some daymock me horribly! The hot tears welled into his eyes; he tore his hand away and, flinging himself on the divan, he buried his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian is angry with the painter for creating a portrait of him, because it will always remain young and beautiful while Dorian himself will age and die.

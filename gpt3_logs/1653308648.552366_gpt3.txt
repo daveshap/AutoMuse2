@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: generations, performing any memorable deed, or so much as putting forward a claim to public notice. Gradually, they have sunk almost out of sight; as old houses, here and there about the streets, get covered half-way to the eaves by the accumulation of new soil. From father to son, for above a hundred years, they followed the sea; a gray-headed shipmaster, in each generation, retiring from the quarter-deck to the homestead, while a boy of fourteen took the hereditary place before the mast, confronting the salt spray and the gale, which had blustered against his sire and grandsire. The boy, also, in due time, passed from the forecastle to the cabin, spent a tempestuous manhood, and returned from his world-wanderings, to grow old, and die, and mingle his dust with the natal earth. This long connection of a family with one spot, as its place of birth and burial, creates a kindred between the human being and the locality, quite independent of any charm in the scenery or moral circumstances that surround him. It is not love, but instinct. The new inhabitantwho came himself from a foreign land, or whose father or grandfather camehas little claim to be called a Salemite; he has no conception of the oyster-like tenacity with which an old settler, over whom his third century is creeping, clings to the spot where his successive generations have been imbedded. It is no matter that the place is joyless for him; that he is weary of the old wooden houses, the mud and dust, the dead level
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the connection that a family has to a specific location, even if they have no personal attachment to the place. This is because the family has likely been living in the same place for generations, and the connection is passed down through the family.

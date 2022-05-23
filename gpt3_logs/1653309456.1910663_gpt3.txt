@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage discusses the idea that art is useless, and that genius does not last longer than beauty. It argues that if everyone lived their life to the fullest, the world would be a happier place. However, people are afraid of themselves and the things they want, so they sin and are punished for it. The passage discusses the transitory nature of beauty and youth, and how they are often taken for granted. It argues that beauty is a form of genius, and that those who have it should enjoy it while they can. The passage is about how time is jealous of youth and how one should live their life to the fullest while they can. Dorian Gray listens as a man describes how wonderful youth is. He then sees a bee and watches it for a while. The bee flies away and the man invites him into the studio. They then walk together and the man tells Dorian that he is glad they met. Dorian wonders if he will always be glad. This passage discusses the word "dreadful," and how it makes the speaker shudder. They feel that women often ruin romances by trying to make them last forever, and that the only difference between a caprice and a lifelong passion is that the former lasts longer. As Dorian Gray and Lord Henry enter the studio, Dorian makes a comment about how their friendship should be a caprice. Lord Henry watches him as he resumes his pose and starts painting again. After a while, Hallward stops painting and looks at both the picture and Dorian, before declaring it finished and signing his name on the canvas. Lord Henry comes over to examine the picture and congratulates Hallward on his work.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the idea that art is useless, and that genius does not last longer than beauty. It argues that if everyone lived their life to the fullest, the world would be a happier place. However, people are afraid of themselves and the things they want, so they sin and are punished for it. The passage discusses the transitory nature of beauty and youth, and how they are often taken for granted. It argues that beauty is a form of genius, and that those who have it should enjoy it while they can.

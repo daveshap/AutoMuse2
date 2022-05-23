@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: commodities had paid the impost, and gone regularly through the office. Borne on such queer vehicle of fame, a knowledge of my existence, so far as a name conveys it, was carried where it had never been before, and, I hope, will never go again.  But the past was not dead. Once in a great while the thoughts that had seemed so vital and so active, yet had been put to rest so quietly, revived again. One of the most remarkable occasions, when the habit of bygone days awoke in me, was that which brings it within the law of literary propriety to offer the public the sketch which I am now writing.  In the second story of the Custom-House there is a large room, in which the brick-work and naked rafters have never been covered with panelling and plaster. The edificeoriginally projected on a scale adapted to the old commercial enterprise of the port, and with an idea of subsequent prosperity destined never to be realizedcontains far more space than its occupants know what to do with. This airy hall, therefore, over the Collectors apartments, remains unfinished to this day, and, in spite of the aged cobwebs that festoon its dusky beams, appears still to await the labor of the carpenter and mason. At one end of the room, in a recess, were a number of barrels, piled one upon another, containing bundles of official documents. Large quantities of similar rubbish lay lumbering the floor. It was sorrowful to think how many days and weeks and months and years of toil had been wasted on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the author's feelings about their past life and work, and how they were reminded of it when they saw some old barrels of documents in a room in the Custom-House.

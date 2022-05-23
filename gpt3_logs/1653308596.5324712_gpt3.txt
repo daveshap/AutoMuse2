@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: face in the cushions, as though he was praying.  This is your doing, Harry, said the painter bitterly.  Lord Henry shrugged his shoulders. It is the real Dorian Graythat is all.  It is not.  If it is not, what have I to do with it?  You should have gone away when I asked you, he muttered.  I stayed when you asked me, was Lord Henrys answer.  Harry, I cant quarrel with my two best friends at once, but between you both you have made me hate the finest piece of work I have ever done, and I will destroy it. What is it but canvas and colour? I will not let it come across our three lives and mar them.  Dorian Gray lifted his golden head from the pillow, and with pallid face and tear-stained eyes, looked at him as he walked over to the deal painting-table that was set beneath the high curtained window. What was he doing there? His fingers were straying about among the litter of tin tubes and dry brushes, seeking for something. Yes, it was for the long palette-knife, with its thin blade of lithe steel. He had found it at last. He was going to rip up the canvas.  With a stifled sob the lad leaped from the couch, and, rushing over to Hallward, tore the knife out of his hand, and flung it to the end of the studio. Dont, Basil, dont! he cried. It would be murder!  I am glad you appreciate my work at last, Dorian, said the painter coldly when he had recovered from his surprise. I never thought you would.  Appreciate it? I am in love with it, Basil. It is part
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian Gray is upset with Basil Hallward and Lord Henry for making him hate the portrait Basil painted of him. He tries to destroy the portrait with a knife, but Dorian stops him. Dorian tells Basil that he loves the portrait.

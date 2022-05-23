@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage describes the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook. The passage describes how the old, experienced customs officers at the author's workplace were gradually replaced by younger, more orthodox men. The author knew that the new officers were more fit for the job than the old ones, but he couldn't bring himself to fire them. Eventually, the new officers discovered that the author was not a threat, and they all got along. The passage describes the author's positive feelings towards some of the older workers at the custom house, who he says are generally good-natured and fun to be around. The passage describes the author's co-workers at the Custom House, most of whom are old men. The author characterizes them as generally being "wearisome old souls" who have forgotten much of the wisdom they have acquired over their lifetimes. The passage describes a man who, despite being quite old, is still in excellent health and spirits. He is a government official, and his father was a colonel in the Revolutionary War. This passage describes a man who is seemingly happy and carefree, in spite of the fact that he has experienced a great deal of loss in his life. The author suggests that this is because the man has a very simple nature, without the capacity for deep thought or feeling.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook.

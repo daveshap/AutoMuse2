@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage discusses the uselessness of art, and how it is only excusable if the artist admires it intensely. It also describes the atmosphere in a studio, with the scent of roses and the sound of bees. The passage contains a conversation between two men, one of whom is a painter. The painter says that he cannot exhibit a certain painting because it contains too much of himself. The other man laughs and says that the painting is of a young man who is very beautiful, but that the painter himself is not beautiful. The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others. The passage discusses the speaker's views on class and relationships. They believe that people should be careful in choosing their enemies, as they should be of good intellect. The speaker also has a low opinion of their own family. In the passage, two men discuss Mr. Dorian Gray. One man says that he sees Mr. Gray every day and that he is absolutely necessary to him. The other man is surprised, as he thought the first man only cared about his art. The passage discusses how the author's new muse, Dorian Gray, has inspired a fresh approach to art. The artist sees Dorian as the embodiment of a new school of thought that combines the passion of the romantic spirit with the perfection of the Greek spirit. Basil Hallward is in love with Dorian Gray and believes that he sees everything in him. He won't exhibit the portrait he painted of Dorian because it would reveal his feelings to the world.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the uselessness of art, and how it is only excusable if the artist admires it intensely. It describes the atmosphere in a studio, with the scent of roses and the sound of bees. The passage contains a conversation between two men, one of whom is a painter. The painter says that he cannot exhibit a certain painting because it contains too much of himself. The other man laughs and says that the painting is of a young man who is very beautiful, but that the painter himself is not beautiful. The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others. The passage discusses the speaker's views on class and relationships. They believe that people should be careful in choosing their enemies, as they should be of good intellect. The speaker also has a low opinion of their own family.

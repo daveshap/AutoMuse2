@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: that his name was Dorian Gray. I am bound to state that she never told me he was good-looking. Women have no appreciation of good looks; at least, good women have not. She said that he was very earnest and had a beautiful nature. I at once pictured to myself a creature with spectacles and lank hair, horribly freckled, and tramping about on huge feet. I wish I had known it was your friend.  I am very glad you didnt, Harry.  Why?  I dont want you to meet him.  You dont want me to meet him?  No.  Mr. Dorian Gray is in the studio, sir, said the butler, coming into the garden.  You must introduce me now, cried Lord Henry, laughing.  The painter turned to his servant, who stood blinking in the sunlight. Ask Mr. Gray to wait, Parker: I shall be in in a few moments. The man bowed and went up the walk.  Then he looked at Lord Henry. Dorian Gray is my dearest friend, he said. He has a simple and a beautiful nature. Your aunt was quite right in what she said of him. Dont spoil him. Dont try to influence him. Your influence would be bad. The world is wide, and has many marvellous people in it. Dont take away from me the one person who gives to my art whatever charm it possesses: my life as an artist depends on him. Mind, Harry, I trust you. He spoke very slowly, and the words seemed wrung out of him almost against his will.  What nonsense you talk! said Lord Henry, smiling, and taking Hallward by the arm, he almost led him into the house.     CHAPTER II.   As
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The painter Basil Hallward tells his friend Lord Henry Wotton that he does not want him to meet Dorian Gray, as he is the only person who gives his art whatever charm it possesses.

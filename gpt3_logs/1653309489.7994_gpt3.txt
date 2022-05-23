@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage explains the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook. This passage describes the connection that a family has to a specific location, even if they have no personal attachment to the place. This is because the family has likely been living in the same place for generations, and the connection is passed down through the family. The narrator feels a strong attachment to Salem, even though he recognizes that it is not a particularly healthy place to live. He has left Salem multiple times before, but always feels drawn back. When he takes a job in the town, he feels like he is fulfilling a destiny. This passage describes the author's experience taking charge of the Salem Custom-House. He notes that most of the employees are old, experienced sea captains. He also mentions that the previous chief executive officer, General Miller, was a very conservative man. The passage describes the retirement of several older customs officers, who were allowed to leave their posts due to their age and infirmity. The author suggests that their retirement may have been due to his own interference, and notes that neither the front nor the back entrance of the Custom-House opens on the road to Paradise. The passage describes the reaction of the old officers of a custom-house to the new surveyor, who is not a politician. The old officers are afraid that they will be replaced by younger, more active politicians.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook.

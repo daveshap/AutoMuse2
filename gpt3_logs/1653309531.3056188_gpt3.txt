@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream. The passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. The daughter is shocked and disbelieved, and Mr. Lorry tries to comfort her. He tells her that her father has been found under a different name. The passage describes a woman who appears to be in a trance, and the man who is with her is worried that he will hurt her if he tries to move her. He calls for help, and a wild-looking woman comes over. A figure scolds the inn servants for not fetching things and orders them to bring smelling-salts, cold water, and vinegar. The figure tenderly cares for the patient, calling her "my precious" and "my bird." The figure is angry with Mr. Lorry, accusing him of frightening the patient. A cask of wine has fallen and broken in the street, and people are taking advantage of the situation to drink as much of the wine as they can. Mr. Lorry, observing the scene, hopes that the young woman he is with will not be similarly tempted. People in the street were drinking wine and having a good time. When the wine was gone, they raked the ground where it had been and went on their way. The passage describes the aftermath of a wine spill in a poor Parisian suburb. The wine has stained the ground and many people's hands and clothes. The passage foreshadows the future spilling of blood in the same area.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man falls asleep and imagines the ghostly face of a person he once knew. The man wakes up and realizes it was all a dream.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: have heard, and as the dreary and unprosperous condition of the race, for many a long year back, would argue to existmay be now and henceforth removed.  Doubtless, however, either of these stern and black-browed Puritans would have thought it quite a sufficient retribution for his sins, that, after so long a lapse of years, the old trunk of the family tree, with so much venerable moss upon it, should have borne, as its topmost bough, an idler like myself. No aim, that I have ever cherished, would they recognize as laudable; no success of mineif my life, beyond its domestic scope, had ever been brightened by successwould they deem otherwise than worthless, if not positively disgraceful. What is he? murmurs one gray shadow of my forefathers to the other. A writer of story-books! What kind of a business in lifewhat mode of glorifying God, or being serviceable to mankind in his day and generationmay that be? Why, the degenerate fellow might as well have been a fiddler! Such are the compliments bandied between my great-grandsires and myself, across the gulf of time! And yet, let them scorn me as they will, strong traits of their nature have intertwined themselves with mine.  Planted deep, in the towns earliest infancy and childhood, by these two earnest and energetic men, the race has ever since subsisted here; always, too, in respectability; never, so far as I have known, disgraced by a single unworthy member; but seldom or never, on the other hand, after the first two
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the author's ancestors, who were Puritans. They would not have approved of the author's career as a writer of storybooks. However, the author has inherited some of their traits. The race of Puritans has always been respectable and has never been disgraced by a single unworthy member.

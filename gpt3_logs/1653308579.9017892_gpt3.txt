@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hideous puppets, haunted by the memory of the passions of which we were too much afraid, and the exquisite temptations that we had not the courage to yield to. Youth! Youth! There is absolutely nothing in the world but youth!  Dorian Gray listened, open-eyed and wondering. The spray of lilac fell from his hand upon the gravel. A furry bee came and buzzed round it for a moment. Then it began to scramble all over the oval stellated globe of the tiny blossoms. He watched it with that strange interest in trivial things that we try to develop when things of high import make us afraid, or when we are stirred by some new emotion for which we cannot find expression, or when some thought that terrifies us lays sudden siege to the brain and calls on us to yield. After a time the bee flew away. He saw it creeping into the stained trumpet of a Tyrian convolvulus. The flower seemed to quiver, and then swayed gently to and fro.  Suddenly the painter appeared at the door of the studio and made staccato signs for them to come in. They turned to each other and smiled.  I am waiting, he cried. Do come in. The light is quite perfect, and you can bring your drinks.  They rose up and sauntered down the walk together. Two green-and-white butterflies fluttered past them, and in the pear-tree at the corner of the garden a thrush began to sing.  You are glad you have met me, Mr. Gray, said Lord Henry, looking at him.  Yes, I am glad now. I wonder shall I always be glad?  Always! That is a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian Gray listens as a man describes how wonderful youth is. He then sees a bee and watches it for a while. The bee flies away and the man invites him into the studio. They then walk together and the man tells Dorian that he is glad they met. Dorian wonders if he will always be glad.

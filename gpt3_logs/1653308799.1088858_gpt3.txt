@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the waiter came in to announce that Miss Manette had arrived from London, and would be happy to see the gentleman from Tellsons.  So soon?  Miss Manette had taken some refreshment on the road, and required none then, and was extremely anxious to see the gentleman from Tellsons immediately, if it suited his pleasure and convenience.  The gentleman from Tellsons had nothing left for it but to empty his glass with an air of stolid desperation, settle his odd little flaxen wig at the ears, and follow the waiter to Miss Manettes apartment. It was a large, dark room, furnished in a funereal manner with black horsehair, and loaded with heavy dark tables. These had been oiled and oiled, until the two tall candles on the table in the middle of the room were gloomily reflected on every leaf; as if _they_ were buried, in deep graves of black mahogany, and no light to speak of could be expected from them until they were dug out.  The obscurity was so difficult to penetrate that Mr. Lorry, picking his way over the well-worn Turkey carpet, supposed Miss Manette to be, for the moment, in some adjacent room, until, having got past the two tall candles, he saw standing to receive him by the table between them and the fire, a young lady of not more than seventeen, in a riding-cloak, and still holding her straw travelling-hat by its ribbon in her hand. As his eyes rested on a short, slight, pretty figure, a quantity of golden hair, a pair of blue eyes that met his own with an inquiring
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The waiter came in to announce that Miss Manette had arrived from London, and would be happy to see the gentleman from Tellsons. When the gentleman from Tellsons entered Miss Manette's apartment, he saw a young lady of not more than seventeen standing by the table between two tall candles.

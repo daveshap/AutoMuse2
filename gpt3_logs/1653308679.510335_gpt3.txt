@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with, I think, livelier curiosity, than any other form of humanity there presented to my notice. He was, in truth, a rare phenomenon; so perfect, in one point of view; so shallow, so delusive, so impalpable, such an absolute nonentity, in every other. My conclusion was that he had no soul, no heart, no mind; nothing, as I have already said, but instincts: and yet, withal, so cunningly had the few materials of his character been put together, that there was no painful perception of deficiency, but, on my part, an entire contentment with what I found in him. It might be difficultand it was soto conceive how he should exist hereafter, so earthly and sensuous did he seem; but surely his existence here, admitting that it was to terminate with his last breath, had been not unkindly given; with no higher moral responsibilities than the beasts of the field, but with a larger scope of enjoyment than theirs, and with all their blessed immunity from the dreariness and duskiness of age.  One point, in which he had vastly the advantage over his four-footed brethren, was his ability to recollect the good dinners which it had made no small portion of the happiness of his life to eat. His gourmandism was a highly agreeable trait; and to hear him talk of roast-meat was as appetizing as a pickle or an oyster. As he possessed no higher attribute, and neither sacrificed nor vitiated any spiritual endowment by devoting all his energies and ingenuities to subserve the delight and profit of his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man who seems to the narrator to be little more than a animal, existing only to satisfy his appetites. However, the man is also cunning and content with his life, and the narrator finds him strangely likable.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: her glance. The young forehead lifted itself into that singular expression--but it was pretty and characteristic, besides being singular--and she raised her hand, as if with an involuntary action she caught at, or stayed some passing shadow.  Are you quite a stranger to me, sir?  Am I not? Mr. Lorry opened his hands, and extended them outwards with an argumentative smile.  Between the eyebrows and just over the little feminine nose, the line of which was as delicate and fine as it was possible to be, the expression deepened itself as she took her seat thoughtfully in the chair by which she had hitherto remained standing. He watched her as she mused, and the moment she raised her eyes again, went on:  In your adopted country, I presume, I cannot do better than address you as a young English lady, Miss Manette?  If you please, sir.  Miss Manette, I am a man of business. I have a business charge to acquit myself of. In your reception of it, dont heed me any more than if I was a speaking machine--truly, I am not much else. I will, with your leave, relate to you, miss, the story of one of our customers.  Story!  He seemed wilfully to mistake the word she had repeated, when he added, in a hurry, Yes, customers; in the banking business we usually call our connection our customers. He was a French gentleman; a scientific gentleman; a man of great acquirements--a Doctor.  Not of Beauvais?  Why, yes, of Beauvais. Like Monsieur Manette, your father, the gentleman was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man tells a story about one of his customers, a French gentleman from Beauvais.

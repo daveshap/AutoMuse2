@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: these limits, an author, methinks, may be autobiographical, without violating either the readers rights or his own.  It will be seen, likewise, that this Custom-House sketch has a certain propriety, of a kind always recognized in literature, as explaining how a large portion of the following pages came into my possession, and as offering proofs of the authenticity of a narrative therein contained. This, in fact,a desire to put myself in my true position as editor, or very little more, of the most prolix among the tales that make up my volume,this, and no other, is my true reason for assuming a personal relation with the public. In accomplishing the main purpose, it has appeared allowable, by a few extra touches, to give a faint representation of a mode of life not heretofore described, together with some of the characters that move in it, among whom the author happened to make one.         *       *       *       *       *  In my native town of Salem, at the head of what, half a century ago, in the days of old King Derby, was a bustling wharf,but which is now burdened with decayed wooden warehouses, and exhibits few or no symptoms of commercial life; except, perhaps, a bark or brig, half-way down its melancholy length, discharging hides; or, nearer at hand, a Nova Scotia schooner, pitching out her cargo of firewood,at the head, I say, of this dilapidated wharf, which the tide often overflows, and along which, at the base and in the rear of the row of buildings, the track
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's reasons for writing a "Custom-House sketch" (an autobiographical account of how he came to possess the material for his book) and for assuming a personal relationship with the reader. He explains that he wants to provide a representation of a way of life that has not been described before, and that he hopes the sketch will serve as proof of the authenticity of the book's contents.

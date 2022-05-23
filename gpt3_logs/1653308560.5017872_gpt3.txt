@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: conscious only that a look had come into the lads face that he had never seen there before.  And yet, continued Lord Henry, in his low, musical voice, and with that graceful wave of the hand that was always so characteristic of him, and that he had even in his Eton days, I believe that if one man were to live out his life fully and completely, were to give form to every feeling, expression to every thought, reality to every dreamI believe that the world would gain such a fresh impulse of joy that we would forget all the maladies of medivalism, and return to the Hellenic idealto something finer, richer than the Hellenic ideal, it may be. But the bravest man amongst us is afraid of himself. The mutilation of the savage has its tragic survival in the self-denial that mars our lives. We are punished for our refusals. Every impulse that we strive to strangle broods in the mind and poisons us. The body sins once, and has done with its sin, for action is a mode of purification. Nothing remains then but the recollection of a pleasure, or the luxury of a regret. The only way to get rid of a temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself, with desire for what its monstrous laws have made monstrous and unlawful. It has been said that the great events of the world take place in the brain. It is in the brain, and the brain only, that the great sins of the world take place also. You, Mr. Gray, you yourself,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage argues that if everyone lived their life to the fullest, the world would be a happier place. However, people are afraid of themselves and the things they want, so they sin and are punished for it.

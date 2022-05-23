@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: passenger, if it is.  What passenger?  Mr. Jarvis Lorry.  Our booked passenger showed in a moment that it was his name. The guard, the coachman, and the two other passengers eyed him distrustfully.  Keep where you are, the guard called to the voice in the mist, because, if I should make a mistake, it could never be set right in your lifetime. Gentleman of the name of Lorry answer straight.  What is the matter? asked the passenger, then, with mildly quavering speech. Who wants me? Is it Jerry?  (I dont like Jerrys voice, if it is Jerry, growled the guard to himself. Hes hoarser than suits me, is Jerry.)  Yes, Mr. Lorry.  What is the matter?  A despatch sent after you from over yonder. T. and Co.  I know this messenger, guard, said Mr. Lorry, getting down into the road--assisted from behind more swiftly than politely by the other two passengers, who immediately scrambled into the coach, shut the door, and pulled up the window. He may come close; theres nothing wrong.  I hope there aint, but I cant make so Nation sure of that, said the guard, in gruff soliloquy. Hallo you!  Well! And hallo you! said Jerry, more hoarsely than before.  Come on at a footpace! dye mind me? And if youve got holsters to that saddle o yourn, dont let me see your hand go nigh em. For Im a devil at a quick mistake, and when I make one it takes the form of Lead. So now lets look at you.  The figures of a horse and rider came slowly through the eddying mist,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A passenger named Mr. Jarvis Lorry is stopped by a guard who has a message for him. The guard is suspicious of Lorry and tells him to come closer slowly. Lorry complies and the guard tells him he has a message from T. and Co.

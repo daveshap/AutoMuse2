@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: shield of arms.  It contributes greatly towards a mans moral and intellectual health, to be brought into habits of companionship with individuals unlike himself, who care little for his pursuits, and whose sphere and abilities he must go out of himself to appreciate. The accidents of my life have often afforded me this advantage, but never with more fulness and variety than during my continuance in office. There was one man, especially, the observation of whose character gave me a new idea of talent. His gifts were emphatically those of a man of business; prompt, acute, clear-minded; with an eye that saw through all perplexities, and a faculty of arrangement that made them vanish, as by the waving of an enchanters wand. Bred up from boyhood in the Custom-House, it was his proper field of activity; and the many intricacies of business, so harassing to the interloper, presented themselves before him with the regularity of a perfectly comprehended system. In my contemplation, he stood as the ideal of his class. He was, indeed, the Custom-House in himself; or, at all events, the main-spring that kept its variously revolving wheels in motion; for, in an institution like this, where its officers are appointed to subserve their own profit and convenience, and seldom with a leading reference to their fitness for the duty to be performed, they must perforce seek elsewhere the dexterity which is not in them. Thus, by an inevitable necessity, as a magnet attracts steel-filings, so did
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the importance of interacting with people who are different from oneself, in order to develop a better understanding of the world. The author gives the example of a man who is extremely talented in business, and notes that this is the type of person who is typically successful in the Custom-House.

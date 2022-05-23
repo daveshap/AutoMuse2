@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: consciousness,roused by a trumpet-peal, loud enough to awaken all his energies that were not dead, but only slumbering,he was yet capable of flinging off his infirmities like a sick mans gown, dropping the staff of age to seize a battle-sword, and starting up once more a warrior. And, in so intense a moment, his demeanor would have still been calm. Such an exhibition, however, was but to be pictured in fancy; not to be anticipated, nor desired. What I saw in himas evidently as the indestructible ramparts of Old Ticonderoga already cited as the most appropriate similewere the features of stubborn and ponderous endurance, which might well have amounted to obstinacy in his earlier days; of integrity, that, like most of his other endowments, lay in a somewhat heavy mass, and was just as unmalleable and unmanageable as a ton of iron ore; and of benevolence, which, fiercely as he led the bayonets on at Chippewa or Fort Erie, I take to be of quite as genuine a stamp as what actuates any or all the polemical philanthropists of the age. He had slain men with his own hand, for aught I know,certainly, they had fallen, like blades of grass at the sweep of the scythe, before the charge to which his spirit imparted its triumphant energy;but, be that as it might, there was never in his heart so much cruelty as would have brushed the down off a butterflys wing. I have not known the man to whose innate kindliness I would more confidently make an appeal.  Many characteristicsand
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man who is capable of great strength and courage, but who is also kind and good-hearted.

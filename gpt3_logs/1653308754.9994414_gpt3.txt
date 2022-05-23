@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and came to the side of the mail, where the passenger stood. The rider stooped, and, casting up his eyes at the guard, handed the passenger a small folded paper. The riders horse was blown, and both horse and rider were covered with mud, from the hoofs of the horse to the hat of the man.  Guard! said the passenger, in a tone of quiet business confidence.  The watchful guard, with his right hand at the stock of his raised blunderbuss, his left at the barrel, and his eye on the horseman, answered curtly, Sir.  There is nothing to apprehend. I belong to Tellsons Bank. You must know Tellsons Bank in London. I am going to Paris on business. A crown to drink. I may read this?  If so be as youre quick, sir.  He opened it in the light of the coach-lamp on that side, and read--first to himself and then aloud: Wait at Dover for Mamselle. Its not long, you see, guard. Jerry, say that my answer was, RECALLED TO LIFE.  Jerry started in his saddle. Thats a Blazing strange answer, too,  said he, at his hoarsest.  Take that message back, and they will know that I received this, as well as if I wrote. Make the best of your way. Good night.  With those words the passenger opened the coach-door and got in; not at all assisted by his fellow-passengers, who had expeditiously secreted their watches and purses in their boots, and were now making a general pretence of being asleep. With no more definite purpose than to escape the hazard of originating any other kind of action.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which a rider delivers a message to a guard, who then reads it aloud. The message is simply "Recalled to Life," but the guard is surprised by it. The rider then leaves, and the other passengers pretend to be asleep.

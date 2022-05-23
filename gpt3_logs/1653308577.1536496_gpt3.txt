@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: something dreadful. Time is jealous of you, and wars against your lilies and your roses. You will become sallow, and hollow-cheeked, and dull-eyed. You will suffer horribly.... Ah! realize your youth while you have it. Dont squander the gold of your days, listening to the tedious, trying to improve the hopeless failure, or giving away your life to the ignorant, the common, and the vulgar. These are the sickly aims, the false ideals, of our age. Live! Live the wonderful life that is in you! Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.... A new Hedonismthat is what our century wants. You might be its visible symbol. With your personality there is nothing you could not do. The world belongs to you for a season.... The moment I met you I saw that you were quite unconscious of what you really are, of what you really might be. There was so much in you that charmed me that I felt I must tell you something about yourself. I thought how tragic it would be if you were wasted. For there is such a little time that your youth will lastsuch a little time. The common hill-flowers wither, but they blossom again. The laburnum will be as yellow next June as it is now. In a month there will be purple stars on the clematis, and year after year the green night of its leaves will hold its purple stars. But we never get back our youth. The pulse of joy that beats in us at twenty becomes sluggish. Our limbs fail, our senses rot. We degenerate into
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage is about how time is jealous of youth and how one should live their life to the fullest while they can.

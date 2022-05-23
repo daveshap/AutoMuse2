@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage discusses the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook. The passage describes a man who seems to the narrator to be little more than a animal, existing only to satisfy his appetites. However, the man is also cunning and content with his life, and the narrator finds him strangely likable. This passage describes a man's love for food, and how he remembers meals from long ago with great fondness. The man's life is seemingly defined by his enjoyment of good food, and the author marvels at how little other events seem to have impacted him. The passage describes a Custom-House officer who is aging and infirm, but who is still a brave and honorable man. The passage describes a man who, due to an unspecified condition, has to rely on a servant to help him move around and is only able to dimly take in his surroundings. Despite this, he is still able to maintain a kind and interested expression. It is noted that he is not yet senile, despite his condition. The passage describes an old warrior in terms of the nobility and heroism that characterized him. The narrator notes that the warrior's spirit would have required an impulse to get him moving, but once stirred up, he would not have given up or failed. The heat that had formerly been a part of his nature was still present, even in his decline.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook.

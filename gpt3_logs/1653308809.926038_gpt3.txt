@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of Beauvais. Like Monsieur Manette, your father, the gentleman was of repute in Paris. I had the honour of knowing him there. Our relations were business relations, but confidential. I was at that time in our French House, and had been--oh! twenty years.  At that time--I may ask, at what time, sir?  I speak, miss, of twenty years ago. He married--an English lady--and I was one of the trustees. His affairs, like the affairs of many other French gentlemen and French families, were entirely in Tellsons hands. In a similar way I am, or I have been, trustee of one kind or other for scores of our customers. These are mere business relations, miss; there is no friendship in them, no particular interest, nothing like sentiment. I have passed from one to another, in the course of my business life, just as I pass from one of our customers to another in the course of my business day; in short, I have no feelings; I am a mere machine. To go on--  But this is my fathers story, sir; and I begin to think--the curiously roughened forehead was very intent upon him--that when I was left an orphan through my mothers surviving my father only two years, it was you who brought me to England. I am almost sure it was you.  Mr. Lorry took the hesitating little hand that confidingly advanced to take his, and he put it with some ceremony to his lips. He then conducted the young lady straightway to her chair again, and, holding the chair-back with his left hand, and using his right by turns
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's lack of feelings and emotions, and how he has been a trustee for many customers over the years. He thinks that the person who brought him to England when he was orphaned was the same person who is sitting in front of him.

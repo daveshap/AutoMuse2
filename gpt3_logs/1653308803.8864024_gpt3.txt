@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: baskets!  --rendered it necessary that I should go to Paris, there to communicate with a gentleman of the Bank, so good as to be despatched to Paris for the purpose.  Myself.  As I was prepared to hear, sir.  She curtseyed to him (young ladies made curtseys in those days), with a pretty desire to convey to him that she felt how much older and wiser he was than she. He made her another bow.  I replied to the Bank, sir, that as it was considered necessary, by those who know, and who are so kind as to advise me, that I should go to France, and that as I am an orphan and have no friend who could go with me, I should esteem it highly if I might be permitted to place myself, during the journey, under that worthy gentlemans protection. The gentleman had left London, but I think a messenger was sent after him to beg the favour of his waiting for me here.  I was happy, said Mr. Lorry, to be entrusted with the charge. I shall be more happy to execute it.  Sir, I thank you indeed. I thank you very gratefully. It was told me by the Bank that the gentleman would explain to me the details of the business, and that I must prepare myself to find them of a surprising nature. I have done my best to prepare myself, and I naturally have a strong and eager interest to know what they are.  Naturally, said Mr. Lorry. Yes--I--  After a pause, he added, again settling the crisp flaxen wig at the ears, It is very difficult to begin.  He did not begin, but, in his indecision, met
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A young woman needs to go to Paris for business, and she asks a gentleman from the bank to accompany her. He agrees, and tells her that the business is of a surprising nature.

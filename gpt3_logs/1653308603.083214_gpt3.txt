@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Georgian urn. Two globe-shaped china dishes were brought in by a page. Dorian Gray went over and poured out the tea. The two men sauntered languidly to the table and examined what was under the covers.  Let us go to the theatre to-night, said Lord Henry. There is sure to be something on, somewhere. I have promised to dine at Whites, but it is only with an old friend, so I can send him a wire to say that I am ill, or that I am prevented from coming in consequence of a subsequent engagement. I think that would be a rather nice excuse: it would have all the surprise of candour.  It is such a bore putting on ones dress-clothes, muttered Hallward. And, when one has them on, they are so horrid.  Yes, answered Lord Henry dreamily, the costume of the nineteenth century is detestable. It is so sombre, so depressing. Sin is the only real colour-element left in modern life.  You really must not say things like that before Dorian, Harry.  Before which Dorian? The one who is pouring out tea for us, or the one in the picture?  Before either.  I should like to come to the theatre with you, Lord Henry, said the lad.  Then you shall come; and you will come, too, Basil, wont you?  I cant, really. I would sooner not. I have a lot of work to do.  Well, then, you and I will go alone, Mr. Gray.  I should like that awfully.  The painter bit his lip and walked over, cup in hand, to the picture. I shall stay with the real Dorian, he said, sadly.  Is it the real
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A page brings in two teacups and Dorian Gray pours the tea. Lord Henry and Gray discuss going to the theatre and Basil says he can't go. Lord Henry tells Gray that he should stay with the real Dorian.

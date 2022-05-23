@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sir.) Fetch barber to Concord. Stir about there, now, for Concord!  The Concord bed-chamber being always assigned to a passenger by the mail, and passengers by the mail being always heavily wrapped up from head to foot, the room had the odd interest for the establishment of the Royal George, that although but one kind of man was seen to go into it, all kinds and varieties of men came out of it. Consequently, another drawer, and two porters, and several maids and the landlady, were all loitering by accident at various points of the road between the Concord and the coffee-room, when a gentleman of sixty, formally dressed in a brown suit of clothes, pretty well worn, but very well kept, with large square cuffs and large flaps to the pockets, passed along on his way to his breakfast.  The coffee-room had no other occupant, that forenoon, than the gentleman in brown. His breakfast-table was drawn before the fire, and as he sat, with its light shining on him, waiting for the meal, he sat so still, that he might have been sitting for his portrait.  Very orderly and methodical he looked, with a hand on each knee, and a loud watch ticking a sonorous sermon under his flapped waist-coat, as though it pitted its gravity and longevity against the levity and evanescence of the brisk fire. He had a good leg, and was a little vain of it, for his brown stockings fitted sleek and close, and were of a fine texture; his shoes and buckles, too, though plain, were trim. He wore an odd little
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A gentleman of sixty is sitting in a coffee-room, waiting for his breakfast. He is well-dressed and looks orderly and methodical. He is a little vain of his good leg, and his clothes are of a fine texture.

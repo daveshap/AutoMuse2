@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: life within his thoughts, than amid the unappropriate environment of the Collectors office. The evolutions of the parade; the tumult of the battle; the flourish of old, heroic music, heard thirty years before;such scenes and sounds, perhaps, were all alive before his intellectual sense. Meanwhile, the merchants and shipmasters, the spruce clerks and uncouth sailors, entered and departed; the bustle of this commercial and custom-house life kept up its little murmur round about him; and neither with the men nor their affairs did the General appear to sustain the most distant relation. He was as much out of place as an old swordnow rusty, but which had flashed once in the battles front, and showed still a bright gleam along its bladewould have been, among the inkstands, paper-folders, and mahogany rulers, on the Deputy Collectors desk.  There was one thing that much aided me in renewing and re-creating the stalwart soldier of the Niagara frontier,the man of true and simple energy. It was the recollection of those memorable words of his,Ill try, Sir!spoken on the very verge of a desperate and heroic enterprise, and breathing the soul and spirit of New England hardihood, comprehending all perils, and encountering all. If, in our country, valor were rewarded by heraldic honor, this phrasewhich it seems so easy to speak, but which only he, with such a task of danger and glory before him, has ever spokenwould be the best and fittest of all mottoes for the Generals
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man who seems out of place in his current surroundings, but who is recalled as a brave and heroic figure from the past. The man is remembered for his courage and strength, and for his simple determination to do what is necessary, no matter how difficult it may be.

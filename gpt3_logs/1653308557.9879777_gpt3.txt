@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the dais with the air of a young Greek martyr, and made a little _moue_ of discontent to Lord Henry, to whom he had rather taken a fancy. He was so unlike Basil. They made a delightful contrast. And he had such a beautiful voice. After a few moments he said to him, Have you really a very bad influence, Lord Henry? As bad as Basil says?  There is no such thing as a good influence, Mr. Gray. All influence is immoralimmoral from the scientific point of view.  Why?  Because to influence a person is to give him ones own soul. He does not think his natural thoughts, or burn with his natural passions. His virtues are not real to him. His sins, if there are such things as sins, are borrowed. He becomes an echo of some one elses music, an actor of a part that has not been written for him. The aim of life is self-development. To realize ones nature perfectlythat is what each of us is here for. People are afraid of themselves, nowadays. They have forgotten the highest of all duties, the duty that one owes to ones self. Of course, they are charitable. They feed the hungry and clothe the beggar. But their own souls starve, and are naked. Courage has gone out of our race. Perhaps we never really had it. The terror of society, which is the basis of morals, the terror of God, which is the secret of religionthese are the two things that govern us. And yet  Just turn your head a little more to the right, Dorian, like a good boy, said the painter, deep in his work and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the idea that people are afraid of themselves and have forgotten the duty they owe to themselves. It also argues that courage has gone out of our race.

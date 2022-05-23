@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Monseigneur in the Country      CHAPTER IX     The Gorgons Head      CHAPTER X      Two Promises      CHAPTER XI     A Companion Picture      CHAPTER XII    The Fellow of Delicacy      CHAPTER XIII   The Fellow of no Delicacy      CHAPTER XIV    The Honest Tradesman      CHAPTER XV     Knitting      CHAPTER XVI    Still Knitting      CHAPTER XVII   One Night      CHAPTER XVIII  Nine Days      CHAPTER XIX    An Opinion      CHAPTER XX     A Plea      CHAPTER XXI    Echoing Footsteps      CHAPTER XXII   The Sea Still Rises      CHAPTER XXIII  Fire Rises      CHAPTER XXIV   Drawn to the Loadstone Rock        Book the Third--the Track of a Storm       CHAPTER I      In Secret      CHAPTER II     The Grindstone      CHAPTER III    The Shadow      CHAPTER IV     Calm in Storm      CHAPTER V      The Wood-sawyer      CHAPTER VI     Triumph      CHAPTER VII    A Knock at the Door      CHAPTER VIII   A Hand at Cards      CHAPTER IX     The Game Made      CHAPTER X      The Substance of the Shadow      CHAPTER XI     Dusk      CHAPTER XII    Darkness      CHAPTER XIII   Fifty-two      CHAPTER XIV    The Knitting Done      CHAPTER XV     The Footsteps Die Out For Ever      Book the First--Recalled to Life     CHAPTER I. The Period   It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The novel tells the story of the French Revolution through the eyes of several different characters. Some of the characters are on the side of the revolution, while others are against it. The novel shows the different ways that people react to the violence and chaos of the revolution.

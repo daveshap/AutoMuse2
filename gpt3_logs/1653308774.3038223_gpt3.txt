@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: principally in the passions they expressed, and in the ghastliness of their worn and wasted state. Pride, contempt, defiance, stubbornness, submission, lamentation, succeeded one another; so did varieties of sunken cheek, cadaverous colour, emaciated hands and figures. But the face was in the main one face, and every head was prematurely white. A hundred times the dozing passenger inquired of this spectre:  Buried how long?  The answer was always the same: Almost eighteen years.  You had abandoned all hope of being dug out?  Long ago.  You know that you are recalled to life?  They tell me so.  I hope you care to live?  I cant say.  Shall I show her to you? Will you come and see her?  The answers to this question were various and contradictory. Sometimes the broken reply was, Wait! It would kill me if I saw her too soon.  Sometimes, it was given in a tender rain of tears, and then it was, Take me to her. Sometimes it was staring and bewildered, and then it was, I dont know her. I dont understand.  After such imaginary discourse, the passenger in his fancy would dig, and dig, dig--now with a spade, now with a great key, now with his hands--to dig this wretched creature out. Got out at last, with earth hanging about his face and hair, he would suddenly fan away to dust. The passenger would then start to himself, and lower the window, to get the reality of mist and rain on his cheek.  Yet even when his eyes were opened on the mist and rain, on the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage is about a man who sees a spectre that tells him he is dead and has been for eighteen years. The man tries to dig the spectre out, but whenever he does, it turns to dust. The man then wakes up from his dream and realizes he is still alive.

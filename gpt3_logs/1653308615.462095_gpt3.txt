@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: conceives that it could not have been done in a better or a kindlier spirit, nor, so far as his abilities availed, with a livelier effect of truth.  The author is constrained, therefore, to republish his introductory sketch without the change of a word.      SALEM, March 30, 1850.  [Illustration]                                    CONTENTS.                                                   PAGE  THE CUSTOM HOUSE.INTRODUCTORY                     1                             THE SCARLET LETTER.  I. THE PRISON-DOOR                                51  II. THE MARKET-PLACE                              54  III. THE RECOGNITION                              68  IV. THE INTERVIEW                                 80  V. HESTER AT HER NEEDLE                           90  VI. PEARL                                        104  VII. THE GOVERNORS HALL                         118  VIII. THE ELF-CHILD AND THE MINISTER             129  IX. THE LEECH                                    142  X. THE LEECH AND HIS PATIENT                     155  XI. THE INTERIOR OF A HEART                      168  XII. THE MINISTERS VIGIL                        177  XIII. ANOTHER VIEW OF HESTER                     193  XIV. HESTER AND THE PHYSICIAN                    204  XV. HESTER AND PEARL                             212  XVI. A FOREST WALK                               223  XVII. THE PASTOR AND HIS PARISHIONER             231  XVIII. A FLOOD OF SUNSHINE                       245  XIX. THE CHILD AT THE
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author of "The Custom House" republishes his introductory sketch without changes, noting that he believes he has done so in the best possible way. The contents of the book are then listed.

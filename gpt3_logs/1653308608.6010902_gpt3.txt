@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Project Gutenberg eBook of The Scarlet Letter, by Nathaniel Hawthorne  This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.  Title: The Scarlet Letter  Author: Nathaniel Hawthorne  Illustrator: Mary Hallock Foote              L. S. Ipsen  Release Date: May 22, May 5, 2008 [eBook #25344] [Most recently updated: October 19, 2021]  Language: English   Produced by: Markus Brenner, Irma Spehar and the Online Distributed Proofreading Team  *** START OF THE PROJECT GUTENBERG EBOOK THE SCARLET LETTER ***                               THE SCARLET LETTER.                                    BY                           NATHANIEL HAWTHORNE.                               Illustrated.                              [Illustration]                                  BOSTON:                      JAMES R. OSGOOD AND COMPANY,            LATE TICKNOR & FIELDS, AND FIELDS, OSGOOD, & CO.                                  1878.                         COPYRIGHT, 1850 AND 1877.            BY NATHANIEL HAWTHORNE AND JAMES R. OSGOOD & CO.                          _All rights reserved._
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage explains the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage:  The artist creates beautiful things, but the critic can translate those things into something new. The highest form of criticism is autobiography. The author argues that books cannot be judged as morally good or bad, but only as well-written or badly-written. Art is a surface and symbol that can be interpreted in different ways, and the fact that critics often disagree about a work of art shows that it is complex and vital. This passage discusses the uselessness of art, and how it is only excusable if the artist admires it intensely. It also describes the atmosphere in a studio, with the scent of roses and the sound of bees. Basil Hallward is looking at a portrait of a young man that he has painted, and Lord Henry compliments him on it. Basil says that he doesn't want to send it to any art galleries. The passage contains a conversation between two men, one of whom is a painter. The painter says that he cannot exhibit a certain painting because it contains too much of himself. The other man laughs and says that the painting is of a young man who is very beautiful, but that the painter himself is not beautiful. The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others. The passage discusses the idea that people enjoy secrecy and deception in their lives, and that this can make life more interesting. Basil Hallward and Lord Henry discuss why the latter won't exhibit a portrait of Dorian Gray. Hallward insists that it's because there's too much of the artist in it, but Henry doesn't believe him.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the uselessness of art, and how it is only excusable if the artist admires it intensely. It also describes the atmosphere in a studio, with the scent of roses and the sound of bees. The passage contains a conversation between two men, one of whom is a painter. The painter says that he cannot exhibit a certain painting because it contains too much of himself. The other man laughs and says that the painting is of a young man who is very beautiful, but that the painter himself is not beautiful. The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others.

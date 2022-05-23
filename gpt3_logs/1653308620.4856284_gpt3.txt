@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: 165  THE VIRGINS OF THE CHURCH                              172  THEY STOOD IN THE NOON OF THAT STRANGE SPLENDOR      185  HESTER IN THE HOUSE OF MOURNING                        195  MANDRAKE                                               211  HE GATHERED HERBS HERE AND THERE                     213  PEARL ON THE SEA-SHORE                                 217  WILT THOU YET FORGIVE ME?                            237  A GLEAM OF SUNSHINE                                    249  THE CHILD AT THE BROOK-SIDE                            257  CHILLINGWORTH,SMILE WITH A SINISTER MEANING         287  NEW ENGLAND WORTHIES                                   289  SHALL WE NOT MEET AGAIN?                             311  HESTERS RETURN                                        320                                THE CUSTOM-HOUSE.  [Illustration: The Custom-House]                                THE CUSTOM-HOUSE.                   INTRODUCTORY TO THE SCARLET LETTER.   It is a little remarkable, thatthough disinclined to talk overmuch of myself and my affairs at the fireside, and to my personal friendsan autobiographical impulse should twice in my life have taken possession of me, in addressing the public. The first time was three or four years since, when I favored the readerinexcusably, and for no earthly reason, that either the indulgent reader or the intrusive author could imaginewith a description of my way of life in the deep quietude of an Old Manse. And nowbecause, beyond
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator talks about how he twice felt the need to write about his life, once when he was living in the Old Manse, and now again. He talks about how he has always been reticent to talk about himself, but feels compelled to do so now.

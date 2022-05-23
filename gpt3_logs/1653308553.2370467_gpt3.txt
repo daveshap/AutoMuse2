@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: they entered they saw Dorian Gray. He was seated at the piano, with his back to them, turning over the pages of a volume of Schumanns Forest Scenes. You must lend me these, Basil, he cried. I want to learn them. They are perfectly charming.  That entirely depends on how you sit to-day, Dorian.  Oh, I am tired of sitting, and I dont want a life-sized portrait of myself, answered the lad, swinging round on the music-stool in a wilful, petulant manner. When he caught sight of Lord Henry, a faint blush coloured his cheeks for a moment, and he started up. I beg your pardon, Basil, but I didnt know you had any one with you.  This is Lord Henry Wotton, Dorian, an old Oxford friend of mine. I have just been telling him what a capital sitter you were, and now you have spoiled everything.  You have not spoiled my pleasure in meeting you, Mr. Gray, said Lord Henry, stepping forward and extending his hand. My aunt has often spoken to me about you. You are one of her favourites, and, I am afraid, one of her victims also.  I am in Lady Agathas black books at present, answered Dorian with a funny look of penitence. I promised to go to a club in Whitechapel with her last Tuesday, and I really forgot all about it. We were to have played a duet togetherthree duets, I believe. I dont know what she will say to me. I am far too frightened to call.  Oh, I will make your peace with my aunt. She is quite devoted to you. And I dont think it really matters about your not
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian Gray is sitting at a piano, turning the pages of a book of music. He tells his friend Basil that he wants to learn the piece, and Basil says it depends on how Dorian sits. Dorian says he is tired of sitting and does not want a life-sized portrait of himself. When he sees Lord Henry, he blushes and starts to get up. Lord Henry tells Dorian that he is one of Lady Agatha's favorites, and Dorian says he is in her black books at the moment. Lord Henry tells Dorian that he will make peace with Lady Agatha.

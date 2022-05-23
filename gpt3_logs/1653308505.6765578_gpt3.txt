@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: they are! Except, of course, in the Church. But then in the Church they dont think. A bishop keeps on saying at the age of eighty what he was told to say when he was a boy of eighteen, and as a natural consequence he always looks absolutely delightful. Your mysterious young friend, whose name you have never told me, but whose picture really fascinates me, never thinks. I feel quite sure of that. He is some brainless beautiful creature who should be always here in winter when we have no flowers to look at, and always here in summer when we want something to chill our intelligence. Dont flatter yourself, Basil: you are not in the least like him.  You dont understand me, Harry, answered the artist. Of course I am not like him. I know that perfectly well. Indeed, I should be sorry to look like him. You shrug your shoulders? I am telling you the truth. There is a fatality about all physical and intellectual distinction, the sort of fatality that seems to dog through history the faltering steps of kings. It is better not to be different from ones fellows. The ugly and the stupid have the best of it in this world. They can sit at their ease and gape at the play. If they know nothing of victory, they are at least spared the knowledge of defeat. They live as we all should liveundisturbed, indifferent, and without disquiet. They neither bring ruin upon others, nor ever receive it from alien hands. Your rank and wealth, Harry; my brains, such as they aremy art, whatever it may
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage suggests that it is better to be ugly and stupid than to be beautiful and intelligent, because the latter are more likely to be ruined by their difference from others.

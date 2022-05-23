@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: up anew, in imagination, an old fortress, like Ticonderoga, from a view of its gray and broken ruins. Here and there, perchance, the walls may remain almost complete, but elsewhere may be only a shapeless mound, cumbrous with its very strength, and overgrown, through long years of peace and neglect, with grass and alien weeds.  Nevertheless, looking at the old warrior with affection,for, slight as was the communication between us, my feeling towards him, like that of all bipeds and quadrupeds who knew him, might not improperly be termed so,I could discern the main points of his portrait. It was marked with the noble and heroic qualities which showed it to be not by a mere accident, but of good right, that he had won a distinguished name. His spirit could never, I conceive, have been characterized by an uneasy activity; it must, at any period of his life, have required an impulse to set him in motion; but, once stirred up, with obstacles to overcome, and an adequate object to be attained, it was not in the man to give out or fail. The heat that had formerly pervaded his nature, and which was not yet extinct, was never of the kind that flashes and flickers in a blaze; but, rather, a deep, red glow, as of iron in a furnace. Weight, solidity, firmness; this was the expression of his repose, even in such decay as had crept untimely over him, at the period of which I speak. But I could imagine, even then, that, under some excitement which should go deeply into his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes an old warrior in terms of the nobility and heroism that characterized him. The narrator notes that the warrior's spirit would have required an impulse to get him moving, but once stirred up, he would not have given up or failed. The heat that had formerly been a part of his nature was still present, even in his decline.

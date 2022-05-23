@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: messenger, glancing at his mare. Recalled to life. Thats a Blazing strange message. Much of that wouldnt do for you, Jerry! I say, Jerry! Youd be in a Blazing bad way, if recalling to life was to come into fashion, Jerry!     CHAPTER III. The Night Shadows   A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it! Something of the awfulness, even of Death itself, is referable to this. No more can I turn the leaves of this dear book that I loved, and vainly hope in time to read it all. No more can I look into the depths of this unfathomable water, wherein, as momentary lights glanced into it, I have had glimpses of buried treasure and other things submerged. It was appointed that the book should shut with a spring, for ever and for ever, when I had read but a page. It was appointed that the water should be locked in an eternal frost, when the light was playing on its surface, and I stood in ignorance on the shore. My friend is dead, my neighbour is dead, my love, the darling of my soul, is dead; it is the inexorable consolidation and perpetuation of the secret that was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage reflects on the idea that every person is a mystery to everyone else, and that this is something that can be both wonderful and terrible. It also notes that sometimes things are hidden from us that we can never know about.

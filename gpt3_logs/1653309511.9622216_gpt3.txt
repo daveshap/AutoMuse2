@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage:  This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. A Tale of Two Cities is a story of the French Revolution by Charles Dickens. The novel tells the story of the French Revolution through the eyes of several different characters. Some of the characters are on the side of the revolution, while others are against it. The novel shows the different ways that people react to the violence and chaos of the revolution. This passage compares the winter of 1775 to the present day, noting that both periods had their share of problems. In particular, the author highlights the fact that there were prophecies of bad things happening in both periods, but in the end, these prophecies did not come to fruition. The passage describes the French Revolution, during which many people were sentenced to brutal punishments for relatively minor offenses. It notes that even though the events of the Revolution were horrific, they were ultimately overseen by forces of nature that are indifferent to human suffering. This passage describes the lawlessness and violence that were commonplace in England at the time. The passage describes the Dover road in England in the year 1775. The road is full of criminals and dead bodies, and the narrator refers to the people who travel on it as "the creatures of this chronicle." The horses are struggling to pull the coach up a hill in the thick mud, and the driver is having difficulty keeping them moving forward. The passenger is nervous and the mist is making the situation worse.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage compares the winter of 1775 to the present day, noting that both periods had their share of problems. It describes the lawlessness and violence that were commonplace in England at the time, and the French Revolution, during which many people were sentenced to brutal punishments for relatively minor offenses. Despite the prophecies of bad things happening in both periods, the author notes that in the end, these prophecies did not come to fruition.

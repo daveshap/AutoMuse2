@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage compares the winter of 1775 to the present day, noting that both periods had their share of problems. It describes the lawlessness and violence that were commonplace in England at the time, and the French Revolution, during which many people were sentenced to brutal punishments for relatively minor offenses. Despite the prophecies of bad things happening in both periods, the author notes that in the end, these prophecies did not come to fruition. The Dover mail was in its usual genial position that the guard suspected the passengers, the passengers suspected one another and the guard, they all suspected everybody else, and the coachman was sure of nothing but the horses; as to which cattle he could with a clear conscience. The Dover mail is struggling up a hill, and the passengers are getting impatient. The coachman and guard are both worried about a horse that is approaching at a gallop. It turns out to be a highwayman, and the guard shoots him. The guard of the Dover mail coach orders the passengers to get on the coach, and they comply. However, they are soon interrupted by the sound of a horse at a gallop. The guard calls out to the horseman to stop, and they exchange brief dialogue. It is revealed that the horseman is also headed to Dover. A passenger named Mr. Jarvis Lorry is stopped by a guard who has a message for him. The guard is suspicious of Lorry and tells him to come closer slowly. Lorry complies and the guard tells him he has a message from T. and Co.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage compares the winter of 1775 to the present day, noting that both periods had their share of problems. It describes the lawlessness and violence that were commonplace in England at the time, and the French Revolution, during which many people were sentenced to brutal punishments for relatively minor offenses. Despite the prophecies of bad things happening in both periods, the author notes that in the end, these prophecies did not come to fruition.

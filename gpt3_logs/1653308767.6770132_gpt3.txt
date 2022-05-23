@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: he muffled again.  No, Jerry, no! said the messenger, harping on one theme as he rode. It wouldnt do for you, Jerry. Jerry, you honest tradesman, it wouldnt suit _your_ line of business! Recalled--! Bust me if I dont think hed been a drinking!  His message perplexed his mind to that degree that he was fain, several times, to take off his hat to scratch his head. Except on the crown, which was raggedly bald, he had stiff, black hair, standing jaggedly all over it, and growing down hill almost to his broad, blunt nose. It was so like Smiths work, so much more like the top of a strongly spiked wall than a head of hair, that the best of players at leap-frog might have declined him, as the most dangerous man in the world to go over.  While he trotted back with the message he was to deliver to the night watchman in his box at the door of Tellsons Bank, by Temple Bar, who was to deliver it to greater authorities within, the shadows of the night took such shapes to him as arose out of the message, and took such shapes to the mare as arose out of _her_ private topics of uneasiness. They seemed to be numerous, for she shied at every shadow on the road.  What time, the mail-coach lumbered, jolted, rattled, and bumped upon its tedious way, with its three fellow-inscrutables inside. To whom, likewise, the shadows of the night revealed themselves, in the forms their dozing eyes and wandering thoughts suggested.  Tellsons Bank had a run upon it in the mail. As the bank passenger
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a messenger riding to deliver a message, and the shadows of the night taking shapes to him and the horse he is riding.

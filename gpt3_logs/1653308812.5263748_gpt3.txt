@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to rub his chin, pull his wig at the ears, or point what he said, stood looking down into her face while she sat looking up into his.  Miss Manette, it _was_ I. And you will see how truly I spoke of myself just now, in saying I had no feelings, and that all the relations I hold with my fellow-creatures are mere business relations, when you reflect that I have never seen you since. No; you have been the ward of Tellsons House since, and I have been busy with the other business of Tellsons House since. Feelings! I have no time for them, no chance of them. I pass my whole life, miss, in turning an immense pecuniary Mangle.  After this odd description of his daily routine of employment, Mr. Lorry flattened his flaxen wig upon his head with both hands (which was most unnecessary, for nothing could be flatter than its shining surface was before), and resumed his former attitude.  So far, miss (as you have remarked), this is the story of your regretted father. Now comes the difference. If your father had not died when he did--Dont be frightened! How you start!  She did, indeed, start. And she caught his wrist with both her hands.  Pray, said Mr. Lorry, in a soothing tone, bringing his left hand from the back of the chair to lay it on the supplicatory fingers that clasped him in so violent a tremble: pray control your agitation--a matter of business. As I was saying--  Her look so discomposed him that he stopped, wandered, and began anew:  As I was saying; if Monsieur
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is Mr. Lorry, an employee of Tellsons Bank. He is telling Miss Manette, the daughter of a former client of the bank, about her father's death. Mr. Lorry describes his own daily routine and explains that he has no time for emotions. He then tells Miss Manette that her father's death was not his fault.

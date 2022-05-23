@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: snore, and with that lack of energy that distinguishes the occupants of almshouses, and all other human beings who depend for subsistence on charity, on monopolized labor, or anything else, but their own independent exertions. These old gentlemenseated, like Matthew, at the receipt of customs, but not very liable to be summoned thence, like him, for apostolic errandswere Custom-House officers.  Furthermore, on the left hand as you enter the front door, is a certain room or office, about fifteen feet square, and of a lofty height; with two of its arched windows commanding a view of the aforesaid dilapidated wharf, and the third looking across a narrow lane, and along a portion of Derby Street. All three give glimpses of the shops of grocers, block-makers, slop-sellers, and ship-chandlers; around the doors of which are generally to be seen, laughing and gossiping, clusters of old salts, and such other wharf-rats as haunt the Wapping of a seaport. The room itself is cobwebbed, and dingy with old paint; its floor is strewn with gray sand, in a fashion that has elsewhere fallen into long disuse; and it is easy to conclude, from the general slovenliness of the place, that this is a sanctuary into which womankind, with her tools of magic, the broom and mop, has very infrequent access. In the way of furniture, there is a stove with a voluminous funnel; an old pine desk, with a three-legged stool beside it; two or three wooden-bottom chairs, exceedingly decrepit and infirm; andnot
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a room in a seaport town, inhabited by old men who are retired Custom-House officers. The room is dirty and cluttered, and it is clear that it is not regularly cleaned.

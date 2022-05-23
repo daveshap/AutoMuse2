@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: faced old gentleman covered all over with orders and ribbons, and hissing into my ear, in a tragic whisper which must have been perfectly audible to everybody in the room, the most astounding details. I simply fled. I like to find out people for myself. But Lady Brandon treats her guests exactly as an auctioneer treats his goods. She either explains them entirely away, or tells one everything about them except what one wants to know.  Poor Lady Brandon! You are hard on her, Harry! said Hallward listlessly.  My dear fellow, she tried to found a _salon_, and only succeeded in opening a restaurant. How could I admire her? But tell me, what did she say about Mr. Dorian Gray?  Oh, something like, Charming boypoor dear mother and I absolutely inseparable. Quite forget what he doesafraid hedoesnt do anythingoh, yes, plays the pianoor is it the violin, dear Mr. Gray? Neither of us could help laughing, and we became friends at once.  Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one, said the young lord, plucking another daisy.  Hallward shook his head. You dont understand what friendship is, Harry, he murmuredor what enmity is, for that matter. You like every one; that is to say, you are indifferent to every one.  How horribly unjust of you! cried Lord Henry, tilting his hat back and looking up at the little clouds that, like ravelled skeins of glossy white silk, were drifting across the hollowed turquoise of the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Lady Brandon tries to make friends with everybody and ends up making enemies.

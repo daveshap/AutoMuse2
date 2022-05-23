@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: This passage discusses the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook. The passage also describes the importance of interacting with people who are different from oneself, in order to develop a better understanding of the world. The passage describes the author's shift away from an interest in literature and toward an interest in nature. He notes that this change was brought about by his interactions with different people, each of whom had their own unique perspective. The passage reflects on the transitory nature of life, and how a man of thought and sensibility can be a good man of affairs if he chooses to be. The author notes that his fellow officers and others he knows through his work know him only in his professional capacity, and probably wouldn't care for him more if they knew of his literary aspirations. The point is made that it is a good lesson for a man who dreamed of literary fame to learn that it is not necessary for success in life. The narrator has learned that all the success and recognition he achieves within his small circle is meaningless in the grand scheme of things. He is content with this knowledge and no longer seeks fame or glory. This passage describes the author's feelings about their past life and work, and how they were reminded of it when they saw some old barrels of documents in a room in the Custom-House.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook. The passage also describes the importance of interacting with people who are different from oneself, in order to develop a better understanding of the world.

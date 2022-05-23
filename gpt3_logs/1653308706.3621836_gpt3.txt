@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: valuable in the past. It might be true, indeed, that this was a life which could not with impunity be lived too long; else, it might have made me permanently other than I had been without transforming me into any shape which it would be worth my while to take. But I never considered it as other than a transitory life. There was always a prophetic instinct, a low whisper in my ear, that, within no long period, and whenever a new change of custom should be essential to my good, a change would come.  Meanwhile, there I was, a Surveyor of the Revenue, and, so far as I have been able to understand, as good a Surveyor as need be. A man of thought, fancy, and sensibility (had he ten times the Surveyors proportion of those qualities) may, at any time, be a man of affairs, if he will only choose to give himself the trouble. My fellow-officers, and the merchants and sea-captains with whom my official duties brought me into any manner of connection, viewed me in no other light, and probably knew me in no other character. None of them, I presume, had ever read a page of my inditing, or would have cared a fig the more for me, if they had read them all; nor would it have mended the matter, in the least, had those same unprofitable pages been written with a pen like that of Burns or of Chaucer, each of whom was a custom-house officer in his day, as well as I. It is a good lessonthough it may often be a hard onefor a man who has dreamed of literary fame, and of making for himself a rank
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage reflects on the transitory nature of life, and how a man of thought and sensibility can be a good man of affairs if he chooses to be. The author notes that his fellow officers and others he knows through his work know him only in his professional capacity, and probably wouldn't care for him more if they knew of his literary aspirations. The point is made that it is a good lesson for a man who dreamed of literary fame to learn that it is not necessary for success in life.

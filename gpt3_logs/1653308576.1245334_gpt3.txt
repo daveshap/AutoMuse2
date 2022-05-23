@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: it now. Some day, when you are old and wrinkled and ugly, when thought has seared your forehead with its lines, and passion branded your lips with its hideous fires, you will feel it, you will feel it terribly. Now, wherever you go, you charm the world. Will it always be so? ... You have a wonderfully beautiful face, Mr. Gray. Dont frown. You have. And beauty is a form of geniusis higher, indeed, than genius, as it needs no explanation. It is of the great facts of the world, like sunlight, or spring-time, or the reflection in dark waters of that silver shell we call the moon. It cannot be questioned. It has its divine right of sovereignty. It makes princes of those who have it. You smile? Ah! when you have lost it you wont smile.... People say sometimes that beauty is only superficial. That may be so, but at least it is not so superficial as thought is. To me, beauty is the wonder of wonders. It is only shallow people who do not judge by appearances. The true mystery of the world is the visible, not the invisible.... Yes, Mr. Gray, the gods have been good to you. But what the gods give they quickly take away. You have only a few years in which to live really, perfectly, and fully. When your youth goes, your beauty will go with it, and then you will suddenly discover that there are no triumphs left for you, or have to content yourself with those mean triumphs that the memory of your past will make more bitter than defeats. Every month as it wanes brings you nearer to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the transitory nature of beauty and youth, and how they are often taken for granted. It argues that beauty is a form of genius, and that those who have it should enjoy it while they can.

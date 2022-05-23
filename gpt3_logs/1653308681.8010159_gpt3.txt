@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: maw, it always pleased and satisfied me to hear him expatiate on fish, poultry, and butchers meat, and the most eligible methods of preparing them for the table. His reminiscences of good cheer, however ancient the date of the actual banquet, seemed to bring the savor of pig or turkey under ones very nostrils. There were flavors on his palate that had lingered there not less than sixty or seventy years, and were still apparently as fresh as that of the mutton-chop which he had just devoured for his breakfast. I have heard him smack his lips over dinners, every guest at which, except himself, had long been food for worms. It was marvellous to observe how the ghosts of bygone meals were continually rising up before him; not in anger or retribution, but as if grateful for his former appreciation and seeking to resuscitate an endless series of enjoyment, at once shadowy and sensual. A tender-loin of beef, a hind-quarter of veal, a spare-rib of pork, a particular chicken, or a remarkably praiseworthy turkey, which had perhaps adorned his board in the days of the elder Adams, would be remembered; while all the subsequent experience of our race, and all the events that brightened or darkened his individual career, had gone over him with as little permanent effect as the passing breeze. The chief tragic event of the old mans life, so far as I could judge, was his mishap with a certain goose which lived and died some twenty or forty years ago; a goose of most promising figure, but
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a man's love for food, and how he remembers meals from long ago with great fondness. The man's life is seemingly defined by his enjoyment of good food, and the author marvels at how little other events seem to have impacted him.

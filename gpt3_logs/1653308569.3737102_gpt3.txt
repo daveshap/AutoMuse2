@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: anything he has told me.  You know you believe it all, said Lord Henry, looking at him with his dreamy languorous eyes. I will go out to the garden with you. It is horribly hot in the studio. Basil, let us have something iced to drink, something with strawberries in it.  Certainly, Harry. Just touch the bell, and when Parker comes I will tell him what you want. I have got to work up this background, so I will join you later on. Dont keep Dorian too long. I have never been in better form for painting than I am to-day. This is going to be my masterpiece. It is my masterpiece as it stands.  Lord Henry went out to the garden and found Dorian Gray burying his face in the great cool lilac-blossoms, feverishly drinking in their perfume as if it had been wine. He came close to him and put his hand upon his shoulder. You are quite right to do that, he murmured. Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.  The lad started and drew back. He was bareheaded, and the leaves had tossed his rebellious curls and tangled all their gilded threads. There was a look of fear in his eyes, such as people have when they are suddenly awakened. His finely chiselled nostrils quivered, and some hidden nerve shook the scarlet of his lips and left them trembling.  Yes, continued Lord Henry, that is one of the great secrets of lifeto cure the soul by means of the senses, and the senses by means of the soul. You are a wonderful creation. You
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Lord Henry tells Dorian Gray that the secret to a happy life is to cure the soul with the senses, and the senses with the soul.

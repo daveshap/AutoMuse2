@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage explains the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook. This passage describes the arrival of ships at Salem's port, and the bustle that ensues. The port is not as busy as it used to be, but on days when several ships arrive at once, there is a lot of activity. The people who come to the port include the shipmasters and the ship owners. This passage describes the various people who would be found at the Custom House in the early 19th century. Among them were the young clerk, the outward-bound sailor, the recently arrived one, the captains of the rusty little schooners, and the venerable figures in old-fashioned chairs. The passage describes a room in a seaport town, inhabited by old men who are retired Custom-House officers. The room is dirty and cluttered, and it is clear that it is not regularly cleaned. This passage is about the author's hometown and how it has changed over time. The author has a sentimental attachment to their hometown because their family has been living there for centuries and they can't help but feel connected to the place. The passage is about the author's ancestors, one of whom was a Puritan who was very cruel to the Quakers. The author is ashamed of their actions and prays for their forgiveness. The passage discusses the author's ancestors, who were Puritans. They would not have approved of the author's career as a writer of storybooks. However, the author has inherited some of their traits. The race of Puritans has always been respectable and has never been disgraced by a single unworthy member.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage explains the terms of use for the Project Gutenberg eBook of The Scarlet Letter by Nathaniel Hawthorne. The eBook is free to use for anyone in the United States, with few restrictions. Those outside of the United States must check their local laws before using the eBook.

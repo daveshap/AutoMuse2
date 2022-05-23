@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: my deserts, I was happy enough to find a listener or two on the former occasionI again seize the public by the button, and talk of my three years experience in a Custom-House. The example of the famous P. P., Clerk of this Parish, was never more faithfully followed. The truth seems to be, however, that, when he casts his leaves forth upon the wind, the author addresses, not the many who will fling aside his volume, or never take it up, but the few who will understand him, better than most of his schoolmates or lifemates. Some authors, indeed, do far more than this, and indulge themselves in such confidential depths of revelation as could fittingly be addressed, only and exclusively, to the one heart and mind of perfect sympathy; as if the printed book, thrown at large on the wide world, were certain to find out the divided segment of the writers own nature, and complete his circle of existence by bringing him into communion with it. It is scarcely decorous, however, to speak all, even where we speak impersonally. But, as thoughts are frozen and utterance benumbed, unless the speaker stand in some true relation with his audience, it may be pardonable to imagine that a friend, a kind and apprehensive, though not the closest friend, is listening to our talk; and then, a native reserve being thawed by this genial consciousness, we may prate of the circumstances that lie around us, and even of ourself, but still keep the inmost Me behind its veil. To this extent, and within
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author talks about his experience working in a custom house, and how he feels that he has to keep a part of himself hidden from the world.

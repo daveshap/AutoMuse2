@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: which, at table, proved so inveterately tough that the carving-knife would make no impression on its carcass, and it could only be divided with an axe and handsaw.  But it is time to quit this sketch; on which, however, I should be glad to dwell at considerably more length because, of all men whom I have ever known, this individual was fittest to be a Custom-House officer. Most persons, owing to causes which I may not have space to hint at, suffer moral detriment from this peculiar mode of life. The old Inspector was incapable of it, and, were he to continue in office to the end of time, would be just as good as he was then, and sit down to dinner with just as good an appetite.  There is one likeness, without which my gallery of Custom-House portraits would be strangely incomplete; but which my comparatively few opportunities for observation enable me to sketch only in the merest outline. It is that of the Collector, our gallant old General, who, after his brilliant military service, subsequently to which he had ruled over a wild Western territory, had come hither, twenty years before, to spend the decline of his varied and honorable life. The brave soldier had already numbered, nearly or quite, his threescore years and ten, and was pursuing the remainder of his earthly march, burdened with infirmities which even the martial music of his own spirit-stirring recollections could do little towards lightening. The step was palsied now that had been foremost in the charge. It was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a Custom-House officer who is aging and infirm, but who is still a brave and honorable man.
