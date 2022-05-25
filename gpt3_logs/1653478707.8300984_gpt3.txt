@@ -1,0 +1,77 @@
+PROMPT:
+
+Outline: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Story so far: The city is on edge due to a string of murders. The killings seem to be random with no motive or pattern. The latest victim was stabbed to death, which is different from the previous victims who were all shot in the head. The detectives are doing their best to catch the killer before he strikes again.The wife of a victim of a shooting recounts the incident to a detective. She says that they were walking home from getting food when they heard a gunshot and her husband fell to the ground. The shooter was a man who then ran away.The wife of the victim tells the detective that her husband was a good man and she does not know of anyone who would want to hurt him. The detective and his partner agree that she is telling the truth but she is still a suspect because she could have easily hidden the gun.
+
+Last chunk: .38 revolver," said the wife. "It was black, with a long barrel and a dull finish. It was the ugliest gun I've ever seen."
+
+"I see," said the detective. "Did you know the victim?"
+
+"We were married for five years," said the wife.
+
+"Do you know of anyone who would want to hurt him?" asked the detective.
+
+"He was the sweetest man in the world," said the wife. "Everyone loved him."
+
+"I see," said the detective. "Well, thank you for your time, ma'am."
+
+"What are you going to do now?" asked the wife.
+
+"We'll do everything we can to find the person who did this," said the detective.
+
+"Thank you," said the wife. "I hope you do."
+
+The detective and his partner left the apartment.
+
+"What do you think?" asked the partner.
+
+"I think she was telling the truth," said the detective.
+
+"I think so too," said the partner. "But she's still a suspect."
+
+"Of course she's a suspect," said the detective. "But I don't think she did it."
+
+"Why not?" asked the partner.
+
+"Because she doesn't have the guts," said the detective. "And she doesn't have the gun."
+
+"
+
+Next chunk:
+
+==========
+
+RESPONSE:
+
+You think somebody else did it?" asked the partner.
+
+"I think so," said the detective.
+
+The detective and his partner walked down the street together.
+
+"I'm going to check the place out," said the detective.
+
+"Who do you think did it?" asked the partner.
+
+"I don't know," said the detective. "But I'm going to find out."
+
+The detective walked into a nearby apartment building. He walked up to the second floor and knocked on a door. After a moment, the door opened.
+
+"Hello, Mrs. Turner," said the detective. "I'm here about your husband."
+
+"Come in, Mr. Holmes," said Mrs. Turner.
+
+The detective and his partner walked into the apartment. Mrs. Turner was a middle-aged woman with blonde hair and blue eyes. She led them into the living room and offered them a seat.
+
+"Would you like some coffee?" she asked.
+
+"That would be wonderful, thank you," said the detective.
+
+"How do you take it?" asked Mrs. Turner.
+
+"Black, please," said the detective.
+
+Mrs. Turner went into the kitchen to make the coffee. The detective looked around the room. It was a nice apartment, with a large bay window and hardwood floors.
+
+"How have you been doing since the incident, Mrs. Turner?"

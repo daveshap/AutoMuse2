@@ -1,0 +1,5 @@
+Summarize this passage with moderate condensation:
+
+Passage: <<CHUNK>>
+
+Moderate summary:

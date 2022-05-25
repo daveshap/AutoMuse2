@@ -1,0 +1,77 @@
+PROMPT:
+
+Outline: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Story so far: The city is on edge due to a string of murders. The killings seem to be random with no motive or pattern. The latest victim was stabbed to death, which is different from the previous victims who were all shot in the head. The detectives are doing their best to catch the killer before he strikes again.
+
+Last chunk: The city was tense.
+
+It had been for weeks, ever since the string of murders began.
+
+At first, it was just a few deaths, and the police thought that it was just some sort of gang war or something of the like.
+
+But then, the killings got more frequent, and more people died.
+
+There seemed to be no motive, no pattern to the crimes.
+
+The people of the city were on edge, waiting for the killer to strike again.
+
+"Please tell me that this is the last one," said one of the policemen.
+
+"I hope so," said another.
+
+They were huddled around the newest victim, kneeling on the ground and scribbling in their notebooks.
+
+A few feet away, another detective was inspecting the body.
+
+"What did you find?" one of the policemen asked.
+
+The detective shrugged.
+
+"Not much, really. This one's different. The others were all killed the same way. A single gunshot to the head. This one, though. He was stabbed to death."
+
+The other policemen looked at each other.
+
+"I'm sure the killer will strike again," one of them said.
+
+"We need to catch him before then," said another.
+
+The first detective shrugged.
+
+"I'll do what I can," he said.
+
+He heard the sound of a woman's
+
+Next chunk:
+
+==========
+
+RESPONSE:
+
+sobbing and turned to see two people standing over the body.
+
+"Excuse me, miss," the detective said, approaching them. "I'm Detective Hatcher, with the police department. Are you related to the victim?"
+
+The woman nodded.
+
+"I'm his wife," she said. "This is my husband."
+
+The detective shook their hands.
+
+"I'm very sorry for your loss," he said.
+
+"He was such a good man," sobbed the wife. "Such a good man."
+
+"I know this is hard, ma'am," said the detective, "but I need to ask you a few questions. Can you tell me what happened?"
+
+"We were walking home from the restaurant," she said. "We'd just gotten our food, and we were walking back to our apartment. We'd just gotten to the alley when we heard a gunshot. I turned around to see what it was and I saw him falling to the ground. There was a man standing over him, holding a gun. I started screaming, and the man ran away."
+
+"Did you get a good look at him?" asked the detective.
+
+The wife shook her head.
+
+"I didn't get a good look at his face," she said. "But I'll never forget that gun."
+
+"What was it?" asked the detective.
+
+"It was a

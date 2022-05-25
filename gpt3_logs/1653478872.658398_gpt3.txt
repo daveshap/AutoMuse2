@@ -1,0 +1,27 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the moment I saw the man I knew he must be a stranger—because his face had those peculiar features in it. But I didn’t know he was my husband until I looked at his features more carefully and recognized them."
+
+"Oh, I see," said the detective. "You mean you recognized your husband’s features, but you didn’t recognize your husband. I must say it sounds a little—a little— what shall I say?—unusual, doesn’t it?"
+
+"It sounds very unusual," said Mrs. Turner. "But that’s what you’re being paid for—to find out unusual things."
+
+The detective shook his head. "I don’t know what to say," he said. "It’s an extraordinary story. I suppose you’re quite sure of what you’re saying?"
+
+"Yes," said Mrs. Turner. "Quite sure."
+
+The detective looked at her curiously. "I wonder whether you’ve realized what you’re saying," he said. "You’re saying that one man may have two faces—a real one and a disguise."
+
+"Yes," said Mrs. Turner. "Isn’t that what I’m saying?"
+
+"No," said the detective. "You’re saying that one man may have two faces—a real one
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mrs. Turner tells the detective that she saw her husband's face, but she did not recognize him until she looked at his features more carefully. The detective is surprised by this story and wonders if Mrs. Turner is sure of what she is saying. Mrs. Turner insists that she is telling the truth and the detective realizes that she is saying that one man may have two faces.

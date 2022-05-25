@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage with moderate condensation:
+
+Passage: The police are investigating a murder when they are approached by a private detective, John. He has been hired by one of the victim's families to find out who did it. The detective soon realizes that the killings had a ritualistic quality to them, and the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again. In the end, the detective is able to solve the case, and apprehend the killer.The police catch the real killer and find out he was being blackmailed into committing the murders. They also find and arrest the man who was blackmailing him.A family moves into a new house, only to find that their food keeps disappearing. They set up a hidden camera to find out who is eating their food, and discover that their house is haunted by a friendly ghost who just loves to eat!In Chapter XVII of "The Case of the Stolen Scores," the author describes how a thief stole a number of music scores from a music store. The police were able to identify the thief and recover the stolen property.A man's musical scores are stolen, and he enlists the help of a detective to find them.A man named John Merton stole a piano from a music store by signing a false name in the store's book. He then asked his servant to call the store and say that he was ill and couldn't send for the piano. The store owner kept the piano until the servant called again and said that Merton was better and would send for it that evening. When the store owner opened the door that evening, Merton was there to take the piano.
+
+Moderate summary:
+
+==========
+
+RESPONSE:
+
+The police are investigating a murder when they are approached by a private detective, John. He has been hired by one of the victim's families to find out who did it. The detective soon realizes that the killings had a ritualistic quality to them, and the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again. In the end, the detective is able to solve the case and apprehend the killer.

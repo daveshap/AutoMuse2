@@ -1,0 +1,45 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: .38 revolver," said the wife. "It was black, with a long barrel and a dull finish. It was the ugliest gun I've ever seen."
+
+"I see," said the detective. "Did you know the victim?"
+
+"We were married for five years," said the wife.
+
+"Do you know of anyone who would want to hurt him?" asked the detective.
+
+"He was the sweetest man in the world," said the wife. "Everyone loved him."
+
+"I see," said the detective. "Well, thank you for your time, ma'am."
+
+"What are you going to do now?" asked the wife.
+
+"We'll do everything we can to find the person who did this," said the detective.
+
+"Thank you," said the wife. "I hope you do."
+
+The detective and his partner left the apartment.
+
+"What do you think?" asked the partner.
+
+"I think she was telling the truth," said the detective.
+
+"I think so too," said the partner. "But she's still a suspect."
+
+"Of course she's a suspect," said the detective. "But I don't think she did it."
+
+"Why not?" asked the partner.
+
+"Because she doesn't have the guts," said the detective. "And she doesn't have the gun."
+
+"
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The wife of the victim tells the detective that her husband was a good man and she does not know of anyone who would want to hurt him. The detective and his partner agree that she is telling the truth but she is still a suspect because she could have easily hidden the gun.

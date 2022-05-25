@@ -1,0 +1,21 @@
+PROMPT:
+
+Summarize this passage with moderate condensation:
+
+Passage: The city is on edge due to a string of murders. The killings seem to be random with no motive or pattern. The latest victim was stabbed to death, which is different from the previous victims who were all shot in the head. The detectives are doing their best to catch the killer before he strikes again.
+
+The wife of a victim of a shooting recounts the incident to a detective. She says that they were walking home from getting food when they heard a gunshot and her husband fell to the ground. The shooter was a man who then ran away.
+
+The wife of the victim tells the detective that her husband was a good man and she does not know of anyone who would want to hurt him. The detective and his partner agree that she is telling the truth but she is still a suspect because she could have easily hidden the gun.
+
+The detective and his partner visit Mrs. Turner in her apartment to ask her about her husband. Mrs. Turner offers them coffee, and the detective looks around the room. He asks Mrs. Turner how she's been doing since the incident.
+
+Mrs. Turner says that she and her husband were walking home from the grocery store when the incident occurred. She thinks this because her husband had told her that he was going to fire him. Mrs. Turner did not tell anyone about her husband's plans to fire his partner, and she did not see the gunman after the shooting.The detective is questioning Mrs. Turner about whether she recognizes the suspect in a case. Mrs. Turner says that she does not recognize the suspect from any of his physical characteristics.
+
+Moderate summary:
+
+==========
+
+RESPONSE:
+
+The city is on edge because of a string of murders. The latest victim was stabbed to death, which is different from the previous victims, who were all shot in the head. The detectives are questioning the wife of the latest victim, who says she does not know of anyone who would want to hurt her husband. The detective looks around the room and asks Mrs. Turner how she's been doing since the incident. Mrs. Turner says that she and her husband were walking home from the grocery store when the incident occurred. She thinks this because her husband had told her that he was going to fire him.

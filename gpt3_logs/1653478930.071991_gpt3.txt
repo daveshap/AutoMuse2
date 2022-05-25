@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: —a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the idea that people can have two faces, or two different sides to their personality. It suggests that this can be a form of disguise, and that people may use this to hide their true selves.

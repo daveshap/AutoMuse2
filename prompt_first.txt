@@ -1,0 +1,5 @@
+Premise: <<PREMISE>>
+
+Write the first chapter for the above novel:
+
+Chapter 1

@@ -1,0 +1,25 @@
+PROMPT:
+
+Outline: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Story so far: The police are investigating a murder when they are approached by a private detective, John. He has been hired by one of the victim's families to find out who did it. The detective soon realizes that the killings had a ritualistic quality to them, and the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again. In the end, the detective is able to solve the case, and apprehend the killer.The police catch the real killer and find out he was being blackmailed into committing the murders. They also find and arrest the man who was blackmailing him.A family moves into a new house, only to find that their food keeps disappearing. They set up a hidden camera to find out who is eating their food, and discover that their house is haunted by a friendly ghost who just loves to eat!In Chapter XVII of "The Case of the Stolen Scores," the author describes how a thief stole a number of music scores from a music store. The police were able to identify the thief and recover the stolen property.A man's musical scores are stolen, and he enlists the help of a detective to find them.
+
+Last chunk: The Case of the Stolen Scores
+
+Next chunk:
+
+==========
+
+RESPONSE:
+
+Chapter XVI. The Story of the Stolen Scores
+
+Last chunk:The next case that I want to tell you about was such an interesting one that I am sure you will want to hear all about it. It was the case of some music that was stolen.
+
+Last chunk: One day a gentleman came into the store of a music-dealer and asked to see one of the proprietor’s best pianos. The dealer showed him several, and finally the gentleman selected one which he said he would take. The dealer asked him to write his name in the book, and the gentleman did so, signing it “John Merton.” After some further conversation the gentleman said that he would send his servant for the piano, and he gave the dealer his address at No. ---- West Street. The dealer then got the number of the piano from the tag on it, and the gentleman went away.
+
+Last chunk: A few days later the dealer received a telephone message from a man who said that he was John Merton’s servant, and who asked if the piano had come. The dealer replied that it had not, and then the servant told him that his master was very ill and that it would be impossible for him to send for the piano for several days. The dealer then told the servant that he would keep the piano until he heard from his master, and the servant thanked him and said good-bye.
+
+Last chunk: Several days passed, and the dealer did not hear from the gentleman, but one morning the servant again called up and said that his master was a little better and would be able to send for the piano that evening. The dealer replied that he would keep it until he heard from his master, and the servant thanked him and hung up the receiver.
+
+Last chunk: That evening the dealer was seated in his room, reading, when the doorbell rang. He opened the door and admitted a man

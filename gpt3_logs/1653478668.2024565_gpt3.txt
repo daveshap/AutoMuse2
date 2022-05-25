@@ -1,0 +1,49 @@
+PROMPT:
+
+Premise: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Write the first chapter for the above novel:
+
+Chapter 1
+
+==========
+
+RESPONSE:
+
+The city was tense.
+
+It had been for weeks, ever since the string of murders began.
+
+At first, it was just a few deaths, and the police thought that it was just some sort of gang war or something of the like.
+
+But then, the killings got more frequent, and more people died.
+
+There seemed to be no motive, no pattern to the crimes.
+
+The people of the city were on edge, waiting for the killer to strike again.
+
+"Please tell me that this is the last one," said one of the policemen.
+
+"I hope so," said another.
+
+They were huddled around the newest victim, kneeling on the ground and scribbling in their notebooks.
+
+A few feet away, another detective was inspecting the body.
+
+"What did you find?" one of the policemen asked.
+
+The detective shrugged.
+
+"Not much, really. This one's different. The others were all killed the same way. A single gunshot to the head. This one, though. He was stabbed to death."
+
+The other policemen looked at each other.
+
+"I'm sure the killer will strike again," one of them said.
+
+"We need to catch him before then," said another.
+
+The first detective shrugged.
+
+"I'll do what I can," he said.
+
+He heard the sound of a woman's

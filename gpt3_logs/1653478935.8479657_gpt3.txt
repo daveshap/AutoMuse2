@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage with moderate condensation:
+
+Passage: A detective is investigating a recent murder in which the victim was stabbed, which is different from the previous victims who were all shot. The detective interviews the victim's wife, Mrs. Turner. Mrs. Turner says she didn't see the murderer's face, but was able to identify him by his features. The detective is confused, and Mrs. Turner explains that she only saw his features, not his face.The detective is speaking to Mrs. Turner, who claims to have noticed several peculiar features about the man who robbed her. The detective is skeptical, but Mrs. Turner explains that she is very familiar with her husband's face, and she knows that none of those features are peculiar.Mrs. Turner tells the detective that she saw her husband's face, but she did not recognize him until she looked at his features more carefully. The detective is surprised by this story and wonders if Mrs. Turner is sure of what she is saying. Mrs. Turner insists that she is telling the truth and the detective realizes that she is saying that one man may have two faces.The passage is discussing the idea that one man may have two faces - a real one and a disguise.One man may have two faces - a real one and a disguise.You may have two faces - a real one and a disguise.You may have two faces, but you can only show one at a time.This passage discusses the idea that people can have two faces, or two different sides to their personality. It suggests that this can be a form of disguise, and that people may use this to hide their true selves.
+
+Moderate summary:
+
+==========
+
+RESPONSE:
+
+The detective is investigating a murder in which the victim was stabbed, which is different from the previous victims who were all shot. The detective interviews the victim's wife, Mrs. Turner. Mrs. Turner says she didn't see the murderer's face, but was able to identify him by his features. The detective is confused, and Mrs. Turner explains that she only saw his features, not his face. Mrs. Turner is saying that one man may have two faces.

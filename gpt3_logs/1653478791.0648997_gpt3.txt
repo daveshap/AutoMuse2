@@ -1,0 +1,45 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: 't recognize him from his clothes?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his clothes."
+
+"And you didn't recognize him from his height?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his height."
+
+"And you didn't recognize him from his weight?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his weight."
+
+"And you didn't recognize him from his hair color?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his hair color."
+
+"And you didn't recognize him from his eye color?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his eye color."
+
+"And you didn't recognize him from his age?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his age."
+
+"And you didn't recognize him from his demeanor?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his demeanor."
+
+"And you didn't recognize him from his voice?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his voice."
+
+"And you didn
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Detective asks Mrs. Turner if she recognized the killer from his physical appearance, and she says no to each question.

@@ -1,0 +1,65 @@
+PROMPT:
+
+Outline: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Story so far: The city is on edge because of a string of murders. The latest victim was stabbed to death, which is different from the previous victims, who were all shot in the head. The detectives are questioning the wife of the latest victim, who says she does not know of anyone who would want to hurt her husband. The detective looks around the room and asks Mrs. Turner how she's been doing since the incident. Mrs. Turner says that she and her husband were walking home from the grocery store when the incident occurred. She thinks this because her husband had told her that he was going to fire him.Detective asks Mrs. Turner if she recognized the killer from his physical appearance, and she says no to each question.The detective asks Mrs. Turner if she recognizes the man from various features, but she says she does not.The detective asks Mrs. Turner if she recognized the man from various features, and she says no each time.The detective is questioning Mrs. Turner about whether she recognized the perpetrator of a crime. Mrs. Turner says that she did not recognize the perpetrator from their hair, coat, trousers, vest, or hands. The detective then asks about rings, and Mrs. Turner says that she did not recognize the perpetrator from their rings either.
+
+Last chunk: his hair?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his hair."
+
+"And you didn't recognize him from his coat?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his coat."
+
+"And you didn't recognize him from his trousers?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his trousers."
+
+"And you didn't recognize him from his vest?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his vest."
+
+"And you didn't recognize him from his hands?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his hands."
+
+"And you didn't recognize him from his trousers?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his trousers."
+
+"And you didn't recognize him from his vest?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his vest."
+
+"And you didn't recognize him from his rings?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his rings."
+
+"In that case," said the detective, "I won
+
+Next chunk:
+
+==========
+
+RESPONSE:
+
+’t trouble you any more. Good-morning."
+
+"Good-morning," said Mrs. Turner.
+
+The detective then left the room. He was puzzled by the woman’s replies, and could not understand why she had not recognized the perpetrator. He went out into the street and walked up and down, thinking. After a while, he went back to the house. He was shown into the room again and asked Mrs. Turner if she would mind answering just one more question.
+
+"Not at all," said Mrs. Turner.
+
+"I hope you won’t think me very inquisitive," said the detective, "but I should be very much obliged if you would tell me why you didn’t recognize the perpetrator from any of the features I mentioned."
+
+"Because I didn’t see his features," said Mrs. Turner.
+
+"You didn’t see his features?" said the detective. "But I thought you said that you recognized him?"
+
+"I did," said Mrs. Turner. "But only by his features."
+
+"I don’t quite understand," said the detective.
+
+"I’ll explain what I mean," said Mrs. Turner. "The man had a peculiar kind of nose, you know—very broad at the top, with flat nostrils and wide-open holes for the eyes. He had thick, puffy lips

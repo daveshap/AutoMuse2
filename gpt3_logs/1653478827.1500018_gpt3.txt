@@ -1,0 +1,45 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: his hair?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his hair."
+
+"And you didn't recognize him from his coat?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his coat."
+
+"And you didn't recognize him from his trousers?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his trousers."
+
+"And you didn't recognize him from his vest?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his vest."
+
+"And you didn't recognize him from his hands?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his hands."
+
+"And you didn't recognize him from his trousers?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his trousers."
+
+"And you didn't recognize him from his vest?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his vest."
+
+"And you didn't recognize him from his rings?" said the detective.
+
+"No," said Mrs. Turner. "I didn't recognize him from his rings."
+
+"In that case," said the detective, "I won
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The detective is questioning Mrs. Turner about whether she recognized the perpetrator of a crime. Mrs. Turner says that she did not recognize the perpetrator from their hair, coat, trousers, vest, or hands. The detective then asks about rings, and Mrs. Turner says that she did not recognize the perpetrator from their rings either.

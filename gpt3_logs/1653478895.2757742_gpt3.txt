@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you’re also saying that one man may have two faces—a real one and a disguise. But you
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+One man may have two faces - a real one and a disguise.

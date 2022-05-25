@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage with moderate condensation:
+
+Passage: The city is on edge because of a string of murders. The latest victim was stabbed to death, which is different from the previous victims, who were all shot in the head. The detectives are questioning the wife of the latest victim, who says she does not know of anyone who would want to hurt her husband. The detective looks around the room and asks Mrs. Turner how she's been doing since the incident. Mrs. Turner says that she and her husband were walking home from the grocery store when the incident occurred. She thinks this because her husband had told her that he was going to fire him.Detective asks Mrs. Turner if she recognized the killer from his physical appearance, and she says no to each question.The detective asks Mrs. Turner if she recognizes the man from various features, but she says she does not.The detective asks Mrs. Turner if she recognized the man from various features, and she says no each time.The detective is questioning Mrs. Turner about whether she recognized the perpetrator of a crime. Mrs. Turner says that she did not recognize the perpetrator from their hair, coat, trousers, vest, or hands. The detective then asks about rings, and Mrs. Turner says that she did not recognize the perpetrator from their rings either.A detective is investigating a robbery, and interviews the victim, Mrs. Turner. Mrs. Turner says she didn't see the robber's face, but recognizes him by his features. The detective is confused, and Mrs. Turner explains that she only saw his features, not his face.
+
+Moderate summary:
+
+==========
+
+RESPONSE:
+
+A detective is investigating a recent murder in which the victim was stabbed, which is different from the previous victims who were all shot. The detective interviews the victim's wife, Mrs. Turner. Mrs. Turner says she didn't see the murderer's face, but was able to identify him by his features. The detective is confused, and Mrs. Turner explains that she only saw his features, not his face.

@@ -1,0 +1,53 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The police were in a panic. They had no idea who the real killer was.
+
+They had been going around arresting innocent people, and now they didn't know what to do.
+
+A few of them decided to confront the real killer.
+
+The killer was caught off guard and didn't know what to do.
+
+He was arrested and it was made public that he was the killer.
+
+The city was finally safe again.
+
+All that remained was to find the man who had blackmailed the killer.
+
+The police started looking around and soon found the officer who had been blackmailing the killer.
+
+They arrested him and soon the whole city was back to normal.
+
+Chapter 4
+
+The detective had finally caught the killer.
+
+The killer had been an unwilling participant in the murders, and had been blackmailed into doing them.
+
+The detective had found the evidence he needed to prove the killer's innocence, and now the killer was on his way to being set free.
+
+The police were in a panic. They had no idea who the real killer was. They had been going around arresting innocent people, and now they didn't know what to do.
+
+A few of them decided to confront the real killer. They arrived at his house and burst through the door.
+
+The killer was caught off guard and didn't know what to do. He was arrested and it was made public that he was the killer.
+
+The city was finally safe again.
+
+All that remained was to find the man who had blackmailed the killer. The police started looking around and soon found the officer who had been blackmailing the killer. They arrested him and soon the whole city was back to normal.
+
+The End
+
+Story link: https://www.shortstoryshort.online/the-mystery-of-the-hungry-house-author-unknown/
+
+Image source
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The police catch the real killer and find out he was being blackmailed into committing the murders. They also find and arrest the man who was blackmailing him.

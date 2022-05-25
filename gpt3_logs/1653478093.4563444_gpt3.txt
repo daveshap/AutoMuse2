@@ -1,0 +1,21 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The city was on edge. A string of murders had the populace on edge. The police were working around the clock to solve the case, but they were running out of leads.
+
+That's when our protagonist, a private detective, entered the scene. He had been hired by one of the victim's families to find out who did it. The detective was a tough, no-nonsense guy who didn't mind playing dirty to get results. He was not afraid to get his hands dirty and would do whatever it took to get to the bottom of this case.
+
+The detective started poking around and soon realized that this was no ordinary murder spree. The killings had a ritualistic quality to them, and the detective suspected that whoever was behind them was doing it for some sort of sick satisfaction.
+
+As the detective got closer to the truth, he discovered that the killer was a deranged individual who took joy in watching people suffer. The detective raced against the clock to stop the killer before they could strike again.
+
+In the end, the detective was able to solve the case and apprehend the killer. The city could finally rest easy, knowing that the madman responsible for the murders was now behind bars.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A private detective is hired by one of the victim's families to find out who did it and soon realizes that the killings had a ritualistic quality to them. The detective discovers that the killer is a deranged individual who takes joy in watching people suffer and races against the clock to stop the killer before they could strike again. In the end, the detective is able to solve the case and apprehend the killer.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: CHAPTER XVII. THE CASE OF THE STOLEN SCORES
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In Chapter XVII of "The Case of the Stolen Scores," the author describes how a thief stole a number of music scores from a music store. The police were able to identify the thief and recover the stolen property.

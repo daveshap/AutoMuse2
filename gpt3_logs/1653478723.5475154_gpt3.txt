@@ -1,0 +1,37 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: asked the detective.
+
+"I've been doing all right," said Mrs. Turner. "I just have trouble sleeping at night."
+
+"That's to be expected," said the detective. "Would you mind if I asked you a few questions?"
+
+"Of course not," said Mrs. Turner. "I'll be right back with the coffee."
+
+Mrs. Turner walked into the kitchen and poured the coffee into three mugs. She took a tray and carried the three mugs into the living room. She set the mugs down on the coffee table and took a seat on the couch.
+
+"I'm sorry I couldn't get sugar or cream," she said.
+
+"That's quite all right," said the detective. "I take it black, just like this."
+
+"It's very nice," said the partner, taking a sip of his coffee.
+
+"I'll go first," said the detective. "I'm sorry for your loss, Mrs. Turner. Your husband was a good man, and he will be missed."
+
+"Thank you, Mr. Holmes," said Mrs. Turner. "I appreciate that."
+
+"I understand that you were walking down the sidewalk with your husband when the incident occurred," said the detective. "Is that correct?"
+
+"That's right," said Mrs. Turner. "We were walking home from the grocery store."
+
+"And did you
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The detective is questioning Mrs. Turner about her husband's death. Mrs. Turner says that she and her husband were walking home from the grocery store when the incident occurred.

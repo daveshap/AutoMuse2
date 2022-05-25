@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces—a disguise. But you may have two faces
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+You may have two faces, but you can only show one at a time.

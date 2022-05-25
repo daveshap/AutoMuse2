@@ -1,0 +1,31 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ’t trouble you any more. Good-morning."
+
+"Good-morning," said Mrs. Turner.
+
+The detective then left the room. He was puzzled by the woman’s replies, and could not understand why she had not recognized the perpetrator. He went out into the street and walked up and down, thinking. After a while, he went back to the house. He was shown into the room again and asked Mrs. Turner if she would mind answering just one more question.
+
+"Not at all," said Mrs. Turner.
+
+"I hope you won’t think me very inquisitive," said the detective, "but I should be very much obliged if you would tell me why you didn’t recognize the perpetrator from any of the features I mentioned."
+
+"Because I didn’t see his features," said Mrs. Turner.
+
+"You didn’t see his features?" said the detective. "But I thought you said that you recognized him?"
+
+"I did," said Mrs. Turner. "But only by his features."
+
+"I don’t quite understand," said the detective.
+
+"I’ll explain what I mean," said Mrs. Turner. "The man had a peculiar kind of nose, you know—very broad at the top, with flat nostrils and wide-open holes for the eyes. He had thick, puffy lips
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A detective is investigating a robbery, and interviews the victim, Mrs. Turner. Mrs. Turner says she didn't see the robber's face, but recognizes him by his features. The detective is confused, and Mrs. Turner explains that she only saw his features, not his face.

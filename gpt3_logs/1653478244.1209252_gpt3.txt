@@ -1,0 +1,61 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The police were unsettled as they tried to find clues to the murder of their acquaintance. They had been working around the clock, but the case was getting more and more difficult to solve. That's when a private detective, John, appeared on the scene.
+
+He was hired by one of the victim's families to find out who did it. The detective was a tough, no-nonsense guy who would do anything to get results. He wasn't afraid to get his hands dirty, and he would do whatever it takes to get to the bottom of this case.
+
+The detective started poking around and soon realized that this was no ordinary murder spree. The killings had a ritualistic quality to them, and the detective suspected that the killer was doing it for some sort of sick satisfaction. As the detective got closer to the truth, he discovered that the killer was a deranged individual who took joy in watching people suffer.
+
+The detective races against the clock to stop the killer before they can strike again.
+
+In the end, the detective is able to solve the case, and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Chapter 2
+
+The detective had been talking to one of the victim's family members earlier, when he learned that the killer had a particular type of trophy. It was stained with blood, and had been found near the victim.
+
+It was time to go back to the scene of the crime.
+
+The detective took a long look at the wood that was stained with blood. He was about to leave when he noticed something.
+
+He went closer and saw that the wood had a small gap in the side of it. The detective reached in and felt something cool and hard. He pulled it out, and found that it was a knife.
+
+It was the knife that the killer used to kill the victim.
+
+The detective then rushed to the station with the knife in his hand.
+
+"This is it," he said. "We're finally going to get this case solved."
+
+Chapter 3
+
+The detective had finally found the killer.
+
+There was just one problem.
+
+The killer was a member of the police force.
+
+The detective knew he had to be careful. He couldn't just go in guns blazing and make an arrest. He needed evidence to support his case.
+
+The detective interrogated the killer for hours and finally found out that the killer had been an unwilling participant in the murders.
+
+The killer had been blackmailed by another officer who threatened to reveal that the killer had been having an affair with his wife if he didn't kill the victims.
+
+The killer was innocent.
+
+The detective came up with a plan to frame the other officer and make it look like he was the killer.
+
+It was so easy that he couldn't believe it.
+
+The plan went off without a hitch, and the killer was set free.
+
+The case was finally solved.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The police are investigating a murder when they are approached by a private detective, John. He has been hired by one of the victim's families to find out who did it. The detective soon realizes that the killings had a ritualistic quality to them, and the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again. In the end, the detective is able to solve the case, and apprehend the killer.

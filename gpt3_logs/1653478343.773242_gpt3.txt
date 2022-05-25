@@ -1,0 +1,23 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Chapter XVI. The Story of the Stolen Scores
+
+Last chunk:The next case that I want to tell you about was such an interesting one that I am sure you will want to hear all about it. It was the case of some music that was stolen.
+
+Last chunk: One day a gentleman came into the store of a music-dealer and asked to see one of the proprietor’s best pianos. The dealer showed him several, and finally the gentleman selected one which he said he would take. The dealer asked him to write his name in the book, and the gentleman did so, signing it “John Merton.” After some further conversation the gentleman said that he would send his servant for the piano, and he gave the dealer his address at No. ---- West Street. The dealer then got the number of the piano from the tag on it, and the gentleman went away.
+
+Last chunk: A few days later the dealer received a telephone message from a man who said that he was John Merton’s servant, and who asked if the piano had come. The dealer replied that it had not, and then the servant told him that his master was very ill and that it would be impossible for him to send for the piano for several days. The dealer then told the servant that he would keep the piano until he heard from his master, and the servant thanked him and said good-bye.
+
+Last chunk: Several days passed, and the dealer did not hear from the gentleman, but one morning the servant again called up and said that his master was a little better and would be able to send for the piano that evening. The dealer replied that he would keep it until he heard from his master, and the servant thanked him and hung up the receiver.
+
+Last chunk: That evening the dealer was seated in his room, reading, when the doorbell rang. He opened the door and admitted a man
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man named John Merton stole a piano from a music store by signing a false name in the store's book. He then asked his servant to call the store and say that he was ill and couldn't send for the piano. The store owner kept the piano until the servant called again and said that Merton was better and would send for it that evening. When the store owner opened the door that evening, Merton was there to take the piano.

@@ -1,0 +1,65 @@
+PROMPT:
+
+Outline: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Story so far: The city is on edge due to a string of murders. The killings seem to be random with no motive or pattern. The latest victim was stabbed to death, which is different from the previous victims who were all shot in the head. The detectives are doing their best to catch the killer before he strikes again.The wife of a victim of a shooting recounts the incident to a detective. She says that they were walking home from getting food when they heard a gunshot and her husband fell to the ground. The shooter was a man who then ran away.The wife of the victim tells the detective that her husband was a good man and she does not know of anyone who would want to hurt him. The detective and his partner agree that she is telling the truth but she is still a suspect because she could have easily hidden the gun.The detective and his partner visit Mrs. Turner in her apartment to ask her about her husband. Mrs. Turner offers them coffee, and the detective looks around the room. He asks Mrs. Turner how she's been doing since the incident.The detective is questioning Mrs. Turner about her husband's death. Mrs. Turner says that she and her husband were walking home from the grocery store when the incident occurred.
+
+Last chunk: asked the detective.
+
+"I've been doing all right," said Mrs. Turner. "I just have trouble sleeping at night."
+
+"That's to be expected," said the detective. "Would you mind if I asked you a few questions?"
+
+"Of course not," said Mrs. Turner. "I'll be right back with the coffee."
+
+Mrs. Turner walked into the kitchen and poured the coffee into three mugs. She took a tray and carried the three mugs into the living room. She set the mugs down on the coffee table and took a seat on the couch.
+
+"I'm sorry I couldn't get sugar or cream," she said.
+
+"That's quite all right," said the detective. "I take it black, just like this."
+
+"It's very nice," said the partner, taking a sip of his coffee.
+
+"I'll go first," said the detective. "I'm sorry for your loss, Mrs. Turner. Your husband was a good man, and he will be missed."
+
+"Thank you, Mr. Holmes," said Mrs. Turner. "I appreciate that."
+
+"I understand that you were walking down the sidewalk with your husband when the incident occurred," said the detective. "Is that correct?"
+
+"That's right," said Mrs. Turner. "We were walking home from the grocery store."
+
+"And did you
+
+Next chunk:
+
+==========
+
+RESPONSE:
+
+notice anything unusual before the shooting?" asked the detective.
+
+"No," said Mrs. Turner. "There was nothing unusual. We were just talking about how much food we had bought."
+
+"That's all?" said the detective. "There were no other people in the area?"
+
+"No," said Mrs. Turner. "It was just the two of us. My husband and I."
+
+"And what happened after you heard the gunshot?" asked the detective.
+
+"My husband fell to the ground," said Mrs. Turner. "I got down next to him, and then I heard a second gunshot. And then I didn't hear anything else."
+
+"And you didn't see the gunman?" said the detective.
+
+"No," said Mrs. Turner. "I didn't even see him when we were walking. I only heard his footsteps."
+
+"And you think you know who was behind the shooting?" said the detective.
+
+"I think so," said Mrs. Turner. "I just can't prove it."
+
+"And who was it?" said the detective.
+
+"It was my husband's partner, Mr. Wilson," said Mrs. Turner. "I'm sure of it."
+
+"And why do you think it was Mr. Wilson?" said the detective.
+
+"Because my husband told me that he was going to fire him," said Mrs. Turner. "He

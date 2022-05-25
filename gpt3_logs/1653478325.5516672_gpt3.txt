@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Case of the Stolen Scores
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man's musical scores are stolen, and he enlists the help of a detective to find them.
